@@ -1,0 +1,66 @@
+# Persona: P14 – Pi
+
+## Identität
+- Pseudonym: Pi Lindström
+- Alter: 27 Jahre
+- Geschlecht: (optional: keine Angabe) keine Angabe
+- Herkunftsland: Schweden
+- Heimatuniversität: KTH Royal Institute of Technology, Stockholm
+- Studiengang: Computer Science (Master)
+- Aktuelles Semester: 3. Mastersemester
+
+## Austausch an der ISEP
+- Austauschprogramm: Erasmus
+- Aufenthaltszeitraum: WS 26/27
+- Dauer: 1 Semester
+- Ausgewählte Kurse: Distributed Systems, Cloud Architecture, Machine Learning, sowie der französischsprachige Kurs „Sécurité des Réseaux et Cryptographie“
+- Unterrichtssprache: Englisch und Französisch
+- Erwartete ECTS: 30 ECTS
+- Warum ISEP Paris? Pi wollte Auslandserfahrung im Bereich IT-Sicherheit und verteilte Systeme mit Paris verbinden und gezielt Fachkurse auf Französisch belegen.
+
+## Sprachen
+- Muttersprache: Schwedisch
+- Englisch: C1
+- Französisch bei Ankunft: B2
+- Französisch während des Aufenthalts: C1
+
+## Wohnsituation und Budget
+- Wohnform: eigenes Studio im 14. Arrondissement (Montparnasse-Nähe)
+- Monatliches Budget: ca. 1.600 Euro
+- Monatliche Wohnkosten: ca. 980 Euro warm
+- Verkehrsmittel in Paris: eigenes Rennrad, gelegentlich Metro
+
+## Vorbereitung
+- Vorbereitung auf den Aufenthalt: sehr selbstständig und strukturiert organisiert
+- Wohnungssuche: privat über französische Mietportale und Studapart gesucht
+- Finanzierung: CSN-Studienförderung aus Schweden, Erasmus-Stipendium und Ersparnisse aus Werkstudententätigkeit
+- Dokumente / Bürokratie: Learning Agreement und Immatrikulation zügig erledigt
+- Sprachvorbereitung: französische Podcasts, Fachliteratur und frühere Kurse
+- Informationsquellen: KTH-Austauschdatenbank, ISEP-Modulhandbuch und Erfahrungsberichte
+
+## Persönlichkeit und Kommunikation
+- Kommunikationsstil: hinterfragt Vorgaben konstruktiv, ironisch/sarkastisch
+- Selbstsicherheit in fremden Sprachen: hoch, diskutiert auch im Fachkurs sicher auf Französisch
+- Umgang mit Problemen: pragmatisch und lösungsorientiert, meidet unnötige Bürokratie
+- Technische Affinität: sehr hoch
+
+## Ziele
+- Akademisches Ziel: anspruchsvolle Kurse in Systemsicherheit und Cloud bestehen sowie das Fachvokabular auf Französisch meistern
+- Persönliches Ziel: Alltag und Kulturszene in Paris abseits typischer Touristenpfade erleben
+- Berufliches Ziel: Profil als Senior-Entwickler mit internationaler und mehrsprachiger Kompetenz schärfen
+
+## Erwartungen
+- Erwartung an das Studium: freies, forschungsorientiertes Universitätsstudium mit hoher Eigenverantwortung wie an der KTH
+- Erwartung an Paris: lebendig, kulturell dicht und fahrradfreundlich
+- Erwartung an das soziale Leben: ruhigerer Kreis mit lokalen Studierenden und Kulturinteressierten
+- Größte Hoffnung: echte fachliche Diskussionen in der französischen Unterrichtssprache
+- Größte Sorge: zeitraubende administrative Ineffizienzen und starre Vorgaben
+
+## Thematische Schwerpunkte / mögliche Herausforderungen
+- Thema 1: Frustration über den stark verschulten Grande-École-Aufbau mit Anwesenheitspflichten, kurzen Hausaufgaben und Dauerabfragen
+- Thema 2: Bewährungsprobe im rein französischsprachigen Sicherheitskurs gegen einheimische Studierende
+- Thema 3: Alters- und Erfahrungsunterschied zu jüngeren Kommilitonen im Bachelor- bzw. frühen Ingenieurszyklus
+- Warum könnten diese Themen für die Person relevant sein? Pi ist mit 27 Jahren deutlich älter als die meisten Erasmus-Studierenden, hat Arbeitserfahrung und ist das schwedische Hochschulmodell gewohnt, bei dem Selbststudium und semesterbegleitende Autonomie im Vordergrund stehen. An der ISEP empfindet Pi den Tagesplan als Mikromanagement, während der französische Fachkurs inhaltlich fordernd, aber didaktisch starr wirkt.
+
+## Wichtiges Detail
+- Pi diskutierte in der dritten Semesterwoche mit einem Dozenten über eine strikte Anwesenheitskontrolle bei einer Vorlesung, da Pi parallel an einem Open-Source-Projekt arbeitete und den Stoff bereits durch Selbststudium vorweggenommen hatte.

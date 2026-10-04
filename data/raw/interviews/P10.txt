@@ -1,0 +1,47 @@
+1. Kannst du dich kurz vorstellen und erzählen, warum du dich für ein Erasmus-Semester an der ISEP Paris entschieden hast?
+
+Ich bin Annica, 23 Jahre alt und studiere im fünften Semester Software Design and Cloud Computing an der FH JOANNEUM in Kapfenberg. Ich wollte schon länger für einen längeren Zeitraum ins Ausland und habe mich deshalb für ein Erasmus-Semester entschieden. Paris hat mich wegen der internationalen Umgebung und des großen kulturellen Angebots interessiert. Die ISEP hat außerdem ein gutes Angebot für Informatik, sodass ich dort mein Studium fachlich weiterführen kann. Ursprünglich war ein Semester geplant, aber inzwischen überlege ich, meinen Aufenthalt auf ein ganzes Jahr zu verlängern.
+
+2. Wie verlief deine Vorbereitung auf den Aufenthalt, insbesondere Bewerbung, Anreise und Unterkunftssuche?
+
+Die Erasmus-Bewerbung lief über meine Heimathochschule. Ich musste die üblichen Unterlagen einreichen und mich frühzeitig um das Learning Agreement kümmern. Bei der Unterkunft habe ich mich bewusst gegen eine klassische Wohnung oder WG entschieden und nach einer Au-pair-Stelle gesucht. Dadurch konnte ich die Wohnungssuche vermeiden und gleichzeitig stärker in den französischen Alltag eintauchen. Ich habe über eine Au-pair-Plattform eine Gastfamilie gefunden und mich bereits vor meiner Anreise mit der Familie ausgetauscht. Dabei haben wir vorab besprochen, welche Aufgaben ich übernehmen soll, wie viele Stunden ich arbeite und wann ich freie Zeit für mein Studium habe.
+
+2.1. Was würdest du anderen Studierenden empfehlen, die Erasmus mit einer Au-pair-Stelle verbinden möchten?
+
+Ich würde empfehlen, die Aufgaben und Arbeitszeiten wirklich vor dem Einzug genau zu besprechen. Erasmus und Au-pair lassen sich gut kombinieren, aber beides kostet Zeit und Energie. Für mich ist vor allem die zeitliche Organisation eine Herausforderung, weil ISEP-Aufgaben, Prüfungen und Au-pair-Zeiten zusammenpassen müssen. Deshalb sollte man vorher klären, wie viele Stunden man arbeitet und ob genügend freie Zeit für das Studium bleibt.
+
+3. Wie hast du die ersten Tage und Wochen nach deiner Ankunft in Paris erlebt?
+
+Die ersten Tage waren aufregend, weil gleichzeitig die neue Stadt, die ISEP und das Leben bei der Gastfamilie neu waren. Durch das Wohnen bei einer französischen Familie hatte ich von Anfang an mehr Kontakt mit der französischen Sprache und dem Alltag. Gleichzeitig hatte ich dadurch etwas weniger Privatsphäre als in einer eigenen Wohnung. Für die Orientierung in Paris habe ich hauptsächlich Metro und Bus genutzt und mich am Anfang auch an anderen Erasmus-Studierenden orientiert.
+
+4. Wie liefen Kurswahl, Einschreibung und die Anerkennung deiner ECTS?
+
+Bei der Kurswahl wollte ich nicht zu viele Kurse nehmen, weil ich zusätzlich meine Au-pair-Aufgaben habe. Ich habe mich für Virtualized Architectures, Development of Mobile Applications und Machine Learning entschieden und komme damit auf 17 ECTS. Da mein Französisch zu Beginn noch nicht gut genug für technische Fachkurse war, habe ich hauptsächlich englischsprachige Kurse gewählt. Bei der Auswahl waren für mich sowohl die fachliche Passung zu meinem Studium als auch der erwartete Arbeitsaufwand wichtig. Die Anerkennung habe ich mit meiner Heimathochschule über das Learning Agreement abgestimmt.
+
+5. Wie würdest du Studium, Unterricht und Arbeitsaufwand an der ISEP beschreiben?
+
+Das Studium ist für mich anspruchsvoll, aber grundsätzlich gut machbar. Besonders Machine Learning finde ich fachlich interessant. Neben dem Unterricht gibt es regelmäßig Aufgaben, Übungen und Projekte, sodass man kontinuierlich arbeiten muss. Gerade mit dem Au-pair kann ich deshalb nicht einfach jeden Nachmittag mehrere Stunden in der Bibliothek verbringen. Ich versuche, Aufgaben möglichst früh zu erledigen und nicht bis kurz vor den Abgabeterminen zu warten.
+
+6. Wie sieht eine typische Woche bei dir aus, wenn du Studium, Au-pair, Lernen und Freizeit zusammen betrachtest?
+
+Meine Woche ist ziemlich voll, weil ich Studium und Au-pair miteinander verbinden muss. An der ISEP habe ich meistens an drei bis vier Tagen Unterricht. Dazu kommen Übungen, Projekte und selbstständiges Lernen. Für das Au-pair arbeite ich ungefähr 15 bis 20 Stunden pro Woche, meistens nachmittags oder am frühen Abend. Die Aufgaben für die Uni versuche ich deshalb an freien Vormittagen oder am Wochenende zu erledigen. Für Freizeit bleibt weniger Zeit als bei anderen Erasmus-Studierenden, aber ich versuche trotzdem, ein bis zwei Abende pro Woche freizuhalten und am Wochenende etwas mit Freunden zu unternehmen. Besonders wichtig ist für mich, die Uni-Aufgaben nicht aufzuschieben, weil Studium und Au-pair sonst schnell gleichzeitig zu viel werden.
+
+7. Wie war deine Wohnsituation und wie hast du die Lebenshaltungskosten in Paris erlebt?
+
+Ich habe ein eigenes Zimmer bei meiner Gastfamilie. Durch die Au-pair-Vereinbarung zahle ich keine klassische Miete, sondern übernehme bestimmte Aufgaben und die Betreuung der Kinder. Das ist finanziell natürlich ein großer Vorteil gegenüber einer normalen Wohnung in Paris. Gleichzeitig muss man sich bewusst sein, dass man dadurch weniger unabhängig ist und die Aufgaben und Arbeitszeiten mit dem Studium vereinbaren muss. Bei den sonstigen Ausgaben versuche ich eher sparsam zu sein und viel zu Fuß oder mit der Metro zu machen.
+
+8. Wie hast du Kontakte zu anderen Studierenden und zum Leben in Paris gefunden?
+
+Über die ISEP habe ich relativ schnell andere internationale Studierende kennengelernt. Dadurch hatte ich Kontakte zu Leuten, die ebenfalls neu in Paris waren. Gleichzeitig habe ich durch meine Gastfamilie einen viel stärkeren Kontakt zum französischen Alltag und zur französischen Sprache. Diese Kombination finde ich eigentlich sehr gut, weil ich über die ISEP internationale Kontakte habe, aber durch die Familie auch regelmäßig Französisch spreche.
+
+9. Was war während des Aufenthalts dein größtes Problem oder deine größte Herausforderung?
+
+Die größte Herausforderung ist für mich die Kombination aus Studium und Au-pair. Es gibt Wochen, in denen mehrere Aufgaben oder Projekte an der ISEP gleichzeitig anstehen und ich trotzdem meine Au-pair-Zeiten einhalten muss. Dann habe ich weniger freie Zeit und muss genauer planen. Zusätzlich ist die Sprache manchmal eine Herausforderung, vor allem wenn im Alltag schnell Französisch gesprochen wird.
+
+9.1. Wie hast du versucht, dieses Problem zu lösen, und welche Unterstützung hast du dabei von der ISEP oder anderen Stellen erhalten?
+
+Ich plane meine Woche inzwischen möglichst früh und stimme mich mit der Gastfamilie ab, wenn an der ISEP besonders viel zu tun ist. Für die Sprache versuche ich, möglichst viel Französisch im Alltag zu sprechen, auch wenn ich nicht alles verstehe. Neue Wörter schreibe ich mir auf und versuche, sie später wieder zu verwenden. Bei organisatorischen Fragen zur ISEP kann ich mich an das International Office wenden. Bei fachlichen Problemen helfen mir außerdem die Lehrenden oder andere Studierende.
+
+10. Welchen konkreten Rat würdest du zukünftigen Erasmus-Studierenden an der ISEP Paris geben?
+
+Ich würde zuerst überlegen, welche Art von Aufenthalt man eigentlich möchte. Eine eigene Wohnung oder WG bietet mehr Freiheit und Privatsphäre, während Au-pair finanziell günstiger sein kann und viel Kontakt zum französischen Alltag ermöglicht. Wenn man Au-pair mit Studium verbindet, sollte man die Aufgaben, Arbeitszeiten und freie Zeit unbedingt vorher klären. Für das Studium würde ich eher etwas weniger Kurse wählen und dafür genug Zeit für laufende Aufgaben und Projekte einplanen. Wenn man über eine Verlängerung des Erasmus-Aufenthalts nachdenkt, würde ich mich außerdem möglichst früh über die organisatorischen Voraussetzungen informieren.

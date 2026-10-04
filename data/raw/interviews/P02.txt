@@ -1,0 +1,108 @@
+1. Kannst du dich kurz vorstellen und erzählen, warum du dich für ein Erasmus-Semester an der ISEP Paris entschieden hast?
+Ich bin Luca, 25, aus Italien. Ich studiere in Bologna Computer Science and Engineering im Master und bin für ein Semester an die ISEP gegangen. Mein Schwerpunkt ist eher so Systemarchitektur, Cloud, solche Sachen. Ich programmiere gern, aber ich will auch verstehen, wie das ganze Zeug dahinter zusammenhängt.
+
+Warum Paris? Ehrlich gesagt waren schon Freunde von mir dort. Das hat die Entscheidung ziemlich erleichtert. Ich hatte dadurch nicht dieses Gefühl, komplett allein irgendwo anzufangen. Und eine Studienkollegin war im Jahr davor an der ISEP, mit der habe ich viel gesprochen. Ich habe mich schon ziemlich auf ihre Einschätzung verlassen, statt selbst wochenlang alles zu recherchieren.
+
+Die englischsprachigen IT-Kurse haben dann auch gut gepasst. Französisch konnte ich am Anfang überhaupt nicht, also auf Französisch zu studieren wäre … ja, keine besonders intelligente Idee gewesen. Gleichzeitig wollte ich mal aus Bologna raus. Mir war das Studium dort teilweise zu theoretisch, immer erst sehr viel reden und irgendwann vielleicht etwas bauen. Von der ISEP habe ich mir mehr Projekte und praktische Arbeit versprochen. Und Paris war natürlich auch nicht nur eine akademische Entscheidung. Ich wollte Leute kennenlernen, ausgehen und schauen, ob sich vielleicht ein Kontakt für ein späteres Praktikum ergibt. Aber gute Noten wollte ich trotzdem. Nur zum Feiern bin ich nicht hingegangen.
+
+2. Wie verlief deine Vorbereitung auf den Aufenthalt, insbesondere Bewerbung, Anreise und Unterkunftssuche?
+Also, ich war da eher minimalistisch unterwegs. Meine Studienkollegin war ja schon an der ISEP gewesen, und ich habe sie einfach gefragt: Was muss ich abgeben, worauf muss ich achten, was kann warten? Ich hatte nicht fünf Tabellen mit Fristen oder so. Rückblickend habe ich mich schon sehr darauf verlassen, dass sie mich auf die wichtigen Sachen hinweist.
+
+Bei der Bewerbung musste ich natürlich trotzdem selbst die Unterlagen einreichen und die Kursauswahl mit Bologna abstimmen. Das Learning Agreement habe ich an einem Abend gemacht, dann noch mal korrigiert, weil ich bei einem Kurs unsicher war. War jetzt nichts besonders Dramatisches. Ich wollte vor allem passende IT-Kurse auf Englisch. Einen Französischkurs zur Vorbereitung habe ich nicht gemacht. Ich dachte: Die Uni läuft auf Englisch, den Rest kriege ich schon irgendwie hin. Ein bisschen bequem war das schon.
+
+Die Unterkunft war tatsächlich der einfachste Teil. Über das International Office der ISEP habe ich ein Einzelzimmer in der Maison de l’Inde in der Cité Universitaire bekommen. Es gab da ein Kontingent, und damit musste ich nicht selbst durch irgendwelche Wohnungsanzeigen gehen. 465 Euro im Monat – das passte für mich, also habe ich zugesagt. Das Wohnheim hat auch vieles bei den Formalitäten vereinfacht. Ich hatte Freunde in Paris, aber dauerhaft bei denen unterzukommen war nicht mein Plan. Ein eigenes Zimmer wollte ich schon.
+
+Angereist bin ich mit dem Flugzeug, mit einem großen Koffer und meinem Laptop im Rucksack. Vorher hatte ich einem Freund geschrieben, wie ich vom Flughafen zur Cité komme. Den Weg habe ich mir dann als Screenshot gespeichert. Viel genauer war meine Anreiseplanung nicht, ehrlich gesagt. Wichtig war mir nur, dass ich zu einer Zeit ankomme, zu der ich auch meinen Schlüssel bekomme. Ich hatte keine Lust, am ersten Abend mit dem Koffer vor einer geschlossenen Tür zu stehen.
+
+3. Wie hast du die ersten Tage und Wochen nach deiner Ankunft in Paris erlebt?
+Die ersten Tage war ich ziemlich begeistert. Ich hatte mein Zimmer, kannte schon Leute in Paris und musste nicht erst komplett bei null anfangen. Am ersten Abend wollte ich eigentlich nur auspacken und schlafen, aber dann bin ich doch noch mit einem Freund etwas essen gegangen. Der Koffer stand danach noch zwei Tage halb offen herum.
+
+In der Cité habe ich schnell Leute kennengelernt. Ich bin da nicht besonders schüchtern – wenn in der Gemeinschaftsküche jemand sitzt, rede ich halt mit der Person. Manchmal wurde daraus ein ganzer Abend, manchmal nur ein „Hallo“. Gerade am Anfang habe ich bei ziemlich viel mitgemacht. Irgendwann musste ich mir dann sagen: Luca, du kannst auch mal einen Abend im Zimmer bleiben.
+
+Was ich unterschätzt hatte, war Französisch im Alltag. In der Uni konnte ich Englisch sprechen, draußen nicht immer. Einmal wollte ich in einer Bäckerei etwas bestellen und die Verkäuferin hat eine Rückfrage gestellt. Keine Ahnung, was sie wissen wollte. Ich habe erst „oui“ gesagt, dann gemerkt, dass das offenbar keine Ja-nein-Frage war. Am Ende haben wir auf die Sachen gezeigt. War nicht schlimm, aber mein Plan „Englisch reicht schon“ hatte da ziemlich schnell ein Loch.
+
+Die ersten Wege mit Métro und RER waren auch etwas chaotisch. Ich habe einmal den falschen Ausgang genommen und bin unnötig lange mit dem Handy vor der Nase herumgelaufen. Danach bin ich zu den ersten Uni-Terminen lieber zu früh losgefahren. Ich wollte nicht gleich als der Austauschstudent auftauchen, der zwanzig Minuten zu spät kommt.
+
+An der ISEP war ich vor allem neugierig, wie die Projekte laufen würden. Ich wollte ja nicht nur Paris anschauen, sondern auch wirklich etwas machen. Gleichzeitig waren am Anfang so viele neue Namen, Termine und Eindrücke, dass ich abends manchmal einfach platt war. Heimweh hatte ich nicht sofort stark. Eher so kleine Momente: Du kommst zurück, bist müde und würdest gern mit den Leuten zu Hause am Tisch sitzen, ohne erst erklären zu müssen, wer du bist. Dass schon Freunde in Paris waren, hat mir da wirklich geholfen.
+
+4. Wie liefen Kurswahl, Einschreibung und die Anerkennung deiner ECTS?
+Die Kurswahl hatte ich größtenteils schon vor der Anreise gemacht, wegen des Learning Agreements. Ich hatte Virtualized Architectures, Smart Cities, Risk Management and Audit und das Web Development Project ausgewählt. Architektur und das Webprojekt waren für mich die klarsten Entscheidungen. Bei Risk Management war ich erst nicht so überzeugt – ich wollte eigentlich lieber noch etwas Technisches. Aber ich fand es dann ganz sinnvoll, auch mal die andere Seite kennenzulernen, nicht immer nur implementieren.
+
+Ich habe die Auswahl mit dem zuständigen Ansprechpartner in Bologna abgestimmt. Bei einem Kurs musste ich noch die genauere Beschreibung nachreichen, weil aus dem Titel nicht wirklich hervorging, was wir dort machen würden. Das war die Korrektur, die ich vorhin meinte. Ich habe also nicht einfach vier Namen eingetragen und gehofft, dass es hinterher passt.
+
+Die Einschreibung an der ISEP war dann relativ unspektakulär. Am Anfang war ich nur unsicher, ob meine bestätigte Kurswahl auch schon bedeutete, dass ich überall richtig registriert war. Ich habe im International Office persönlich nachgefragt. Mir ist das lieber, als eine Mail zu schreiben und dann ständig zu schauen, ob schon eine Antwort da ist. Danach musste ich noch kontrollieren, ob ich Zugriff auf die jeweiligen Kursunterlagen hatte.
+
+Geplant waren insgesamt 30 ECTS. Die Anerkennung war vorher über das Learning Agreement abgestimmt, aber endgültig abgeschlossen ist sie noch nicht – das Semester läuft ja noch. Dafür muss am Ende erst die Leistungsübersicht vorliegen. Ich rechne damit, dass die vereinbarten Kurse anerkannt werden, wenn ich sie bestehe. Aber „alles erledigt“ würde ich erst sagen, wenn die Punkte wirklich in Bologna eingetragen sind.
+
+5. Wie würdest du Studium, Unterricht und Arbeitsaufwand an der ISEP beschreiben?
+Bis jetzt finde ich das Studium schon praktischer als in Bologna. Wobei, ich bin erst ein paar Wochen hier, also ich kann noch nicht sagen, wie das am Ende mit allen Abgaben wird. Aber gerade im Web Development Project müssen wir tatsächlich etwas entwickeln, nicht nur darüber reden, wie man es entwickeln könnte. Das gefällt mir. Bei Virtualized Architectures interessiert mich auch der Stoff selbst, da beschäftige ich mich gern länger mit einer Aufgabe.
+
+Der Unterricht ist auf Englisch, damit komme ich gut klar. Manchmal fehlt mir beim Erklären ein genauer Begriff, dann sage ich es eben anders. Ich habe kein Problem damit, eine Frage zu stellen. Was mich eher nervt: Manche sitzen im Unterricht und spielen am Laptop oder hören überhaupt nicht zu. Klar, nicht jede Stunde ist wahnsinnig spannend. Aber wenn der Dozent etwas erklärt, das wir später fürs Projekt brauchen, und danach muss man alles noch mal erzählen … das finde ich schon respektlos.
+
+Bei den Gruppenarbeiten merke ich jetzt schon, dass wir unterschiedliche Vorstellungen haben. Ich möchte eine wirklich gute Note, nicht einfach irgendwie bestehen. Im Webprojekt habe ich deshalb ziemlich schnell angefangen, Aufgaben zu verteilen und das gemeinsame Repository aufzusetzen. Hat mich niemand offiziell zum Teamleiter gemacht. Ich habe einfach gesehen, dass wir sonst erst mal weiter diskutieren, ohne anzufangen.
+
+Das ist aber auch ein bisschen mein eigenes Problem. Wenn mir etwas zu langsam geht, mache ich es schnell selbst. Danach ärgere ich mich, dass ich mehr Arbeit habe. Bei einer ersten Aufgabe habe ich abends noch den Code eines anderen überarbeitet, statt ihm am nächsten Tag zu sagen, was geändert werden muss. War vielleicht schneller, aber auf Dauer kann das nicht so laufen.
+
+Vom Aufwand her ist es bisher machbar. Außerhalb der Kurse arbeite ich regelmäßig an den Aufgaben, aber ich sitze nicht jeden Abend bis Mitternacht da. Ich glaube nur, dass die Projekte später deutlich mehr Zeit fressen werden. Und für die letzten Punkte zu einer sehr guten Note muss ich wahrscheinlich mehr machen, als eigentlich nötig wäre. Das ist dann meine Entscheidung – ich kann nicht erwarten, dass jeder in der Gruppe genauso tickt. Auch wenn mich das manchmal schon nervt.
+
+6. Wie war/ ist deine Wohnsituation und wie hast du die Lebenshaltungskosten in Paris erlebt?
+Ich wohne in einem Einzelzimmer in der Maison de l’Inde, in der Cité Universitaire. Das kostet mich 465 Euro im Monat. Für mein Budget passt das ziemlich gut. Vor allem musste ich nicht wochenlang Wohnungen suchen oder erst mal irgendwo auf einem Sofa schlafen. Das Zimmer ist eher schlicht, aber ich habe meinen eigenen Rückzugsort. Tür zu, Kopfhörer auf, arbeiten – das brauche ich schon manchmal.
+
+Die Küche teile ich mit anderen. Das ist nett, weil man Leute trifft, aber natürlich auch gelegentlich nervig. Du willst schnell kochen und erst mal steht noch schmutziges Geschirr herum. Ich sage dann schon etwas, wenn jemand direkt danebensteht. Ich habe keine Lust, kommentarlos für andere sauber zu machen. Insgesamt fühle ich mich dort aber wohl. Es ist nicht nur ein Ort, an dem ich schlafe.
+
+Ich habe ungefähr 1.200 Euro im Monat zur Verfügung, durch Unterstützung von meinen Eltern und den Erasmus-Zuschuss. Nach der Miete bleiben also etwa 735 Euro für Essen, Verkehr, Ausgehen und den ganzen Kleinkram. Bisher komme ich damit hin. Aber ich muss schon ein bisschen aufpassen, gerade weil ich am Anfang dauernd unterwegs war.
+
+Was sich summiert, sind bei mir weniger die Einkäufe als diese spontanen Sachen: Nach dem Kurs noch etwas essen, abends ein paar Getränke, unterwegs einen Kaffee. Einzeln denkst du: Ach, geht schon. Dann schaust du aufs Konto und denkst: Moment, wofür eigentlich? Ich habe deshalb angefangen, häufiger selbst zu kochen und nicht jedes Mal mitzugehen, wenn jemand Essen bestellt.
+
+Beim Essen bin ich allerdings etwas empfindlich. Ich kaufe lieber vernünftige Zutaten und koche etwas Einfaches, als irgendeine traurige Fertigpasta zu essen. Meine Familie würde mich dafür wahrscheinlich auslachen, aber nach ein paar Wochen habe ich schon angefangen, das Essen zu Hause zu vermissen. Nicht so, dass ich deshalb zurückwill. Nur: Manchmal will ich einfach genau das essen, was ich kenne, und nicht wieder überlegen, wo ich es bekomme.
+
+7. Wie hast du Kontakte zu anderen Studierenden und zum Leben in Paris gefunden?
+Über meine Freunde in Paris hatte ich natürlich einen ziemlich einfachen Einstieg. Die haben mich zu ihren Treffen mitgenommen, und plötzlich kannte ich nicht mehr nur zwei Leute, sondern auch deren Freunde. Das war angenehm, weil ich nicht bei jeder Verabredung erst überlegen musste, ob ich da überhaupt jemanden kenne.
+
+Die meisten neuen Kontakte habe ich aber in der Cité gefunden. Oft wirklich in der Küche. Einer kocht, jemand anderes wartet auf die Herdplatte, man redet – und später sitzt man zusammen beim Essen. Einmal wollte ich nur schnell Pasta machen und bin dann mit ein paar Leuten noch etwas trinken gegangen. Ich musste am nächsten Morgen früh raus. War also nicht meine intelligenteste Entscheidung, aber ein guter Abend.
+
+An der ISEP ging es viel über die Kurse und Projektgruppen. Wobei Projektkontakt nicht automatisch Freundschaft bedeutet. Mit manchen arbeite ich gut zusammen, aber danach gehen wir beide nach Hause. Mit anderen hole ich nach dem Unterricht noch einen Kaffee, und dann redet man auch mal über etwas anderes als Aufgaben und Abgaben. Ich spreche Leute einfach an. Wenn nichts zurückkommt, ist das auch okay.
+
+Mein Freundeskreis hier ist bisher allerdings vor allem international. Mit französischen Studierenden habe ich Kontakt, aber bei einer größeren Runde wird irgendwann Französisch gesprochen, und dann bin ich ziemlich raus. Ich will auch nicht alle fünf Minuten sagen: Könnt ihr bitte wieder Englisch sprechen? Manchmal übersetzt mir jemand kurz etwas, manchmal sitze ich einfach da und versuche, wenigstens den Witz am Gesichtsausdruck zu erkennen. Das nervt mich schon ein bisschen, weil ich normalerweise derjenige bin, der viel redet.
+
+Paris lerne ich eher durch solche Treffen kennen als durch eine Liste mit Sehenswürdigkeiten. Jemand kennt eine Bar, jemand schlägt einen Spaziergang vor, ich fahre mit Métro oder RER hin. Die ersten Wochen habe ich fast überall zugesagt. Inzwischen sortiere ich etwas mehr aus, auch wegen Geld und Uni. Aber ich möchte schon vermeiden, dass mein Paris am Ende nur aus Wohnheim, Hörsaal und Supermarkt besteht.
+
+8. Was war während des Aufenthalts dein größtes Problem oder deine größte Herausforderung?
+Bis jetzt würde ich sagen: die Gruppenarbeit. Nicht weil die Aufgaben zu schwierig sind, sondern weil ich damit klarkommen muss, dass nicht alle denselben Anspruch haben wie ich. Ich will eine sehr gute Note. Andere sagen: Wenn es funktioniert und wir bestehen, reicht doch. Und dann sitzen wir zusammen an einem Projekt – das ist schon eine blöde Kombination manchmal.
+
+Beim Webprojekt hatten wir zum Beispiel vereinbart, dass jeder bis zu unserem nächsten Treffen einen kleinen Teil vorbereitet. Einer hatte dann praktisch nichts gemacht. Er meinte, wir hätten ja noch Zeit. Und ich dachte: Ja, aber wir brauchen deinen Teil, damit wir die anderen Sachen verbinden können. Ich bin da ziemlich direkt geworden. Nicht geschrien oder so, aber man hat mir sicher angesehen, dass ich sauer war.
+
+Mein erster Reflex ist dann, es selbst zu machen. Genau das hatte ich ja bei einer anderen Aufgabe schon gemacht, als ich abends den Code überarbeitet habe. Aber wenn ich das jedes Mal mache, haben wir irgendwann eine Gruppenarbeit, bei der ich alles kontrolliere und die anderen darauf warten. Darauf habe ich auch keinen Bock.
+
+Wir haben deshalb beim nächsten Treffen kleinere Aufgaben und konkrete Termine festgelegt. Nicht mehr „Mach mal diesen Bereich“, sondern wirklich: Was soll bis wann im Repository stehen? Und ich habe gesagt, dass sie früh Bescheid geben sollen, wenn sie nicht weiterkommen. Lieber helfe ich zehn Minuten, als zwei Tage später festzustellen, dass nichts passiert ist.
+
+Ganz gelöst ist das noch nicht. Ich muss auch selbst lernen, nicht jede Lösung umzubauen, nur weil ich es anders machen würde. Das fällt mir ehrlich gesagt schwer. Französisch im Alltag ist auch ein Hindernis, klar. Aber da kann ich zur Not auf etwas zeigen oder jemanden fragen. Bei einer gemeinsamen Note kann ich nicht einfach sagen: Egal, dann nehme ich halt etwas anderes.
+
+8.1. Außerhalb vom Studium ganz klar die Sprache. Nicht unbedingt beim Einkaufen, das kriege ich irgendwie hin. Eher dann, wenn ich wirklich etwas erklären möchte oder bei einem Gespräch dabei sein will. Ich bin eigentlich jemand, der schnell mit Leuten ins Gespräch kommt. Hier stehe ich manchmal daneben und kann gerade mal „bonjour“ und „merci“ beitragen. Das ist schon frustrierend.
+
+Einmal war ich mit einem Freund und ein paar französischen Bekannten in einer Bar. Am Anfang haben wir Englisch gesprochen, später ging es immer mehr ins Französische. Niemand hat mich absichtlich ausgeschlossen, die waren einfach im Gespräch. Aber irgendwann habe ich nur noch an meinem Getränk gesessen. Mein Freund hat zwischendurch übersetzt, nur war der Moment dann meistens schon vorbei. Ich wollte etwas sagen, und die waren längst beim nächsten Thema.
+
+Da habe ich schon gedacht: Okay, gar kein Französisch vorzubereiten war vielleicht doch etwas zu lässig. Ich hatte nur daran gedacht, ob ich dem Unterricht folgen kann, nicht daran, wie ich außerhalb der Uni Anschluss finde.
+
+Inzwischen frage ich öfter, was ein Ausdruck bedeutet, und versuche, kleine Sachen selbst auf Französisch zu sagen. In der Bäckerei klappt das mittlerweile meistens, solange keine unerwartete Rückfrage kommt. Aber ein richtiges Gespräch ist noch etwas völlig anderes. Und wenn ich müde bin, wechsle ich sofort wieder ins Englische. Dann bleibe ich natürlich genau in dieser internationalen Blase, über die ich mich vorher ärgere.
+
+9. Wie hast du versucht, dieses Problem zu lösen, und welche Unterstützung hast du dabei von der ISEP oder anderen Stellen erhalten?
+
+Ich habe erst mal versucht, nicht bei jeder kleinen Schwierigkeit sofort auf Englisch umzuschalten. Also beim Bestellen meinen Satz auf Französisch sagen, die Antwort abwarten und, wenn ich nichts verstehe, um Wiederholung bitten. Vorher habe ich oft schon Englisch gesprochen, bevor die andere Person überhaupt etwas sagen konnte. War bequem, aber so lerne ich natürlich nichts.
+
+Ein Freund hat mir ein paar Sätze aufgeschrieben, die ich tatsächlich brauche. Nicht irgendwelche Beispielsätze über einen Hund im Garten, sondern „Kannst du langsamer sprechen?“ oder „Ich hätte gern …“. Die habe ich auf dem Handy. In der Küche im Wohnheim frage ich auch manchmal nach einzelnen Wörtern. Da ist es mir ziemlich egal, wenn ich etwas falsch ausspreche. Die Leute korrigieren mich, wir lachen kurz, fertig.
+
+Nach dem Abend in der Bar habe ich meinem Freund auch gesagt, dass ich ziemlich raus war. Er hatte das gar nicht so wahrgenommen, weil er zwischendurch übersetzt hatte. Seitdem achtet er etwas mehr darauf, mich wieder ins Gespräch zu holen. Ich will aber nicht, dass er den ganzen Abend mein Dolmetscher ist. Das wäre für uns beide nervig.
+
+Bei der ISEP habe ich im International Office persönlich gefragt, welche Möglichkeiten es für Französisch auf Anfängerniveau gibt. Ich habe Hinweise zu einem Sprachkurs bekommen, aber bisher noch nicht regelmäßig daran teilgenommen. Da muss ich schon ehrlich sein: Die Unterstützung war da, nur habe ich am Anfang den Kurs nicht besonders dringend gefunden. Dann waren wieder Projekttermine und Verabredungen wichtiger.
+
+Am meisten helfen mir bisher also die Leute um mich herum und diese kleinen Alltagssituationen. Für einfache Bestellungen reicht es inzwischen. Um in einer französischen Runde wirklich mitzureden, noch lange nicht. Das ist bisher eher ein Anfang als eine gelöste Sache.
+
+10. Welchen konkreten Rat würdest du zukünftigen Erasmus-Studierenden an der ISEP Paris geben?
+Mein erster Rat wäre: Macht vor der Abreise wenigstens ein bisschen Französisch. Nicht gleich einen riesigen Intensivkurs, aber genug, um etwas zu bestellen, nachzufragen und zu sagen, dass ihr etwas nicht versteht. Ich habe mich auf die englischen Kurse verlassen. Für die Uni funktioniert das, aber beim Abend mit französischen Leuten hilft dir dein gutes Englisch halt nichts, wenn gerade keiner Englisch spricht. Das hätte ich vorher ernster nehmen sollen.
+
+Und fragt früh beim International Office nach einer Unterkunft. Mein Zimmer in der Cité habe ich über die ISEP bekommen, das hat mir wirklich viel Sucherei erspart. Ich würde mich aber nicht darauf verlassen, dass es automatisch klappt, nur weil es bei mir einfach war. Fragt konkret, welche Möglichkeiten es gibt und bis wann ihr zusagen müsst.
+
+Für die Projekte: Sprecht am Anfang darüber, was jeder erreichen will und wer bis wann was macht. Klingt etwas langweilig, ich weiß. Aber lieber zehn Minuten ein unangenehmes Gespräch als später drei Abende allein den Code retten. Und falls ihr so tickt wie ich: Nicht sofort alles selbst übernehmen. Sonst beschwert ihr euch über eine Situation, die ihr auch selbst mit aufgebaut habt.
+
+Was ich genauso machen würde: am Anfang auf Leute zugehen und bei ein paar Sachen mitgehen, auch wenn ich noch niemanden kenne. Gerade die Küche im Wohnheim war dafür super. Nur nicht jeden Abend zusagen. Ich habe ziemlich schnell gemerkt, dass mein Geld und meine Energie nicht ganz so unbegrenzt sind wie meine Lust, unterwegs zu sein.

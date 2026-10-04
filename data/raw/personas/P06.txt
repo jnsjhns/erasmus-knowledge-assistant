@@ -1,0 +1,74 @@
+# Persona: P06
+
+## Identität
+- Pseudonym: Florentin
+- Alter: 22
+- Geschlecht (optional): männlich
+- Herkunftsland: Frankreich
+- Heimatuniversität: Universität in Schweden
+- Studiengang: Bachelor Informatik
+- Aktuelles Semester: 5. Semester
+
+## Austausch an der ISEP
+- Austauschprogramm: Erasmus
+- Aufenthaltszeitraum: SS 2026
+- Dauer: 1 Semester
+- Ausgewählte Kurse:
+  - IG.3510 Machine Learning
+  - II.3524 Software Security
+  - II.3510 Development of Mobile Applications
+- Unterrichtssprache: Englisch
+- Erwartete ECTS: 15
+- Warum ISEP Paris? Er möchte während seines Studiums wieder längere Zeit in Frankreich verbringen und gleichzeitig seine technischen Kenntnisse vertiefen.
+
+## Sprachen
+- Muttersprache: Französisch
+- Englisch: sehr gut
+- Französisch bei Ankunft: sehr gut
+- Französisch während des Aufenthalts: 
+
+## Wohnsituation und Budget
+- Wohnform: eigene kleine Wohnung
+- Monatliches Budget:
+- Monatliche Wohnkosten: knapp 1.000 €
+- Verkehrsmittel in Paris: Métro, Fahrrad und zu Fuß
+- Wohnort: 5. Arrondissement
+
+## Vorbereitung
+- Vorbereitung auf den Aufenthalt:
+- Wohnungssuche:
+- Finanzierung:
+- Dokumente / Bürokratie:
+- Sprachvorbereitung: keine besondere Vorbereitung notwendig
+- Informationsquellen:
+
+## Persönlichkeit und Kommunikation
+- Kommunikationsstil: offen, ruhig und eher pragmatisch
+- Selbstsicherheit in fremden Sprachen: hoch
+- Umgang mit Problemen: versucht zunächst, selbst eine Lösung zu finden
+- Technische Affinität: hoch
+
+## Ziele
+- Akademisches Ziel: Seine Kenntnisse in Informatik erweitern und interessante technische Kurse besuchen.
+- Persönliches Ziel: Paris aus einer anderen Perspektive kennenlernen und wieder stärker mit Frankreich verbunden sein.
+- Berufliches Ziel: 
+
+## Erwartungen
+- Erwartung an das Studium: Er erwartet anspruchsvolle technische Kurse und möchte besonders im Bereich Machine Learning neue Kenntnisse erwerben.
+- Erwartung an Paris: Er kennt Frankreich aus seiner Kindheit, möchte Paris aber erstmals über einen längeren Zeitraum erleben.
+- Erwartung an das soziale Leben: Er möchte sowohl internationale Studierende als auch französische Studierende kennenlernen.
+- Größte Hoffnung: Das Erasmus-Semester mit Studium und einem eigenständigen Leben in Paris gut verbinden zu können.
+- Größte Sorge: 
+
+## Thematische Schwerpunkte / mögliche Herausforderungen
+- Thema 1: Hohe Wohnkosten und Leben im 5. Arrondissement
+- Thema 2: Leben zwischen französischer Herkunft und schwedischem Alltag
+- Thema 3: Studium und technische Kurse
+- Warum könnten diese Themen für die Person relevant sein?
+  - Florentin ist in Frankreich geboren, lebt aber seit seinem 12. Lebensjahr in Schweden.
+  - Obwohl er Französisch als Muttersprache spricht, ist Paris für ihn eine neue Alltagserfahrung.
+  - Die relativ hohen Wohnkosten belasten sein Budget.
+  - Gleichzeitig möchte er die Möglichkeit nutzen, an der ISEP anspruchsvolle Informatikkurse zu besuchen.
+
+## Wichtiges Detail
+- Florentin ist mit 12 Jahren von Frankreich nach Schweden gezogen. Er empfindet sich deshalb nicht eindeutig als „französisch“ oder „schwedisch“ und findet es interessant, während des Erasmus-Aufenthalts wieder länger in Frankreich zu leben.

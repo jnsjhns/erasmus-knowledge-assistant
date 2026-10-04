@@ -1,0 +1,72 @@
+# Persona: P10
+
+## Identität
+- Pseudonym: Annica
+- Alter: 23
+- Geschlecht (optional): weiblich
+- Herkunftsland: Österreich
+- Heimatuniversität: FH JOANNEUM, Campus Kapfenberg
+- Studiengang: Bachelor Software Design and Cloud Computing
+- Aktuelles Semester: 5. Semester
+
+## Austausch an der ISEP
+- Austauschprogramm: Erasmus
+- Aufenthaltszeitraum:
+- Dauer: zunächst 1 Semester; sie bleibt insgesamt ein Jahr in Paris und überlegt, den Erasmus-Aufenthalt eventuell zu verlängern
+- Ausgewählte Kurse:
+  - IT.3503 Virtualized Architectures
+  - II.3510 Development of Mobile Applications
+  - IG.3510 Machine Learning
+- Unterrichtssprache: Englisch
+- Erwartete ECTS: 17
+- Warum ISEP Paris? Sie wollte für längere Zeit im Ausland leben und gleichzeitig ihr Informatikstudium fortsetzen. Paris hat sie besonders wegen der Stadt und des internationalen Umfelds interessiert.
+
+## Sprachen
+- Muttersprache: Deutsch
+- Englisch: gut
+- Französisch bei Ankunft: geringe Kenntnisse
+- Französisch während des Aufenthalts:
+
+## Wohnsituation und Budget
+- Wohnform: Au-pair bei einer französischen Gastfamilie
+- Monatliches Budget:
+- Monatliche Wohnkosten: keine klassische Miete, da sie bei der Gastfamilie wohnt
+- Verkehrsmittel in Paris: Métro und zu Fuß
+
+## Vorbereitung
+- Vorbereitung auf den Aufenthalt:
+- Wohnungssuche: keine klassische Wohnungssuche, da sie sich für ein Au-pair-Modell entschieden hat
+- Finanzierung:
+- Dokumente / Bürokratie:
+- Sprachvorbereitung:
+- Informationsquellen:
+
+## Persönlichkeit und Kommunikation
+- Kommunikationsstil: freundlich, eher ruhig, aber offen gegenüber neuen Menschen
+- Selbstsicherheit in fremden Sprachen: mittel
+- Umgang mit Problemen: versucht zunächst selbst eine Lösung zu finden, fragt bei Bedarf andere Personen
+- Technische Affinität: hoch
+
+## Ziele
+- Akademisches Ziel: Die wichtigsten Inhalte ihres Informatikstudiums weiterführen und die notwendigen ECTS erwerben.
+- Persönliches Ziel: Ein ganzes Jahr in Frankreich verbringen, Französisch verbessern und den Alltag in einer französischen Familie kennenlernen.
+- Berufliches Ziel:
+
+## Erwartungen
+- Erwartung an das Studium: Sie erwartet interessante technische Kurse, möchte ihren Studienfortschritt aber nicht durch zu viele zusätzliche Kurse gefährden.
+- Erwartung an Paris: Sie freut sich darauf, Paris nicht nur als Touristin, sondern über einen längeren Zeitraum als ihren Alltag zu erleben.
+- Erwartung an das soziale Leben: Sie möchte neue internationale Kontakte knüpfen und gleichzeitig durch die Gastfamilie stärker mit dem französischen Alltag in Kontakt kommen.
+- Größte Hoffnung: Das Jahr in Paris gut mit Studium, Au-pair und persönlichem Leben verbinden zu können.
+- Größte Sorge:
+
+## Thematische Schwerpunkte / mögliche Herausforderungen
+- Thema 1: Kombination von Studium und Au-pair
+- Thema 2: Leben bei einer französischen Gastfamilie
+- Thema 3: Verlängerung des Erasmus-Aufenthalts und Organisation eines ganzen Jahres in Paris
+- Warum könnten diese Themen für die Person relevant sein?
+  - Annica möchte insgesamt ein Jahr in Paris verbringen, obwohl ihr Erasmus-Aufenthalt zunächst nur für ein Semester geplant ist.
+  - Durch das Au-pair-Modell hat sie eine besondere Wohn- und Lebenssituation und erlebt den französischen Alltag stärker als viele andere Erasmus-Studierende.
+  - Gleichzeitig möchte sie ihr Informatikstudium nicht vernachlässigen und beschränkt ihre Kursauswahl auf 17 ECTS.
+
+## Wichtiges Detail
+- Annica wohnt bei einer französischen Gastfamilie und hilft dort als Au-pair. Dadurch erlebt sie Paris und den französischen Alltag nicht nur über die Universität, sondern auch innerhalb einer Familie.

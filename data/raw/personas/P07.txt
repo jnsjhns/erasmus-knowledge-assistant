@@ -1,0 +1,72 @@
+# Persona: P07 Krishna
+
+## Identität
+- Pseudonym: Krishna
+- Alter:
+- Geschlecht (optional): männlich
+- Herkunftsland: Italien
+- Heimatuniversität: Universität Bologna
+- Studiengang: Master Informatik / Cybersecurity
+- Aktuelles Semester: 
+
+## Austausch an der ISEP
+- Austauschprogramm: Erasmus
+- Aufenthaltszeitraum: 09/2026 - 01/2027
+- Dauer: 1 Semester
+- Ausgewählte Kurse:
+  - II.3524 Software Security
+  - IT.3503 Virtualized Architectures
+  - II.3502 Distributed Architectures and Programming
+- Unterrichtssprache: Englisch
+- Erwartete ECTS:
+- Warum ISEP Paris? Krishna interessiert sich für die ISEP, weil er sich vorstellen kann, später für ein Masterstudium an die ISEP zu wechseln. Da die Studiengebühren an der ISEP vergleichsweise hoch sind, möchte er die Hochschule zunächst im Rahmen eines Erasmus-Aufenthalts kennenlernen.
+
+## Sprachen
+- Muttersprache: 
+- Englisch: sehr gut
+- Französisch bei Ankunft: keine / sehr geringe Kenntnisse
+- Französisch während des Aufenthalts: 
+
+## Wohnsituation und Budget
+- Wohnform: Studentenwohnheim Maison de l'Inde in der Cité Internationale Universitaire de Paris
+- Monatliches Budget:
+- Monatliche Wohnkosten:
+- Verkehrsmittel in Paris: Métro und zu Fuß
+
+## Vorbereitung
+- Vorbereitung auf den Aufenthalt:
+- Wohnungssuche: Bewerbung um einen Platz in der Maison de l'Inde
+- Finanzierung:
+- Dokumente / Bürokratie:
+- Sprachvorbereitung: keine Französischkenntnisse vor der Ankunft
+- Informationsquellen:
+
+## Persönlichkeit und Kommunikation
+- Kommunikationsstil: interessiert und analytisch, manchmal fordernd/ungeduldig
+- Selbstsicherheit in fremden Sprachen: mittel bis hoch
+- Umgang mit Problemen: sucht aktiv nach Informationen und Lösungen
+- Technische Affinität: hoch
+
+## Ziele
+- Akademisches Ziel: Seine Kenntnisse im Bereich Cybersecurity vertiefen und die Lehrmethoden an der ISEP kennenlernen.
+- Persönliches Ziel: Paris kennenlernen und internationale Kontakte aufbauen.
+- Berufliches Ziel: Sich langfristig im Bereich Cybersecurity weiterentwickeln und herausfinden, ob ein späteres Studium an der ISEP für ihn interessant wäre.
+
+## Erwartungen
+- Erwartung an das Studium: Er erwartet praxisnahe und technisch anspruchsvolle Lehre.
+- Erwartung an Paris: Er möchte Paris als internationalen Studien- und Lebensort kennenlernen.
+- Erwartung an das soziale Leben: Er möchte internationale Studierende kennenlernen und Kontakte zu Menschen mit unterschiedlichen kulturellen Hintergründen aufbauen.
+- Größte Hoffnung: Einen guten Eindruck von der ISEP zu bekommen und herauszufinden, ob ein späterer Wechsel an die Hochschule für ihn sinnvoll wäre.
+- Größte Sorge:
+
+## Thematische Schwerpunkte / mögliche Herausforderungen
+- Thema 1: Vergleich der Lehre zwischen Universität Bologna und ISEP
+- Thema 2: Überlegung, später an die ISEP zu wechseln
+- Thema 3: Leben in einem internationalen Studentenwohnheim
+- Warum könnten diese Themen für die Person relevant sein?
+  - Krishna studiert bereits im Master mit Schwerpunkt Cybersecurity und interessiert sich deshalb besonders für das technische Studienangebot der ISEP.
+  - Die Studiengebühren der ISEP sind für ihn ein wichtiger Faktor bei der Entscheidung für ein mögliches späteres Studium.
+  - Durch Erasmus kann er die Hochschule zunächst kennenlernen, ohne sich direkt für ein reguläres kostenpflichtiges Studium einschreiben zu müssen.
+
+## Wichtiges Detail
+- Krishna hat indische Wurzeln und lebt während seines Erasmus-Aufenthalts in der Maison de l'Inde auf dem Campus der Cité Internationale Universitaire de Paris. Er findet die Lehre an der ISEP überraschend gut und ist besonders von der Art und Weise begeistert, wie die Lehrveranstaltungen gestaltet sind.

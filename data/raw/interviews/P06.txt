@@ -1,0 +1,51 @@
+1. Kannst du dich kurz vorstellen und erzählen, warum du dich für ein Erasmus-Semester an der ISEP Paris entschieden hast?
+
+Ich bin Florentin, 22, und studiere Informatik im Bachelor an einer Uni in Schweden. Ich war im fünften Semester, als ich nach Paris gegangen bin. Ich bin in Frankreich geboren und mit zwölf nach Schweden gezogen. Französisch ist also meine Muttersprache, aber Frankreich kannte ich eigentlich nur aus meiner Kindheit und aus Ferien. Ich wollte wieder länger dort leben und gleichzeitig technisch was lernen. Die ISEP hatte genau die Kurse, die mich interessiert haben, vor allem Machine Learning.
+
+2. Wie verlief deine Vorbereitung auf den Aufenthalt, insbesondere Bewerbung, Anreise und Unterkunftssuche?
+
+Die Bewerbung lief über meine Heimatuni, mit Nomination und dann ein paar Formularen für die ISEP. Das war okay, nur etwas Papierkram. Sprachlich musste ich mich nicht vorbereiten. Die Anreise war unkompliziert, ich bin einfach hingefahren und hatte nicht so viel Gepäck. Die Wohnungssuche war der anstrengendste Teil. Ich wollte keine WG, sondern was Eigenes, und so bin ich in einer kleinen Wohnung im 5. Arrondissement gelandet. Das war ziemlich teuer.
+
+2.1. Wie hast du die Wohnung im 5. Arrondissement gefunden, und was würdest du bei der Wohnungssuche im Nachhinein anders machen?
+
+Ich habe im Internet auf den üblichen Plattformen für möblierte Wohnungen gesucht. Dazu habe ich mir ein paar Angebote angeschaut, die über Bekannte meiner Familie in Frankreich gelaufen sind. Am Ende habe ich eine kleine möblierte Einzimmerwohnung im 5. genommen. Sie war nicht groß, aber die Lage war ideal, weil ich zu Fuß oder mit dem Rad schnell in der Uni war. Ich habe mich ziemlich schnell entschieden, weil gute Wohnungen schnell weg sind und ich nicht ewig in einer Zwischenlösung hängen wollte.
+
+Im Nachhinein war ich da wahrscheinlich zu schnell und hatte zu wenig verglichen. Mit knapp 1.000 € im Monat war das schon die obere Grenze für ein Semester. Ich hätte früher angefangen und auch Viertel angeschaut, die etwas weiter draußen liegen. Dort ist es günstiger, und die Métro ist ja sowieso schnell. Außerdem hätte ich ernsthafter über eine WG oder ein Zimmer nachgedacht. Ich wollte unbedingt meine Ruhe haben, aber das hat mich am Ende doch viel gekostet. Und ich hätte vorher genauer nachgefragt, was in der Miete alles drin ist, also Nebenkosten, Internet und so weiter.
+
+3. Wie hast du die ersten Tage und Wochen nach deiner Ankunft in Paris erlebt?
+
+Seltsam, ehrlich gesagt. Ich habe die Sprache verstanden und mich sofort zurechtgefunden, und trotzdem war alles neu. Ich wusste nicht, wie man hier einen Alltag organisiert, mit Métro-Abo, Supermarkt und so weiter. Ich bin viel zu Fuß gegangen, um das Viertel kennenzulernen. Gleichzeitig hat es sich ein bisschen wie Heimkommen angefühlt, was ich nicht erwartet hatte.
+
+4. Wie liefen Kurswahl, Einschreibung und die Anerkennung deiner ECTS?
+
+Ich habe drei Kurse gewählt: Machine Learning, Software Security und Development of Mobile Applications. Alle waren auf Englisch. Das hat gut gepasst, es sind zusammen 15 ECTS, so wie ich es mit meiner Heimatuni geplant hatte. Die Einschreibung lief ohne große Probleme. Zur endgültigen Anerkennung kann ich noch nichts Genaues sagen, das läuft über meine Uni in Schweden.
+
+5. Wie würdest du Studium, Unterricht und Arbeitsaufwand an der ISEP beschreiben?
+
+Technisch war es anspruchsvoll, so wie ich es mir gewünscht hatte. Machine Learning fand ich am spannendsten. Der Aufwand war spürbar, mit Projekten und Abgaben neben dem Unterricht, aber gut machbar. Es war eher praxisnah. Mit drei Kursen hatte ich auch Zeit für die Stadt.
+
+6. Wie war/ist deine Wohnsituation und wie hast du die Lebenshaltungskosten in Paris erlebt?
+
+Ich hatte meine eigene kleine Wohnung im 5. Arrondissement, mit knapp 1.000 € Miete im Monat. Die Lage ist super, ich konnte viel zu Fuß machen oder mit dem Fahrrad fahren, und die Métro gab es für längere Strecken. Aber das Geld war schon knapp, weil die Miete einen großen Teil vom Budget gefressen hat. Beim Essen und bei den Ausgaben im Alltag musste ich darum aufpassen. Ich habe öfter selbst gekocht, statt auszugehen.
+
+7. Wie hast du Kontakte zu anderen Studierenden und zum Leben in Paris gefunden?
+
+Hauptsächlich über die Kurse und die Projekte, da kommt man leicht ins Gespräch. Ich wollte beides, also internationale und französische Studierende. Mit den Franzosen war es für mich leichter als für viele andere, wegen der Sprache. Durch die eigene Wohnung war ich weniger im Erasmus-Gruppenleben als andere in WGs. Das war okay für mich, ich bin da eher ruhig.
+
+8. Was war während des Aufenthalts dein größtes Problem oder deine größte Herausforderung?
+
+Das Geld, vor allem die Wohnkosten. Dazu kam etwas Innerliches: Ich bin Franzose, aber mein Alltag ist schwedisch. In Paris wurde ich oft als „einer von hier“ behandelt, obwohl ich mich nicht ganz so gefühlt habe. Das war interessant, manchmal auch komisch.
+
+9. Wie hast du versucht, dieses Problem zu lösen, und welche Unterstützung hast du dabei von der ISEP oder anderen Stellen erhalten?
+
+Ich versuche immer erst, Sachen selbst zu lösen. Beim Geld habe ich meine Ausgaben im Blick behalten und gespart, wo es ging, zum Beispiel beim Essen und bei den Wegen mit Fahrrad statt Métro. An der Miete selbst konnte ich nichts ändern. Von der ISEP habe ich dafür keine spezielle Hilfe bekommen, und ich habe auch nicht aktiv danach gefragt. Bei der Identitätsfrage hat mir einfach das Reden mit Leuten geholfen.
+
+9.1. Gab es etwas, das du im Vorfeld bei den Kosten unterschätzt hattest, und wie würdest du dein Budget heute planen?
+
+Ja, vor allem die Nebensachen. Die Miete kannte ich vorher, aber die vielen kleinen Dinge kamen dazu: Kaution, Métro-Abo, Haushaltszeug für die Wohnung und mal ein Kaffee oder ein Essen mit den anderen aus dem Kurs. Einzeln ist das nicht viel, zusammen aber schon. Ich hatte im Kopf eher Schweden-Preise, und in Paris ist alles im Zentrum noch mal einen Tick teurer. Im Supermarkt ging es noch, aber Restaurants und Cafés im 5. sind echt teuer.
+
+Heute würde ich zuerst die festen Kosten abziehen, also Miete und Nahverkehr. Danach würde ich ein festes Wochenbudget fürs Essen und Ausgehen festlegen, statt nur grob zu schätzen. Zusätzlich würde ich einen Puffer von ein paar hundert Euro einplanen, für Unvorhergesehenes. Und ich würde die Miete von Anfang an niedriger ansetzen, weil sie bei mir einfach zu viel vom Budget gefressen hat.
+
+10. Welchen konkreten Rat würdest du zukünftigen Erasmus-Studierenden an der ISEP Paris geben?
+
+Fangt früh mit der Wohnungssuche an und rechnet ehrlich durch, was ihr euch leisten könnt. Eine eigene Wohnung in guter Lage klingt super, ist aber teuer. Eine WG wäre vielleicht günstiger gewesen und hätte mehr Kontakte gebracht. Wählt Kurse, die euch wirklich interessieren, und nutzt die Stadt zu Fuß oder mit dem Rad, denn das spart Geld und macht Spaß.

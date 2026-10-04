@@ -1,0 +1,66 @@
+# Persona: P03 – Sophie
+
+## Identität
+- Pseudonym: Sophie
+- Alter: 26 Jahre
+- Geschlecht (optional): weiblich
+- Herkunftsland: Deutschland
+- Heimatuniversität: Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg)
+- Studiengang: Informatik (Master)
+- Aktuelles Semester: 4. Mastersemester
+
+## Austausch an der ISEP
+- Austauschprogramm: Erasmus+
+- Aufenthaltszeitraum: 07.09.2026 – 31.01.2027
+- Dauer: 1 Semester
+- Ausgewählte Kurse: Advanced Cloud Computing, AI & Decision Support, Human-Computer Interaction, French Language & Culture
+- Unterrichtssprache: Englisch
+- Erwartete ECTS: 20 ECTS (gezielt reduziert gewählt, um Arbeitslast und Remote-Job zu balancieren)
+- Warum ISEP Paris? War privat schon mehrfach im Urlaub in Paris und absolut verliebt in das Flair; die ISEP war das organisatorische Ticket, um legal und gefördert ein halbes Jahr in der Stadt zu leben.
+
+## Sprachen
+- Muttersprache: Deutsch und Slowakisch (zweisprachig aufgewachsen)
+- Englisch: C2 (verhandlungssicher, nutzt es täglich beruflich)
+- Französisch bei Ankunft: A1 (rudimentäre Höflichkeitsfloskeln aus Apps)
+- Französisch während des Aufenthalts: knappes A2 (reicht für Bestellungen, stockt bei Fachdiskussionen)
+
+## Wohnsituation und Budget
+- Wohnform: 3er-WG in Belleville (20. Arrondissement), teilt sich die Wohnung mit einer Französin und einem Spanier
+- Monatliches Budget: ca. 2.100 Euro (dank festem Werkstudentengehalt und Erasmus-Zuschuss sehr komfortabel)
+- Monatliche Wohnkosten: 1.050 Euro warm
+- Verkehrsmittel in Paris: Métro und ein gebrauchtes Rennrad, das sie sich in der ersten Woche über Leboncoin gekauft hat
+
+## Vorbereitung
+- Vorbereitung auf den Aufenthalt: Minimal und impulsiv; vertraute darauf, dass sich organisatorische Dinge vor Ort von selbst regeln
+- Wohnungssuche: Extrem zäh und frustrierend; hat sich lautstark beim International Office der ISEP beschwert, weil deren Wohnheim-Links veraltet waren; fand die WG erst vier Tage vor Abreise über private WG-Gruppen
+- Finanzierung: Festes Einkommen als Remote-Softwareentwicklerin für eine Hamburger Digitalagentur (20h/Woche) plus Erasmus-Mobilitätsbeihilfe
+- Dokumente / Bürokratie: Hat das Learning Agreement mehrfach eigenmächtig umgeschrieben, weil Pflichtvorlesungen mit ihren festen Arbeitsmeetings kollidierten
+- Sprachvorbereitung: Drei Monate sporadisches Vokabeltippen auf Duolingo
+- Informationsquellen: Reddit-Threads (r/paris), Erasmus-WhatsApp-Chats und Expat-Blogs
+
+## Persönlichkeit und Kommunikation
+- Kommunikationsstil: energisch, meinungsstark, neigt zu ausschweifenden Schachtelsätzen und redet gern ohne Punkt und Komma; 
+- Selbstsicherheit in fremden Sprachen: extrem hoch; scheut keine Debatten auf Englisch und wechselt ungeniert ins „Denglish/Franglais“, wenn ihr Vokabeln fehlen
+- Umgang mit Problemen: forsch, konfrontativ und proaktiv; wartet nicht ab, sondern verlangt von Ansprechpartnern sofortige Lösungen
+- Technische Affinität: sehr hoch; arbeitet als Entwicklerin, richtet Entwicklungsumgebungen im Schlaf ein und automatisiert Routinen
+
+## Ziele
+- Akademisches Ziel: Reine Pflichterfüllung – die 20 ECTS irgendwie bestehen, ohne dass das Masterstudium in Hamburg unnötig verlängert wird
+- Persönliches Ziel: Den Einstieg in den Vollzeitberuf aufschieben, das Leben als Pariserin in vollen Zügen genießen und ein internationales Netzwerk an Freundschaften aufbauen
+- Berufliches Ziel: Keine Orientierung in Frankreich nötig, da der Übernahmevertrag bei der Hamburger Agentur bereits unterschrieben vorliegt
+
+## Erwartungen
+- Erwartung an das Studium: Praxisnahe Projekte mit geringem Klausuraufwand, bei denen sie ihr Entwicklungs-Know-how effizient einbringen kann
+- Erwartung an Paris: Lebendige Kulturszene, endlose Café-Besuche, lange Abende an den Ufern der Seine und magische Pariser Weihnachtsmärkte im Dezember
+- Erwartung an das soziale Leben: Tiefe Freundschaften fürs Leben schließen, intensive WG-Abende und gemeinsame Wochenendausflüge
+- Größte Hoffnung: Dass ihr Remote-Arbeitsalltag und das Studentenleben reibungslos nebeneinander herlaufen, ohne dass sie auf Freizeit verzichten muss
+- Größte Sorge: Nasskalter Pariser Winter und schlecht isolierte Altbauwohnungen
+
+## Thematische Schwerpunkte / mögliche Herausforderungen
+- Thema 1: Frust über fehlenden Support des International Office bei administrativen Hürden
+- Thema 2: Kollision von starren Anwesenheitspflichten an der ISEP mit festen Remote-Arbeitszeiten ihrer Agentur
+- Thema 3: Hohes Stresslevel durch die Last-Minute-Wohnungssuche kurz vor Vorlesungsbeginn
+- Warum könnten diese Themen für die Person relevant sein? Sophie duldet Ineffizienz nur schwer. Wenn französische Hochschulbürokratie und unflexible Stundenpläne ihre vertraglichen Arbeitszeiten bedrohen, reagiert sie forsch und fordert Sonderregelungen ein.
+
+## Wichtiges Detail
+- Stand am zweiten Tag nach Semesterbeginn persönlich und sichtlich aufgebracht im Büro des International Office, weil zwei ihrer gewählten Vorlesungen exakt zur selben Zeit wie ihr wöchentliches Agentur-Sprint-Meeting lagen, und handelte mit dem Dozenten energisch eine Ausnahmeregelung zur asynchronen Projektabgabe aus.

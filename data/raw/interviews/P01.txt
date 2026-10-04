@@ -1,0 +1,127 @@
+1. Kannst du dich kurz vorstellen und erzählen, warum du dich für ein Erasmus-Semester an der ISEP Paris entschieden hast?
+Ich bin Florian, 37 Jahre alt, ursprünglich aus Deutschland. Mittlerweile lebe ich in Wien und studiere an der FH Campus Wien Computer Science and Digital Communications, im fünften Semester. Ich bin also etwas später ins Informatikstudium eingestiegen. Vorher habe ich lange gearbeitet, und über die Bildungskarenz konnte ich diesen Wechsel dann angehen.
+
+Paris wollte ich schon bewusst. Einerseits wegen der Stadt, andererseits wegen der Kurse an der ISEP. Advanced Deep Learning und Distributed Programming haben mich besonders interessiert, und dass ich die auf Englisch machen konnte, war wichtig. Auf Französisch hätte ich mir das fachlich nicht zugetraut.
+
+Ich wollte auch einmal für längere Zeit in einer anderen Stadt leben, nicht nur ein Wochenende als Tourist. Museen, Architektur, einfach durch verschiedene Viertel gehen – das interessiert mich schon sehr. Dieses klassische Erasmus-Ding mit möglichst vielen Partys war jetzt nicht mein Hauptgrund. Aber ich wollte natürlich trotzdem Leute kennenlernen und nicht nur in meiner Wohnung sitzen.
+
+1.1. Was hast du zuvor beruflich gemacht?
+Ich war über zehn Jahre im Vertriebs- und Projektmanagement bei einem mittelständischen Großhändler. Das war nicht grundsätzlich schlecht. Ich hatte einen sicheren Job und kannte mich gut aus. Aber irgendwann hat sich vieles wiederholt, und ich habe gemerkt, dass mich andere Aufgaben mehr interessieren.
+
+Bei internen Digitalisierungsprojekten habe ich mich zum Beispiel gern mit den Abläufen und den Daten beschäftigt. Warum machen wir etwas so umständlich? Was könnte man automatisieren? Solche Fragen fand ich spannender als die nächste Preisverhandlung.
+
+Der Schritt ins Studium war trotzdem nicht selbstverständlich. Mit Mitte dreißig noch einmal anzufangen, heißt ja auch, auf einiges zu verzichten. Aber ich wollte nicht nur nebenbei ein bisschen programmieren lernen, sondern mir eine richtige Grundlage aufbauen. Deshalb habe ich mich dann für das Informatikstudium entschieden.
+
+2. Wie verlief deine Vorbereitung auf den Aufenthalt, insbesondere Bewerbung, Anreise und Unterkunftssuche?
+Bei den Unterlagen war ich ziemlich gründlich. Vielleicht stellenweise auch zu gründlich, aber ich wollte bei der Kursanerkennung keine Überraschung erleben. Durch die Bildungskarenz muss ich Studienleistungen nachweisen. Deshalb war mir wichtig, vorher mit der FH Campus Wien abzuklären, welche Kurse passen.
+
+Ich habe die Modulbeschreibungen zusammengesucht und das Learning Agreement abgestimmt. Am Ende waren es 29 ECTS. Im Sommer habe ich außerdem einen A1-Intensivkurs an der Universität Wien gemacht. Mir war klar, dass Englisch für die Lehrveranstaltungen reichen würde, aber vermutlich nicht für alles außerhalb der Hochschule.
+
+Die Unterkunftssuche war deutlich schwieriger. Auf den Wohnungsportalen wurden oft Unterlagen oder ein französischer Bürge verlangt, die ich nicht einfach vorweisen konnte. Irgendwann hatte ich das Gefühl, dass ich mit den normalen Anzeigen nicht wirklich weiterkomme.
+
+Geklappt hat es schließlich über Bekannte. Freunde aus Wien kannten Leute in Paris, die ein möbliertes Studio im 14. Arrondissement vermietet haben. 950 Euro warm, ungefähr 25 Quadratmeter. Viel Geld, aber ich wollte gern allein wohnen und einen vernünftigen Platz zum Arbeiten haben.
+
+Angereist bin ich mit dem Nachtzug von Wien nach Paris. Mit zwei großen Koffern fand ich das angenehm. Nach der Ankunft musste ich noch die Wohnungsversicherung abschließen und mich um die ersten Dinge vor Ort kümmern.
+
+3. Wie hast du die ersten Tage und Wochen nach deiner Ankunft in Paris erlebt?
+Am Anfang war ich vor allem froh, dass die Wohnung tatsächlich geklappt hatte. Ankommen, Schlüssel bekommen, die Koffer abstellen – damit war schon einmal der größte Unsicherheitsfaktor weg. Danach bin ich in ein Bistro in der Nähe gegangen und habe einen Kaffee getrunken. Da kam dann langsam dieses Gefühl: Okay, ich wohne jetzt wirklich hier.
+
+Die ersten Tage waren trotzdem nicht nur entspannt. Es gab einiges zu organisieren: Versicherung, Unterlagen für das CAF-Wohngeld, Bankangelegenheiten und natürlich die Hochschule. Mit meinem Französisch hat das länger gedauert, als ich es von zu Hause gewohnt war. Ich konnte einfache Sachen sagen, aber sobald jemand eine ausführliche Rückfrage gestellt hat, wurde es schwierig.
+
+Die Orientierung an der ISEP hat mir geholfen, mich zurechtzufinden. Bei den Kennenlernveranstaltungen habe ich aber schon gemerkt, dass ich älter bin als die meisten anderen. Manche Veranstaltungen waren nett, bei anderen dachte ich: Das muss ich jetzt nicht unbedingt bis zum Ende mitmachen.
+
+Ich habe dann erst einmal meinen Alltag eingerichtet. Den Weg zur Hochschule ausprobiert, ein Vélib’-Abo besorgt und meinen Arbeitsplatz in der Wohnung aufgebaut. Nach ungefähr zwei Wochen war nicht mehr jede Kleinigkeit neu. Das hat viel ausgemacht.
+
+4. Wie liefen Kurswahl, Einschreibung und die Anerkennung deiner ECTS?
+Die Kurswahl stand größtenteils schon vor der Anreise fest. Ich habe Advanced Deep Learning, Software Security, Distributed Programming, Management Training und Französisch gewählt. Zusammen waren das 29 ECTS.
+
+Für die Anerkennung hatte ich die Inhalte vorher mit meinem Studiengang in Wien abgestimmt. Das war mir wichtiger als nur die Frage, ob ein Kurstitel interessant klingt. Ich wollte wissen, ob die Lehrveranstaltung auch tatsächlich in mein Studium passt.
+
+Die Einschreibung über das Portal der ISEP war insgesamt okay. Unsicher wurde es noch einmal beim Stundenplan: Zwei Labortermine haben sich anfangs überschnitten. Da musste ich direkt vor Ort nachfragen, weil ich nicht einfach regelmäßig bei einem davon fehlen konnte.
+
+Über das International Office und die Modulverantwortlichen konnte ich schließlich in eine andere Laborgruppe wechseln. Es hat etwas Abstimmung gebraucht, aber es ließ sich lösen.
+
+Die Anerkennung in Wien ist damit vorbereitet, aber noch nicht abgeschlossen. Dafür brauche ich am Ende die Leistungsübersicht. Mein Ziel ist, alle vereinbarten Kurse im ersten Anlauf zu bestehen und die Nachweise rechtzeitig einzureichen. Bei einem späteren Prüfungstermin müsste ich klären, was das für meine Bildungskarenz bedeutet. Genau diese Unsicherheit möchte ich vermeiden.
+
+5. Wie würdest du Studium, Unterricht und Arbeitsaufwand an der ISEP beschreiben?
+Fachlich finde ich die Kurse interessant, aber ich muss schon ordentlich arbeiten. Gerade bei Advanced Deep Learning und Distributed Programming kann ich nicht einfach nur in der Vorlesung sitzen und hoffen, dass es danach irgendwie passt. Ich muss die Aufgaben selbst durchgehen und manchmal auch Grundlagen nacharbeiten.
+
+Was mich überrascht hat, war der Umgang im Unterricht. Ich habe ihn bisher strenger erlebt als an meiner Hochschule in Wien. In einer Laborübung wurden zwei Studierende, die ein paar Minuten zu spät kamen, vor dem Kurs ziemlich deutlich zurechtgewiesen und mussten den Raum verlassen. Das fand ich unangenehm. Ich saß da und dachte: Das hätte man auch anders lösen können.
+
+Ich würde daraus jetzt nicht machen, dass alle Lehrenden gleich sind. Aber Anwesenheit und Pünktlichkeit spielen in meinen Kursen schon eine große Rolle.
+
+Der Unterricht auf Englisch funktioniert für mich gut. An einzelne Akzente musste ich mich gewöhnen, aber das ist nicht mein größtes Problem.
+
+Anstrengend ist eher, dass vieles gleichzeitig läuft: Gruppenprojekte, kleinere Tests, Laborberichte. Es gibt nicht nur eine große Prüfung am Ende, auf die man sich irgendwann vorbereitet. Ich muss laufend dranbleiben.
+
+Mit den Gruppenarbeiten komme ich grundsätzlich zurecht. Schwierig wird es, wenn jemand sagt: „Das machen wir kurz vor der Abgabe“, und ich lieber vorher etwas Fertiges sehen möchte. Ich weiß aber auch, dass meine Art nicht automatisch für alle die angenehmste ist. Ich muss aufpassen, dass aus meinem Wunsch nach Planung nicht das Gefühl entsteht, ich würde die anderen kontrollieren.
+
+6. Wie war/ ist deine Wohnsituation und wie hast du die Lebenshaltungskosten in Paris erlebt?
+Ich wohne allein in einem kleinen möblierten Studio im 14. Arrondissement. Es gibt eine Küchenzeile, ein Bad und einen Schreibtisch. Nichts besonders Luxuriöses, aber für mich passt es.
+
+Die eigene Wohnung ist mir wichtiger geworden, als ich vorher gedacht hätte. Wenn ich einen langen Tag an der Hochschule hatte, bin ich froh, abends nicht noch abstimmen zu müssen, wer gerade die Küche braucht oder ob Besuch da ist. Ich kann arbeiten oder einfach meine Ruhe haben.
+
+Natürlich bezahle ich dafür auch entsprechend. Die Miete liegt bei 950 Euro warm. Insgesamt habe ich ungefähr 1.950 Euro im Monat eingeplant, aus dem Weiterbildungsgeld und dem Erasmus-Zuschuss.
+
+Damit komme ich zurecht, aber ich kann nicht ständig essen gehen. Ich koche viel selbst und schaue beim Einkaufen auf die Preise. Gerade bei frischen Lebensmitteln merke ich Unterschiede zu Wien.
+
+CAF-Wohngeld habe ich beantragt, aber bisher noch keine Auszahlung bekommen. Deshalb rechne ich im laufenden Budget nicht damit. Wenn es kommt, hilft es natürlich. Ich wollte aber vermeiden, dass ich die nächste Miete nur bezahlen kann, wenn der Antrag rechtzeitig bearbeitet wird.
+
+Für die Wege nutze ich das Fahrrad und die Métro. Mit dem Vélib’ fahre ich gern, auch weil ich nach einem Tag am Rechner noch etwas Bewegung bekomme. Je nach Strecke und Wetter nehme ich aber genauso die Bahn.
+
+7. Wie hast du Kontakte zu anderen Studierenden und zum Leben in Paris gefunden?
+An der Hochschule vor allem über die Gruppenarbeiten. Da verbringt man ohnehin Zeit miteinander, und irgendwann redet man nicht mehr nur über die Aufgabe.
+
+Mit zwei Kommilitonen gehe ich inzwischen öfter nach dem Unterricht einen Kaffee trinken oder etwas essen. Einer kommt aus Frankreich, der andere ist ein Austauschstudent aus Schweden. Das sind eher kleine Treffen, aber genau das liegt mir.
+
+Der Altersunterschied ist schon da. Ich merke ihn zum Beispiel daran, wie wir unsere Freizeit planen oder über frühere Arbeitserfahrungen sprechen. Aber er ist auch nicht in jedem Gespräch ein Thema. Wir studieren ähnliche Dinge, und darüber findet man schnell einen Zugang.
+
+Bei den großen Erasmus-Abenden war ich seltener dabei. Nicht, weil ich die anderen unsympathisch finde. Mir werden solche lauten Runden nur relativ schnell zu viel.
+
+Außerhalb der Hochschule gehe ich gern in Ausstellungen oder laufe durch die Stadt. Viel mache ich allein, und das finde ich auch angenehm. Gleichzeitig versuche ich im Viertel mein Französisch zu benutzen, beim Bäcker oder auf dem Markt.
+
+Bei einfachen Alltagssachen bin ich sicherer geworden. Ich würde mich inzwischen ungefähr bei A2 einordnen, wobei das nicht heißt, dass jedes Gespräch klappt. Wenn jemand schnell spricht oder vom erwarteten Thema abweicht, bin ich immer noch ziemlich schnell raus.
+
+
+
+8. Was war während des Aufenthalts dein größtes Problem oder deine größte
+   Herausforderung?
+Am schwierigsten finde ich die Kombination aus Studium und Verwaltung. Beides wäre für sich wahrscheinlich gut machbar. Aber wenn mehrere Abgaben anstehen und dann noch eine Rückfrage zum Wohngeld kommt, für die ich wieder Unterlagen zusammensuchen muss, wird es irgendwann zu viel.
+
+Beim Studium setze ich mich auch selbst unter Druck. Ich möchte die Leistungen rechtzeitig abschließen, weil ich die Nachweise für die Bildungskarenz brauche. Dadurch fällt es mir schwer, bei einer Gruppenaufgabe einfach zu sagen: Wird schon irgendwie.
+
+Wenn andere später anfangen möchten, denke ich sofort darüber nach, was alles schiefgehen könnte. Ich versuche, das sachlich anzusprechen. Aber innerlich bin ich nicht immer so gelassen, wie ich vielleicht wirke.
+
+Bei der CAF war eher das Warten schwierig. Man reicht etwas ein und weiß dann längere Zeit nicht, ob es passt oder ob noch etwas fehlt. Mit begrenztem Französisch nachzufragen kostet zusätzlich Überwindung.
+
+Dass ich älter bin als viele andere, spielt da manchmal mit hinein. Ich habe andere Verpflichtungen und denke vielleicht stärker an die Folgen, wenn etwas nicht klappt. Das heißt aber nicht, dass die jüngeren Studierenden grundsätzlich sorglos sind. Manche arbeiten sehr zuverlässig. Es hängt schon von den einzelnen Personen ab.
+
+9. Wie hast du versucht, dieses Problem zu lösen, und welche Unterstützung
+   hast du dabei von der ISEP oder anderen Stellen erhalten?
+Bei den Gruppenarbeiten hilft mir, möglichst früh konkret zu werden. Nicht nur: „Wir sollten bald anfangen“, sondern: Wer übernimmt welchen Teil, und wann schauen wir gemeinsam darauf?
+
+Ich habe dafür zum Beispiel das Repository eingerichtet und eine Struktur für die Dokumentation vorbereitet. So etwas liegt mir durch meine frühere Arbeit. Ich versuche aber, die Aufgaben nicht einfach für alle festzulegen, sondern gemeinsam abzustimmen.
+
+Das klappt nicht immer sofort. Ich muss manchmal auch akzeptieren, dass jemand anders arbeitet als ich und trotzdem rechtzeitig ein gutes Ergebnis liefert.
+
+Bei der Kursüberschneidung hat mir das International Office geholfen. Für die Organisation innerhalb unserer Projektgruppen mussten wir bisher eher selbst eine Lösung finden.
+
+Bei der CAF habe ich irgendwann alle Unterlagen ausgedruckt und bin persönlich zu einer Außenstelle gegangen. Vorher hatte ich mir die wichtigsten Sätze auf Französisch aufgeschrieben.
+
+Im Gespräch stellte sich heraus, dass es ein Missverständnis bei einer Angabe in der Vermieterbescheinigung gab. Das konnte ich dort klären. Die Auszahlung ist damit aber nicht automatisch erledigt; darauf warte ich weiterhin. Immerhin wusste ich danach besser, woran der Antrag gehangen hatte.
+
+Und ganz praktisch hilft mir die Wohnung. Dort kann ich mich zurückziehen und die Sachen in Ruhe sortieren. Außerdem hatte ich mein Budget ohne CAF-Auszahlung geplant. Dadurch ist die Verzögerung ärgerlich, aber nicht sofort ein finanzieller Notfall.
+
+10. Welchen konkreten Rat würdest du zukünftigen Erasmus-Studierenden an der
+    ISEP Paris geben?
+Ich würde zuerst sagen: Kümmert euch früh um die Unterkunft und fragt nicht nur auf den großen Wohnungsportalen. Bei mir hat es über persönliche Kontakte geklappt. Deshalb würde ich auch bei der Hochschule und im eigenen Umfeld nachfragen, selbst wenn man erst einmal denkt, dass dort wahrscheinlich niemand etwas weiß.
+
+Beim Budget würde ich vorsichtig rechnen. Geld, das beantragt ist, aber noch nicht ausgezahlt wurde, würde ich nicht für die nächste Miete einplanen. Mir hat dieser Puffer einiges an Stress erspart.
+
+Für das Studium: Klärt vorher möglichst genau, welche Kurse ihr anerkennen lassen könnt. Und sobald ihr vor Ort seid, schaut nach, ob der Stundenplan tatsächlich funktioniert. Mein Learning Agreement war abgestimmt, trotzdem gab es noch die Überschneidung bei den Laboren.
+
+Bei Gruppenprojekten lohnt es sich, am Anfang über Erwartungen zu sprechen. Ich hätte gern früh Klarheit darüber, wer was übernimmt und wie wir zusammenarbeiten. Gleichzeitig würde ich mir selbst sagen: Du musst nicht jede Kleinigkeit vorgeben, nur weil du schon Berufserfahrung hast.
+
+Und ein bisschen Französisch vor der Abreise würde ich auf jeden Fall wieder machen. Mein A1-Kurs hat nicht alle Probleme gelöst, aber ich musste wenigstens nicht bei jedem Einkauf komplett bei null anfangen.
+
+Was ich genauso machen würde: mir Zeit für die Stadt nehmen. Wenn ich nur zwischen Wohnung und Hochschule unterwegs wäre, hätte ich zwar meine Kurse in Paris absolviert, aber von Paris selbst ziemlich wenig mitbekommen.

@@ -1,0 +1,66 @@
+# Persona:
+
+## Identität
+- Pseudonym:
+- Alter:
+- Geschlecht (optional):
+- Herkunftsland: 
+- Heimatuniversität:
+- Studiengang:
+- Aktuelles Semester:
+
+## Austausch an der ISEP
+- Austauschprogramm: Erasmus
+- Aufenthaltszeitraum:
+- Dauer:
+- Ausgewählte Kurse:
+- Unterrichtssprache:
+- Erwartete ECTS:
+- Warum ISEP Paris?
+
+## Sprachen
+- Muttersprache:
+- Englisch:
+- Französisch bei Ankunft:
+- Französisch während des Aufenthalts:
+
+## Wohnsituation und Budget
+- Wohnform:
+- Monatliches Budget:
+- Monatliche Wohnkosten:
+- Verkehrsmittel in Paris:
+
+## Vorbereitung
+- Vorbereitung auf den Aufenthalt:
+- Wohnungssuche:
+- Finanzierung:
+- Dokumente / Bürokratie:
+- Sprachvorbereitung:
+- Informationsquellen:
+
+## Persönlichkeit und Kommunikation
+- Kommunikationsstil:
+- Selbstsicherheit in fremden Sprachen:
+- Umgang mit Problemen:
+- Technische Affinität:
+
+## Ziele
+- Akademisches Ziel:
+- Persönliches Ziel:
+- Berufliches Ziel:
+
+## Erwartungen
+- Erwartung an das Studium:
+- Erwartung an Paris:
+- Erwartung an das soziale Leben:
+- Größte Hoffnung:
+- Größte Sorge:
+
+## Thematische Schwerpunkte / mögliche Herausforderungen
+- Thema 1:
+- Thema 2:
+- Thema 3:
+- Warum könnten diese Themen für die Person relevant sein?
+
+## Wichtiges Detail
+- Eine konkrete, individuelle Erfahrung oder Eigenheit:

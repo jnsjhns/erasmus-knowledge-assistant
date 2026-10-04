@@ -1,0 +1,68 @@
+{
+  "interview_guide": {
+    "guide_id": "isep_erasmus_v1",
+    "language": "de",
+    "questions": [
+      {
+        "question_id": "q01",
+        "number": 1,
+        "topic": "motivation",
+        "text": "Kannst du dich kurz vorstellen und erzählen, warum du dich für ein Erasmus-Semester an der ISEP Paris entschieden hast?"
+      },
+      {
+        "question_id": "q02",
+        "number": 2,
+        "topic": "preparation",
+        "text": "Wie verlief deine Vorbereitung auf den Aufenthalt, insbesondere Bewerbung, Anreise und Unterkunftssuche?"
+      },
+      {
+        "question_id": "q03",
+        "number": 3,
+        "topic": "arrival",
+        "text": "Wie hast du die ersten Tage und Wochen nach deiner Ankunft in Paris erlebt?"
+      },
+      {
+        "question_id": "q04",
+        "number": 4,
+        "topic": "courses_ects",
+        "text": "Wie liefen Kurswahl, Einschreibung und die Anerkennung deiner ECTS?"
+      },
+      {
+        "question_id": "q05",
+        "number": 5,
+        "topic": "studies",
+        "text": "Wie würdest du Studium, Unterricht und Arbeitsaufwand an der ISEP beschreiben?"
+      },
+      {
+        "question_id": "q06",
+        "number": 6,
+        "topic": "housing_costs",
+        "text": "Wie war/ist deine Wohnsituation und wie hast du die Lebenshaltungskosten in Paris erlebt?"
+      },
+      {
+        "question_id": "q07",
+        "number": 7,
+        "topic": "social_life",
+        "text": "Wie hast du Kontakte zu anderen Studierenden und zum Leben in Paris gefunden?"
+      },
+      {
+        "question_id": "q08",
+        "number": 8,
+        "topic": "challenges",
+        "text": "Was war während des Aufenthalts dein größtes Problem oder deine größte Herausforderung?"
+      },
+      {
+        "question_id": "q09",
+        "number": 9,
+        "topic": "problem_solving",
+        "text": "Wie hast du versucht, dieses Problem zu lösen, und welche Unterstützung hast du dabei von der ISEP oder anderen Stellen erhalten?"
+      },
+      {
+        "question_id": "q10",
+        "number": 10,
+        "topic": "recommendations",
+        "text": "Welchen konkreten Rat würdest du zukünftigen Erasmus-Studierenden an der ISEP Paris geben?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1483 @@
+{
+  "interviews": [
+    {
+      "interview_id": "INT_01",
+      "persona_id": "p01",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P01.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin Florian, 37 Jahre alt, ursprünglich aus Deutschland. Mittlerweile lebe ich in Wien und studiere an der FH Campus Wien Computer Science and Digital Communications, im fünften Semester. Ich bin also etwas später ins Informatikstudium eingestiegen. Vorher habe ich lange gearbeitet, und über die Bildungskarenz konnte ich diesen Wechsel dann angehen.\n Paris wollte ich schon bewusst. Einerseits wegen der Stadt, andererseits wegen der Kurse an der ISEP. Advanced Deep Learning und Distributed Programming haben mich besonders interessiert, und dass ich die auf Englisch machen konnte, war wichtig. Auf Französisch hätte ich mir das fachlich nicht zugetraut.\n Ich wollte auch einmal für längere Zeit in einer anderen Stadt leben, nicht nur ein Wochenende als Tourist. Museen, Architektur, einfach durch verschiedene Viertel gehen – das interessiert mich schon sehr. Dieses klassische Erasmus-Ding mit möglichst vielen Partys war jetzt nicht mein Hauptgrund. Aber ich wollte natürlich trotzdem Leute kennenlernen und nicht nur in meiner Wohnung sitzen.",
+          "answer_id": "p01_q1"
+        },
+        {
+          "number": "1.1",
+          "question_id": null,
+          "question_text": "Was hast du zuvor beruflich gemacht?",
+          "parent_question_id": "q01",
+          "text": "Ich war über zehn Jahre im Vertriebs- und Projektmanagement bei einem mittelständischen Großhändler. Das war nicht grundsätzlich schlecht. Ich hatte einen sicheren Job und kannte mich gut aus. Aber irgendwann hat sich vieles wiederholt, und ich habe gemerkt, dass mich andere Aufgaben mehr interessieren.\n Bei internen Digitalisierungsprojekten habe ich mich zum Beispiel gern mit den Abläufen und den Daten beschäftigt. Warum machen wir etwas so umständlich? Was könnte man automatisieren? Solche Fragen fand ich spannender als die nächste Preisverhandlung.\n Der Schritt ins Studium war trotzdem nicht selbstverständlich. Mit Mitte dreißig noch einmal anzufangen, heißt ja auch, auf einiges zu verzichten. Aber ich wollte nicht nur nebenbei ein bisschen programmieren lernen, sondern mir eine richtige Grundlage aufbauen. Deshalb habe ich mich dann für das Informatikstudium entschieden.",
+          "answer_id": "p01_q1_1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bei den Unterlagen war ich ziemlich gründlich. Vielleicht stellenweise auch zu gründlich, aber ich wollte bei der Kursanerkennung keine Überraschung erleben. Durch die Bildungskarenz muss ich Studienleistungen nachweisen. Deshalb war mir wichtig, vorher mit der FH Campus Wien abzuklären, welche Kurse passen.\n Ich habe die Modulbeschreibungen zusammengesucht und das Learning Agreement abgestimmt. Am Ende waren es 29 ECTS. Im Sommer habe ich außerdem einen A1-Intensivkurs an der Universität Wien gemacht. Mir war klar, dass Englisch für die Lehrveranstaltungen reichen würde, aber vermutlich nicht für alles außerhalb der Hochschule.\n Die Unterkunftssuche war deutlich schwieriger. Auf den Wohnungsportalen wurden oft Unterlagen oder ein französischer Bürge verlangt, die ich nicht einfach vorweisen konnte. Irgendwann hatte ich das Gefühl, dass ich mit den normalen Anzeigen nicht wirklich weiterkomme.\n Geklappt hat es schließlich über Bekannte. Freunde aus Wien kannten Leute in Paris, die ein möbliertes Studio im 14. Arrondissement vermietet haben. 950 Euro warm, ungefähr 25 Quadratmeter. Viel Geld, aber ich wollte gern allein wohnen und einen vernünftigen Platz zum Arbeiten haben.\n Angereist bin ich mit dem Nachtzug von Wien nach Paris. Mit zwei großen Koffern fand ich das angenehm. Nach der Ankunft musste ich noch die Wohnungsversicherung abschließen und mich um die ersten Dinge vor Ort kümmern.",
+          "answer_id": "p01_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Am Anfang war ich vor allem froh, dass die Wohnung tatsächlich geklappt hatte. Ankommen, Schlüssel bekommen, die Koffer abstellen – damit war schon einmal der größte Unsicherheitsfaktor weg. Danach bin ich in ein Bistro in der Nähe gegangen und habe einen Kaffee getrunken. Da kam dann langsam dieses Gefühl: Okay, ich wohne jetzt wirklich hier.\n Die ersten Tage waren trotzdem nicht nur entspannt. Es gab einiges zu organisieren: Versicherung, Unterlagen für das CAF-Wohngeld, Bankangelegenheiten und natürlich die Hochschule. Mit meinem Französisch hat das länger gedauert, als ich es von zu Hause gewohnt war. Ich konnte einfache Sachen sagen, aber sobald jemand eine ausführliche Rückfrage gestellt hat, wurde es schwierig.\n Die Orientierung an der ISEP hat mir geholfen, mich zurechtzufinden. Bei den Kennenlernveranstaltungen habe ich aber schon gemerkt, dass ich älter bin als die meisten anderen. Manche Veranstaltungen waren nett, bei anderen dachte ich: Das muss ich jetzt nicht unbedingt bis zum Ende mitmachen.\n Ich habe dann erst einmal meinen Alltag eingerichtet. Den Weg zur Hochschule ausprobiert, ein Vélib’-Abo besorgt und meinen Arbeitsplatz in der Wohnung aufgebaut. Nach ungefähr zwei Wochen war nicht mehr jede Kleinigkeit neu. Das hat viel ausgemacht.",
+          "answer_id": "p01_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Kurswahl stand größtenteils schon vor der Anreise fest. Ich habe Advanced Deep Learning, Software Security, Distributed Programming, Management Training und Französisch gewählt. Zusammen waren das 29 ECTS.\n Für die Anerkennung hatte ich die Inhalte vorher mit meinem Studiengang in Wien abgestimmt. Das war mir wichtiger als nur die Frage, ob ein Kurstitel interessant klingt. Ich wollte wissen, ob die Lehrveranstaltung auch tatsächlich in mein Studium passt.\n Die Einschreibung über das Portal der ISEP war insgesamt okay. Unsicher wurde es noch einmal beim Stundenplan: Zwei Labortermine haben sich anfangs überschnitten. Da musste ich direkt vor Ort nachfragen, weil ich nicht einfach regelmäßig bei einem davon fehlen konnte.\n Über das International Office und die Modulverantwortlichen konnte ich schließlich in eine andere Laborgruppe wechseln. Es hat etwas Abstimmung gebraucht, aber es ließ sich lösen.\n Die Anerkennung in Wien ist damit vorbereitet, aber noch nicht abgeschlossen. Dafür brauche ich am Ende die Leistungsübersicht. Mein Ziel ist, alle vereinbarten Kurse im ersten Anlauf zu bestehen und die Nachweise rechtzeitig einzureichen. Bei einem späteren Prüfungstermin müsste ich klären, was das für meine Bildungskarenz bedeutet. Genau diese Unsicherheit möchte ich vermeiden.",
+          "answer_id": "p01_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Fachlich finde ich die Kurse interessant, aber ich muss schon ordentlich arbeiten. Gerade bei Advanced Deep Learning und Distributed Programming kann ich nicht einfach nur in der Vorlesung sitzen und hoffen, dass es danach irgendwie passt. Ich muss die Aufgaben selbst durchgehen und manchmal auch Grundlagen nacharbeiten.\n Was mich überrascht hat, war der Umgang im Unterricht. Ich habe ihn bisher strenger erlebt als an meiner Hochschule in Wien. In einer Laborübung wurden zwei Studierende, die ein paar Minuten zu spät kamen, vor dem Kurs ziemlich deutlich zurechtgewiesen und mussten den Raum verlassen. Das fand ich unangenehm. Ich saß da und dachte: Das hätte man auch anders lösen können.\n Ich würde daraus jetzt nicht machen, dass alle Lehrenden gleich sind. Aber Anwesenheit und Pünktlichkeit spielen in meinen Kursen schon eine große Rolle.\n Der Unterricht auf Englisch funktioniert für mich gut. An einzelne Akzente musste ich mich gewöhnen, aber das ist nicht mein größtes Problem.\n Anstrengend ist eher, dass vieles gleichzeitig läuft: Gruppenprojekte, kleinere Tests, Laborberichte. Es gibt nicht nur eine große Prüfung am Ende, auf die man sich irgendwann vorbereitet. Ich muss laufend dranbleiben.\n Mit den Gruppenarbeiten komme ich grundsätzlich zurecht. Schwierig wird es, wenn jemand sagt: „Das machen wir kurz vor der Abgabe“, und ich lieber vorher etwas Fertiges sehen möchte. Ich weiß aber auch, dass meine Art nicht automatisch für alle die angenehmste ist. Ich muss aufpassen, dass aus meinem Wunsch nach Planung nicht das Gefühl entsteht, ich würde die anderen kontrollieren.",
+          "answer_id": "p01_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich wohne allein in einem kleinen möblierten Studio im 14. Arrondissement. Es gibt eine Küchenzeile, ein Bad und einen Schreibtisch. Nichts besonders Luxuriöses, aber für mich passt es.\n Die eigene Wohnung ist mir wichtiger geworden, als ich vorher gedacht hätte. Wenn ich einen langen Tag an der Hochschule hatte, bin ich froh, abends nicht noch abstimmen zu müssen, wer gerade die Küche braucht oder ob Besuch da ist. Ich kann arbeiten oder einfach meine Ruhe haben.\n Natürlich bezahle ich dafür auch entsprechend. Die Miete liegt bei 950 Euro warm. Insgesamt habe ich ungefähr 1.950 Euro im Monat eingeplant, aus dem Weiterbildungsgeld und dem Erasmus-Zuschuss.\n Damit komme ich zurecht, aber ich kann nicht ständig essen gehen. Ich koche viel selbst und schaue beim Einkaufen auf die Preise. Gerade bei frischen Lebensmitteln merke ich Unterschiede zu Wien.\n CAF-Wohngeld habe ich beantragt, aber bisher noch keine Auszahlung bekommen. Deshalb rechne ich im laufenden Budget nicht damit. Wenn es kommt, hilft es natürlich. Ich wollte aber vermeiden, dass ich die nächste Miete nur bezahlen kann, wenn der Antrag rechtzeitig bearbeitet wird.\n Für die Wege nutze ich das Fahrrad und die Métro. Mit dem Vélib’ fahre ich gern, auch weil ich nach einem Tag am Rechner noch etwas Bewegung bekomme. Je nach Strecke und Wetter nehme ich aber genauso die Bahn.",
+          "answer_id": "p01_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "An der Hochschule vor allem über die Gruppenarbeiten. Da verbringt man ohnehin Zeit miteinander, und irgendwann redet man nicht mehr nur über die Aufgabe.\n Mit zwei Kommilitonen gehe ich inzwischen öfter nach dem Unterricht einen Kaffee trinken oder etwas essen. Einer kommt aus Frankreich, der andere ist ein Austauschstudent aus Schweden. Das sind eher kleine Treffen, aber genau das liegt mir.\n Der Altersunterschied ist schon da. Ich merke ihn zum Beispiel daran, wie wir unsere Freizeit planen oder über frühere Arbeitserfahrungen sprechen. Aber er ist auch nicht in jedem Gespräch ein Thema. Wir studieren ähnliche Dinge, und darüber findet man schnell einen Zugang.\n Bei den großen Erasmus-Abenden war ich seltener dabei. Nicht, weil ich die anderen unsympathisch finde. Mir werden solche lauten Runden nur relativ schnell zu viel.\n Außerhalb der Hochschule gehe ich gern in Ausstellungen oder laufe durch die Stadt. Viel mache ich allein, und das finde ich auch angenehm. Gleichzeitig versuche ich im Viertel mein Französisch zu benutzen, beim Bäcker oder auf dem Markt.\n Bei einfachen Alltagssachen bin ich sicherer geworden. Ich würde mich inzwischen ungefähr bei A2 einordnen, wobei das nicht heißt, dass jedes Gespräch klappt. Wenn jemand schnell spricht oder vom erwarteten Thema abweicht, bin ich immer noch ziemlich schnell raus.",
+          "answer_id": "p01_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Herausforderung? Am schwierigsten finde ich die Kombination aus Studium und Verwaltung. Beides wäre für sich wahrscheinlich gut machbar. Aber wenn mehrere Abgaben anstehen und dann noch eine Rückfrage zum Wohngeld kommt, für die ich wieder Unterlagen zusammensuchen muss, wird es irgendwann zu viel.\n Beim Studium setze ich mich auch selbst unter Druck. Ich möchte die Leistungen rechtzeitig abschließen, weil ich die Nachweise für die Bildungskarenz brauche. Dadurch fällt es mir schwer, bei einer Gruppenaufgabe einfach zu sagen: Wird schon irgendwie.\n Wenn andere später anfangen möchten, denke ich sofort darüber nach, was alles schiefgehen könnte. Ich versuche, das sachlich anzusprechen. Aber innerlich bin ich nicht immer so gelassen, wie ich vielleicht wirke.\n Bei der CAF war eher das Warten schwierig. Man reicht etwas ein und weiß dann längere Zeit nicht, ob es passt oder ob noch etwas fehlt. Mit begrenztem Französisch nachzufragen kostet zusätzlich Überwindung.\n Dass ich älter bin als viele andere, spielt da manchmal mit hinein. Ich habe andere Verpflichtungen und denke vielleicht stärker an die Folgen, wenn etwas nicht klappt. Das heißt aber nicht, dass die jüngeren Studierenden grundsätzlich sorglos sind. Manche arbeiten sehr zuverlässig. Es hängt schon von den einzelnen Personen ab.",
+          "answer_id": "p01_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "hast du dabei von der ISEP oder anderen Stellen erhalten? Bei den Gruppenarbeiten hilft mir, möglichst früh konkret zu werden. Nicht nur: „Wir sollten bald anfangen“, sondern: Wer übernimmt welchen Teil, und wann schauen wir gemeinsam darauf?\n Ich habe dafür zum Beispiel das Repository eingerichtet und eine Struktur für die Dokumentation vorbereitet. So etwas liegt mir durch meine frühere Arbeit. Ich versuche aber, die Aufgaben nicht einfach für alle festzulegen, sondern gemeinsam abzustimmen.\n Das klappt nicht immer sofort. Ich muss manchmal auch akzeptieren, dass jemand anders arbeitet als ich und trotzdem rechtzeitig ein gutes Ergebnis liefert.\n Bei der Kursüberschneidung hat mir das International Office geholfen. Für die Organisation innerhalb unserer Projektgruppen mussten wir bisher eher selbst eine Lösung finden.\n Bei der CAF habe ich irgendwann alle Unterlagen ausgedruckt und bin persönlich zu einer Außenstelle gegangen. Vorher hatte ich mir die wichtigsten Sätze auf Französisch aufgeschrieben.\n Im Gespräch stellte sich heraus, dass es ein Missverständnis bei einer Angabe in der Vermieterbescheinigung gab. Das konnte ich dort klären. Die Auszahlung ist damit aber nicht automatisch erledigt; darauf warte ich weiterhin. Immerhin wusste ich danach besser, woran der Antrag gehangen hatte.\n Und ganz praktisch hilft mir die Wohnung. Dort kann ich mich zurückziehen und die Sachen in Ruhe sortieren. Außerdem hatte ich mein Budget ohne CAF-Auszahlung geplant. Dadurch ist die Verzögerung ärgerlich, aber nicht sofort ein finanzieller Notfall.",
+          "answer_id": "p01_q9"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "ISEP Paris geben? Ich würde zuerst sagen: Kümmert euch früh um die Unterkunft und fragt nicht nur auf den großen Wohnungsportalen. Bei mir hat es über persönliche Kontakte geklappt. Deshalb würde ich auch bei der Hochschule und im eigenen Umfeld nachfragen, selbst wenn man erst einmal denkt, dass dort wahrscheinlich niemand etwas weiß.\n Beim Budget würde ich vorsichtig rechnen. Geld, das beantragt ist, aber noch nicht ausgezahlt wurde, würde ich nicht für die nächste Miete einplanen. Mir hat dieser Puffer einiges an Stress erspart.\n Für das Studium: Klärt vorher möglichst genau, welche Kurse ihr anerkennen lassen könnt. Und sobald ihr vor Ort seid, schaut nach, ob der Stundenplan tatsächlich funktioniert. Mein Learning Agreement war abgestimmt, trotzdem gab es noch die Überschneidung bei den Laboren.\n Bei Gruppenprojekten lohnt es sich, am Anfang über Erwartungen zu sprechen. Ich hätte gern früh Klarheit darüber, wer was übernimmt und wie wir zusammenarbeiten. Gleichzeitig würde ich mir selbst sagen: Du musst nicht jede Kleinigkeit vorgeben, nur weil du schon Berufserfahrung hast.\n Und ein bisschen Französisch vor der Abreise würde ich auf jeden Fall wieder machen. Mein A1-Kurs hat nicht alle Probleme gelöst, aber ich musste wenigstens nicht bei jedem Einkauf komplett bei null anfangen.\n Was ich genauso machen würde: mir Zeit für die Stadt nehmen. Wenn ich nur zwischen Wohnung und Hochschule unterwegs wäre, hätte ich zwar meine Kurse in Paris absolviert, aber von Paris selbst ziemlich wenig mitbekommen.",
+          "answer_id": "p01_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_02",
+      "persona_id": "p02",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P02.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin Luca, 25, aus Italien. Ich studiere in Bologna Computer Science and Engineering im Master und bin für ein Semester an die ISEP gegangen. Mein Schwerpunkt ist eher so Systemarchitektur, Cloud, solche Sachen. Ich programmiere gern, aber ich will auch verstehen, wie das ganze Zeug dahinter zusammenhängt.\n Warum Paris? Ehrlich gesagt waren schon Freunde von mir dort. Das hat die Entscheidung ziemlich erleichtert. Ich hatte dadurch nicht dieses Gefühl, komplett allein irgendwo anzufangen. Und eine Studienkollegin war im Jahr davor an der ISEP, mit der habe ich viel gesprochen. Ich habe mich schon ziemlich auf ihre Einschätzung verlassen, statt selbst wochenlang alles zu recherchieren.\n Die englischsprachigen IT-Kurse haben dann auch gut gepasst. Französisch konnte ich am Anfang überhaupt nicht, also auf Französisch zu studieren wäre … ja, keine besonders intelligente Idee gewesen. Gleichzeitig wollte ich mal aus Bologna raus. Mir war das Studium dort teilweise zu theoretisch, immer erst sehr viel reden und irgendwann vielleicht etwas bauen. Von der ISEP habe ich mir mehr Projekte und praktische Arbeit versprochen. Und Paris war natürlich auch nicht nur eine akademische Entscheidung. Ich wollte Leute kennenlernen, ausgehen und schauen, ob sich vielleicht ein Kontakt für ein späteres Praktikum ergibt. Aber gute Noten wollte ich trotzdem. Nur zum Feiern bin ich nicht hingegangen.",
+          "answer_id": "p02_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Also, ich war da eher minimalistisch unterwegs. Meine Studienkollegin war ja schon an der ISEP gewesen, und ich habe sie einfach gefragt: Was muss ich abgeben, worauf muss ich achten, was kann warten? Ich hatte nicht fünf Tabellen mit Fristen oder so. Rückblickend habe ich mich schon sehr darauf verlassen, dass sie mich auf die wichtigen Sachen hinweist.\n Bei der Bewerbung musste ich natürlich trotzdem selbst die Unterlagen einreichen und die Kursauswahl mit Bologna abstimmen. Das Learning Agreement habe ich an einem Abend gemacht, dann noch mal korrigiert, weil ich bei einem Kurs unsicher war. War jetzt nichts besonders Dramatisches. Ich wollte vor allem passende IT-Kurse auf Englisch. Einen Französischkurs zur Vorbereitung habe ich nicht gemacht. Ich dachte: Die Uni läuft auf Englisch, den Rest kriege ich schon irgendwie hin. Ein bisschen bequem war das schon.\n Die Unterkunft war tatsächlich der einfachste Teil. Über das International Office der ISEP habe ich ein Einzelzimmer in der Maison de l’Inde in der Cité Universitaire bekommen. Es gab da ein Kontingent, und damit musste ich nicht selbst durch irgendwelche Wohnungsanzeigen gehen. 465 Euro im Monat – das passte für mich, also habe ich zugesagt. Das Wohnheim hat auch vieles bei den Formalitäten vereinfacht. Ich hatte Freunde in Paris, aber dauerhaft bei denen unterzukommen war nicht mein Plan. Ein eigenes Zimmer wollte ich schon.\n Angereist bin ich mit dem Flugzeug, mit einem großen Koffer und meinem Laptop im Rucksack. Vorher hatte ich einem Freund geschrieben, wie ich vom Flughafen zur Cité komme. Den Weg habe ich mir dann als Screenshot gespeichert. Viel genauer war meine Anreiseplanung nicht, ehrlich gesagt. Wichtig war mir nur, dass ich zu einer Zeit ankomme, zu der ich auch meinen Schlüssel bekomme. Ich hatte keine Lust, am ersten Abend mit dem Koffer vor einer geschlossenen Tür zu stehen.",
+          "answer_id": "p02_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Tage war ich ziemlich begeistert. Ich hatte mein Zimmer, kannte schon Leute in Paris und musste nicht erst komplett bei null anfangen. Am ersten Abend wollte ich eigentlich nur auspacken und schlafen, aber dann bin ich doch noch mit einem Freund etwas essen gegangen. Der Koffer stand danach noch zwei Tage halb offen herum.\n In der Cité habe ich schnell Leute kennengelernt. Ich bin da nicht besonders schüchtern – wenn in der Gemeinschaftsküche jemand sitzt, rede ich halt mit der Person. Manchmal wurde daraus ein ganzer Abend, manchmal nur ein „Hallo“. Gerade am Anfang habe ich bei ziemlich viel mitgemacht. Irgendwann musste ich mir dann sagen: Luca, du kannst auch mal einen Abend im Zimmer bleiben.\n Was ich unterschätzt hatte, war Französisch im Alltag. In der Uni konnte ich Englisch sprechen, draußen nicht immer. Einmal wollte ich in einer Bäckerei etwas bestellen und die Verkäuferin hat eine Rückfrage gestellt. Keine Ahnung, was sie wissen wollte. Ich habe erst „oui“ gesagt, dann gemerkt, dass das offenbar keine Ja-nein-Frage war. Am Ende haben wir auf die Sachen gezeigt. War nicht schlimm, aber mein Plan „Englisch reicht schon“ hatte da ziemlich schnell ein Loch.\n Die ersten Wege mit Métro und RER waren auch etwas chaotisch. Ich habe einmal den falschen Ausgang genommen und bin unnötig lange mit dem Handy vor der Nase herumgelaufen. Danach bin ich zu den ersten Uni-Terminen lieber zu früh losgefahren. Ich wollte nicht gleich als der Austauschstudent auftauchen, der zwanzig Minuten zu spät kommt.\n An der ISEP war ich vor allem neugierig, wie die Projekte laufen würden. Ich wollte ja nicht nur Paris anschauen, sondern auch wirklich etwas machen. Gleichzeitig waren am Anfang so viele neue Namen, Termine und Eindrücke, dass ich abends manchmal einfach platt war. Heimweh hatte ich nicht sofort stark. Eher so kleine Momente: Du kommst zurück, bist müde und würdest gern mit den Leuten zu Hause am Tisch sitzen, ohne erst erklären zu müssen, wer du bist. Dass schon Freunde in Paris waren, hat mir da wirklich geholfen.",
+          "answer_id": "p02_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Kurswahl hatte ich größtenteils schon vor der Anreise gemacht, wegen des Learning Agreements. Ich hatte Virtualized Architectures, Smart Cities, Risk Management and Audit und das Web Development Project ausgewählt. Architektur und das Webprojekt waren für mich die klarsten Entscheidungen. Bei Risk Management war ich erst nicht so überzeugt – ich wollte eigentlich lieber noch etwas Technisches. Aber ich fand es dann ganz sinnvoll, auch mal die andere Seite kennenzulernen, nicht immer nur implementieren.\n Ich habe die Auswahl mit dem zuständigen Ansprechpartner in Bologna abgestimmt. Bei einem Kurs musste ich noch die genauere Beschreibung nachreichen, weil aus dem Titel nicht wirklich hervorging, was wir dort machen würden. Das war die Korrektur, die ich vorhin meinte. Ich habe also nicht einfach vier Namen eingetragen und gehofft, dass es hinterher passt.\n Die Einschreibung an der ISEP war dann relativ unspektakulär. Am Anfang war ich nur unsicher, ob meine bestätigte Kurswahl auch schon bedeutete, dass ich überall richtig registriert war. Ich habe im International Office persönlich nachgefragt. Mir ist das lieber, als eine Mail zu schreiben und dann ständig zu schauen, ob schon eine Antwort da ist. Danach musste ich noch kontrollieren, ob ich Zugriff auf die jeweiligen Kursunterlagen hatte.\n Geplant waren insgesamt 30 ECTS. Die Anerkennung war vorher über das Learning Agreement abgestimmt, aber endgültig abgeschlossen ist sie noch nicht – das Semester läuft ja noch. Dafür muss am Ende erst die Leistungsübersicht vorliegen. Ich rechne damit, dass die vereinbarten Kurse anerkannt werden, wenn ich sie bestehe. Aber „alles erledigt“ würde ich erst sagen, wenn die Punkte wirklich in Bologna eingetragen sind.",
+          "answer_id": "p02_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bis jetzt finde ich das Studium schon praktischer als in Bologna. Wobei, ich bin erst ein paar Wochen hier, also ich kann noch nicht sagen, wie das am Ende mit allen Abgaben wird. Aber gerade im Web Development Project müssen wir tatsächlich etwas entwickeln, nicht nur darüber reden, wie man es entwickeln könnte. Das gefällt mir. Bei Virtualized Architectures interessiert mich auch der Stoff selbst, da beschäftige ich mich gern länger mit einer Aufgabe.\n Der Unterricht ist auf Englisch, damit komme ich gut klar. Manchmal fehlt mir beim Erklären ein genauer Begriff, dann sage ich es eben anders. Ich habe kein Problem damit, eine Frage zu stellen. Was mich eher nervt: Manche sitzen im Unterricht und spielen am Laptop oder hören überhaupt nicht zu. Klar, nicht jede Stunde ist wahnsinnig spannend. Aber wenn der Dozent etwas erklärt, das wir später fürs Projekt brauchen, und danach muss man alles noch mal erzählen … das finde ich schon respektlos.\n Bei den Gruppenarbeiten merke ich jetzt schon, dass wir unterschiedliche Vorstellungen haben. Ich möchte eine wirklich gute Note, nicht einfach irgendwie bestehen. Im Webprojekt habe ich deshalb ziemlich schnell angefangen, Aufgaben zu verteilen und das gemeinsame Repository aufzusetzen. Hat mich niemand offiziell zum Teamleiter gemacht. Ich habe einfach gesehen, dass wir sonst erst mal weiter diskutieren, ohne anzufangen.\n Das ist aber auch ein bisschen mein eigenes Problem. Wenn mir etwas zu langsam geht, mache ich es schnell selbst. Danach ärgere ich mich, dass ich mehr Arbeit habe. Bei einer ersten Aufgabe habe ich abends noch den Code eines anderen überarbeitet, statt ihm am nächsten Tag zu sagen, was geändert werden muss. War vielleicht schneller, aber auf Dauer kann das nicht so laufen.\n Vom Aufwand her ist es bisher machbar. Außerhalb der Kurse arbeite ich regelmäßig an den Aufgaben, aber ich sitze nicht jeden Abend bis Mitternacht da. Ich glaube nur, dass die Projekte später deutlich mehr Zeit fressen werden. Und für die letzten Punkte zu einer sehr guten Note muss ich wahrscheinlich mehr machen, als eigentlich nötig wäre. Das ist dann meine Entscheidung – ich kann nicht erwarten, dass jeder in der Gruppe genauso tickt. Auch wenn mich das manchmal schon nervt.",
+          "answer_id": "p02_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich wohne in einem Einzelzimmer in der Maison de l’Inde, in der Cité Universitaire. Das kostet mich 465 Euro im Monat. Für mein Budget passt das ziemlich gut. Vor allem musste ich nicht wochenlang Wohnungen suchen oder erst mal irgendwo auf einem Sofa schlafen. Das Zimmer ist eher schlicht, aber ich habe meinen eigenen Rückzugsort. Tür zu, Kopfhörer auf, arbeiten – das brauche ich schon manchmal.\n Die Küche teile ich mit anderen. Das ist nett, weil man Leute trifft, aber natürlich auch gelegentlich nervig. Du willst schnell kochen und erst mal steht noch schmutziges Geschirr herum. Ich sage dann schon etwas, wenn jemand direkt danebensteht. Ich habe keine Lust, kommentarlos für andere sauber zu machen. Insgesamt fühle ich mich dort aber wohl. Es ist nicht nur ein Ort, an dem ich schlafe.\n Ich habe ungefähr 1.200 Euro im Monat zur Verfügung, durch Unterstützung von meinen Eltern und den Erasmus-Zuschuss. Nach der Miete bleiben also etwa 735 Euro für Essen, Verkehr, Ausgehen und den ganzen Kleinkram. Bisher komme ich damit hin. Aber ich muss schon ein bisschen aufpassen, gerade weil ich am Anfang dauernd unterwegs war.\n Was sich summiert, sind bei mir weniger die Einkäufe als diese spontanen Sachen: Nach dem Kurs noch etwas essen, abends ein paar Getränke, unterwegs einen Kaffee. Einzeln denkst du: Ach, geht schon. Dann schaust du aufs Konto und denkst: Moment, wofür eigentlich? Ich habe deshalb angefangen, häufiger selbst zu kochen und nicht jedes Mal mitzugehen, wenn jemand Essen bestellt.\n Beim Essen bin ich allerdings etwas empfindlich. Ich kaufe lieber vernünftige Zutaten und koche etwas Einfaches, als irgendeine traurige Fertigpasta zu essen. Meine Familie würde mich dafür wahrscheinlich auslachen, aber nach ein paar Wochen habe ich schon angefangen, das Essen zu Hause zu vermissen. Nicht so, dass ich deshalb zurückwill. Nur: Manchmal will ich einfach genau das essen, was ich kenne, und nicht wieder überlegen, wo ich es bekomme.",
+          "answer_id": "p02_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Über meine Freunde in Paris hatte ich natürlich einen ziemlich einfachen Einstieg. Die haben mich zu ihren Treffen mitgenommen, und plötzlich kannte ich nicht mehr nur zwei Leute, sondern auch deren Freunde. Das war angenehm, weil ich nicht bei jeder Verabredung erst überlegen musste, ob ich da überhaupt jemanden kenne.\n Die meisten neuen Kontakte habe ich aber in der Cité gefunden. Oft wirklich in der Küche. Einer kocht, jemand anderes wartet auf die Herdplatte, man redet – und später sitzt man zusammen beim Essen. Einmal wollte ich nur schnell Pasta machen und bin dann mit ein paar Leuten noch etwas trinken gegangen. Ich musste am nächsten Morgen früh raus. War also nicht meine intelligenteste Entscheidung, aber ein guter Abend.\n An der ISEP ging es viel über die Kurse und Projektgruppen. Wobei Projektkontakt nicht automatisch Freundschaft bedeutet. Mit manchen arbeite ich gut zusammen, aber danach gehen wir beide nach Hause. Mit anderen hole ich nach dem Unterricht noch einen Kaffee, und dann redet man auch mal über etwas anderes als Aufgaben und Abgaben. Ich spreche Leute einfach an. Wenn nichts zurückkommt, ist das auch okay.\n Mein Freundeskreis hier ist bisher allerdings vor allem international. Mit französischen Studierenden habe ich Kontakt, aber bei einer größeren Runde wird irgendwann Französisch gesprochen, und dann bin ich ziemlich raus. Ich will auch nicht alle fünf Minuten sagen: Könnt ihr bitte wieder Englisch sprechen? Manchmal übersetzt mir jemand kurz etwas, manchmal sitze ich einfach da und versuche, wenigstens den Witz am Gesichtsausdruck zu erkennen. Das nervt mich schon ein bisschen, weil ich normalerweise derjenige bin, der viel redet.\n Paris lerne ich eher durch solche Treffen kennen als durch eine Liste mit Sehenswürdigkeiten. Jemand kennt eine Bar, jemand schlägt einen Spaziergang vor, ich fahre mit Métro oder RER hin. Die ersten Wochen habe ich fast überall zugesagt. Inzwischen sortiere ich etwas mehr aus, auch wegen Geld und Uni. Aber ich möchte schon vermeiden, dass mein Paris am Ende nur aus Wohnheim, Hörsaal und Supermarkt besteht.",
+          "answer_id": "p02_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bis jetzt würde ich sagen: die Gruppenarbeit. Nicht weil die Aufgaben zu schwierig sind, sondern weil ich damit klarkommen muss, dass nicht alle denselben Anspruch haben wie ich. Ich will eine sehr gute Note. Andere sagen: Wenn es funktioniert und wir bestehen, reicht doch. Und dann sitzen wir zusammen an einem Projekt – das ist schon eine blöde Kombination manchmal.\n Beim Webprojekt hatten wir zum Beispiel vereinbart, dass jeder bis zu unserem nächsten Treffen einen kleinen Teil vorbereitet. Einer hatte dann praktisch nichts gemacht. Er meinte, wir hätten ja noch Zeit. Und ich dachte: Ja, aber wir brauchen deinen Teil, damit wir die anderen Sachen verbinden können. Ich bin da ziemlich direkt geworden. Nicht geschrien oder so, aber man hat mir sicher angesehen, dass ich sauer war.\n Mein erster Reflex ist dann, es selbst zu machen. Genau das hatte ich ja bei einer anderen Aufgabe schon gemacht, als ich abends den Code überarbeitet habe. Aber wenn ich das jedes Mal mache, haben wir irgendwann eine Gruppenarbeit, bei der ich alles kontrolliere und die anderen darauf warten. Darauf habe ich auch keinen Bock.\n Wir haben deshalb beim nächsten Treffen kleinere Aufgaben und konkrete Termine festgelegt. Nicht mehr „Mach mal diesen Bereich“, sondern wirklich: Was soll bis wann im Repository stehen? Und ich habe gesagt, dass sie früh Bescheid geben sollen, wenn sie nicht weiterkommen. Lieber helfe ich zehn Minuten, als zwei Tage später festzustellen, dass nichts passiert ist.\n Ganz gelöst ist das noch nicht. Ich muss auch selbst lernen, nicht jede Lösung umzubauen, nur weil ich es anders machen würde. Das fällt mir ehrlich gesagt schwer. Französisch im Alltag ist auch ein Hindernis, klar. Aber da kann ich zur Not auf etwas zeigen oder jemanden fragen. Bei einer gemeinsamen Note kann ich nicht einfach sagen: Egal, dann nehme ich halt etwas anderes.",
+          "answer_id": "p02_q8"
+        },
+        {
+          "number": "8.1",
+          "question_id": null,
+          "question_text": "Außerhalb vom Studium ganz klar die Sprache. Nicht unbedingt beim Einkaufen, das kriege ich irgendwie hin. Eher dann, wenn ich wirklich etwas erklären möchte oder bei einem Gespräch dabei sein will. Ich bin eigentlich jemand, der schnell mit Leuten ins Gespräch kommt. Hier stehe ich manchmal daneben und kann gerade mal „bonjour“ und „merci“ beitragen. Das ist schon frustrierend.",
+          "parent_question_id": "q08",
+          "text": "Einmal war ich mit einem Freund und ein paar französischen Bekannten in einer Bar. Am Anfang haben wir Englisch gesprochen, später ging es immer mehr ins Französische. Niemand hat mich absichtlich ausgeschlossen, die waren einfach im Gespräch. Aber irgendwann habe ich nur noch an meinem Getränk gesessen. Mein Freund hat zwischendurch übersetzt, nur war der Moment dann meistens schon vorbei. Ich wollte etwas sagen, und die waren längst beim nächsten Thema.\n Da habe ich schon gedacht: Okay, gar kein Französisch vorzubereiten war vielleicht doch etwas zu lässig. Ich hatte nur daran gedacht, ob ich dem Unterricht folgen kann, nicht daran, wie ich außerhalb der Uni Anschluss finde.\n Inzwischen frage ich öfter, was ein Ausdruck bedeutet, und versuche, kleine Sachen selbst auf Französisch zu sagen. In der Bäckerei klappt das mittlerweile meistens, solange keine unerwartete Rückfrage kommt. Aber ein richtiges Gespräch ist noch etwas völlig anderes. Und wenn ich müde bin, wechsle ich sofort wieder ins Englische. Dann bleibe ich natürlich genau in dieser internationalen Blase, über die ich mich vorher ärgere.",
+          "answer_id": "p02_q8_1"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe erst mal versucht, nicht bei jeder kleinen Schwierigkeit sofort auf Englisch umzuschalten. Also beim Bestellen meinen Satz auf Französisch sagen, die Antwort abwarten und, wenn ich nichts verstehe, um Wiederholung bitten. Vorher habe ich oft schon Englisch gesprochen, bevor die andere Person überhaupt etwas sagen konnte. War bequem, aber so lerne ich natürlich nichts.\n Ein Freund hat mir ein paar Sätze aufgeschrieben, die ich tatsächlich brauche. Nicht irgendwelche Beispielsätze über einen Hund im Garten, sondern „Kannst du langsamer sprechen?“ oder „Ich hätte gern …“. Die habe ich auf dem Handy. In der Küche im Wohnheim frage ich auch manchmal nach einzelnen Wörtern. Da ist es mir ziemlich egal, wenn ich etwas falsch ausspreche. Die Leute korrigieren mich, wir lachen kurz, fertig.\n Nach dem Abend in der Bar habe ich meinem Freund auch gesagt, dass ich ziemlich raus war. Er hatte das gar nicht so wahrgenommen, weil er zwischendurch übersetzt hatte. Seitdem achtet er etwas mehr darauf, mich wieder ins Gespräch zu holen. Ich will aber nicht, dass er den ganzen Abend mein Dolmetscher ist. Das wäre für uns beide nervig.\n Bei der ISEP habe ich im International Office persönlich gefragt, welche Möglichkeiten es für Französisch auf Anfängerniveau gibt. Ich habe Hinweise zu einem Sprachkurs bekommen, aber bisher noch nicht regelmäßig daran teilgenommen. Da muss ich schon ehrlich sein: Die Unterstützung war da, nur habe ich am Anfang den Kurs nicht besonders dringend gefunden. Dann waren wieder Projekttermine und Verabredungen wichtiger.\n Am meisten helfen mir bisher also die Leute um mich herum und diese kleinen Alltagssituationen. Für einfache Bestellungen reicht es inzwischen. Um in einer französischen Runde wirklich mitzureden, noch lange nicht. Das ist bisher eher ein Anfang als eine gelöste Sache.",
+          "answer_id": "p02_q9"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Mein erster Rat wäre: Macht vor der Abreise wenigstens ein bisschen Französisch. Nicht gleich einen riesigen Intensivkurs, aber genug, um etwas zu bestellen, nachzufragen und zu sagen, dass ihr etwas nicht versteht. Ich habe mich auf die englischen Kurse verlassen. Für die Uni funktioniert das, aber beim Abend mit französischen Leuten hilft dir dein gutes Englisch halt nichts, wenn gerade keiner Englisch spricht. Das hätte ich vorher ernster nehmen sollen.\n Und fragt früh beim International Office nach einer Unterkunft. Mein Zimmer in der Cité habe ich über die ISEP bekommen, das hat mir wirklich viel Sucherei erspart. Ich würde mich aber nicht darauf verlassen, dass es automatisch klappt, nur weil es bei mir einfach war. Fragt konkret, welche Möglichkeiten es gibt und bis wann ihr zusagen müsst.\n Für die Projekte: Sprecht am Anfang darüber, was jeder erreichen will und wer bis wann was macht. Klingt etwas langweilig, ich weiß. Aber lieber zehn Minuten ein unangenehmes Gespräch als später drei Abende allein den Code retten. Und falls ihr so tickt wie ich: Nicht sofort alles selbst übernehmen. Sonst beschwert ihr euch über eine Situation, die ihr auch selbst mit aufgebaut habt.\n Was ich genauso machen würde: am Anfang auf Leute zugehen und bei ein paar Sachen mitgehen, auch wenn ich noch niemanden kenne. Gerade die Küche im Wohnheim war dafür super. Nur nicht jeden Abend zusagen. Ich habe ziemlich schnell gemerkt, dass mein Geld und meine Energie nicht ganz so unbegrenzt sind wie meine Lust, unterwegs zu sein.",
+          "answer_id": "p02_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_03",
+      "persona_id": "p03",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P03.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin Sophie, 26, komme aus Deutschland und studiere im vierten Semester Informatik im Master an der HAW Hamburg. Ich bin zweisprachig aufgewachsen, also Deutsch und Slowakisch, und arbeite nebenbei remote als Softwareentwicklerin für eine Digitalagentur in Hamburg, 20 Stunden die Woche. Warum Paris? Ehrlich gesagt, ich war privat schon so oft im Urlaub dort und bin einfach komplett verliebt in die Stadt. Die ISEP war für mich sozusagen das organisatorische Ticket, um mal ein halbes Jahr legal, gefördert und ohne schlechtes Gewissen dort zu leben. Fachlich war das nicht der Hauptgrund, das gebe ich offen zu. Ich wollte den Einstieg ins Vollzeitleben noch ein bisschen rausschieben, der Vertrag bei der Agentur ist eh schon unterschrieben.",
+          "answer_id": "p03_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Minimal und ziemlich impulsiv, würde ich sagen. Ich hab mir gedacht, das regelt sich vor Ort schon irgendwie, und das war, na ja, nur so halb richtig. Beim Learning Agreement hab ich ständig umgeplant, weil einige Pflichtvorlesungen mit meinen festen Arbeitsmeetings kollidiert sind, und ich hab es mehrfach selber umgeschrieben. Französisch hab ich drei Monate lang sporadisch auf Duolingo getippt, das war's. Infos hab ich mir aus Reddit-Threads, Erasmus-WhatsApp-Gruppen und Expat-Blogs zusammengesucht.\n Die Unterkunftssuche war der absolute Horror. Die Wohnheim-Links vom International Office waren veraltet, da hab ich mich auch ziemlich deutlich beschwert. Ich hab dann über private WG-Gruppen gesucht und die WG erst vier Tage vor Abreise gefunden. Das war echt knapp und ich war ziemlich gestresst.",
+          "answer_id": "p03_q2"
+        },
+        {
+          "number": "2.1",
+          "question_id": null,
+          "question_text": "Was genau war bei den Links veraltet, und wie hast du dann schließlich deine WG gefunden?",
+          "parent_question_id": "q02",
+          "text": "Also, die Links waren in der Infomail vom International Office, die ich bekommen hab, und da standen ein paar Wohnheime und Unterkunftsportale drin. Bei manchen kam einfach eine Fehlerseite oder die Seite gab's gar nicht mehr unter der Adresse. Bei anderen bin ich zwar auf einer Seite gelandet, aber da stand dann irgendwas von einer Bewerbungsphase, die längst vorbei war. Oder ich hab nicht rausgefunden, ob man sich als Austauschstudentin überhaupt noch bewerben kann. Ob die Info generell falsch war oder nur nicht aktualisiert, kann ich dir gar nicht sagen, ich hab dann nur noch aufgeregt eine Mail geschrieben. Ich war da ehrlich gesagt ziemlich sauer, weil ich in der Situation einfach schnell eine Antwort gebraucht hätte. Eine richtige Lösung kam von denen nicht, nur so ein Hinweis, dass ich mich selbst auch umschauen soll. Ob die Wohnheime wirklich komplett voll waren, weiß ich also nicht, ich hab das nicht weiterverfolgt.\n Dann hab ich eben auf eigene Faust gesucht, über Reddit, die Erasmus-WhatsApp-Gruppen und private WG-Gruppen auf Facebook und so. Das war extrem zäh, ich hab gefühlt dutzende Leute angeschrieben, viele haben gar nicht geantwortet, und bei anderen war das Zimmer schon weg, bis ich überhaupt reagiert hab. Und ein paar Anzeigen sahen für mich einfach komisch aus, da hatte ich keine Lust, Geld zu überweisen, ohne die Wohnung gesehen zu haben. Besichtigen vor Ort ging ja auch nicht, ich war ja noch in Hamburg. Dann, vier Tage vor meiner Abreise, hat's endlich geklappt, über eine private WG-Gruppe. Die beiden Mitbewohner haben mit mir per Videocall gesprochen, wir haben uns offenbar sympathisch gefunden, und dann war das Zimmer in Belleville meins. Das war echt knapp, ich hatte schon überlegt, die ersten Tage in irgendeinem Hostel oder Airbnb zu überbrücken.",
+          "answer_id": "p03_q2_1"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Wild, aber irgendwie auch toll. Ich bin am 7. September angekommen, hab mich in der WG eingerichtet und mir in der ersten Woche über Leboncoin ein gebrauchtes Rennrad gekauft, das war eine der besten Entscheidungen. Parallel hab ich ja weiter gearbeitet, also Laptop auf, Meetings, dazwischen Metro-Chaos und Orientierung. Mein Französisch hat für Bestellungen im Café gereicht, aber sobald jemand schneller geredet hat, hab ich einfach auf Englisch oder so ein Franglais-Mischmasch umgeschaltet. Am zweiten Tag nach Semesterbeginn hatte ich dann gleich den ersten Stress, aber dazu komme ich später bestimmt noch.",
+          "answer_id": "p03_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich hab vier Kurse gewählt: Advanced Cloud Computing, AI & Decision Support, Human-Computer Interaction und French Language & Culture. Das sind insgesamt 20 ECTS, mit Absicht eher reduziert, damit ich den Job und das Studium unter einen Hut kriege. Die Kurswahl selbst war okay, aber wie gesagt, das Learning Agreement hab ich mehrmals geändert, weil sich Zeiten überschnitten haben. Zur Anerkennung zuhause kann ich noch nicht viel sagen, das kommt ja erst nach dem Semester. Ich hoffe einfach, dass die 20 ECTS ohne Probleme durchgehen, weil ich mein Masterstudium nicht unnötig verlängern will. Ob da noch was hakt, weiß ich ehrlich gesagt nicht.",
+          "answer_id": "p03_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Unterricht ist auf Englisch, das ist für mich super, weil ich Englisch eh täglich im Job nutze. Ich hatte gehofft auf praxisnahe Projekte und wenig Klausuren, und so ungefähr scheint es auch zu sein, aber ich bin erst ein paar Wochen drin, also will ich da nicht zu früh urteilen. Was mich nervt, sind die Anwesenheitszeiten, die sind für mich mit Arbeit ziemlich unflexibel. Der Aufwand ist mit den 20 ECTS machbar, aber es ist schon eine Mischung aus Uni, Job und Stadt genießen, und da muss ich aufpassen, dass es nicht zu viel wird. Im Französischkurs merke ich, dass ich bei allem Fachlichen sofort ins Stocken komme, ich bin so knapp bei A2.",
+          "answer_id": "p03_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich wohne in einer 3er-WG in Belleville, im 20. Arrondissement, mit einer Französin und einem Spanier. Das ist echt nett, lebendig, viel los abends. Mein Zimmer kostet 1.050 Euro warm, das ist schon happig, aber für Paris wohl nicht ungewöhnlich. Insgesamt habe ich ca. 2.100 Euro im Monat zur Verfügung, durch das Werkstudentengehalt und den Erasmus-Zuschuss. Dadurch ist es bei mir komfortabel, ich muss nicht jeden Euro umdrehen. Wenn ich nur vom Zuschuss leben müsste, wäre es dagegen ziemlich eng, das sieht man bei anderen hier. Ich fahre viel Rad und Métro, Essen und Cafés gehen schnell ins Geld, aber das ist mir egal. Meine Sorge ist eher der Winter, die Altbauwohnung ist bestimmt schlecht isoliert, mal sehen, wie kalt es wird.",
+          "answer_id": "p03_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Zum einen über die Erasmus-WhatsApp-Gruppen und die Leute aus meinen Kursen, zum anderen über die WG. Meine Mitbewohner haben mich direkt zu Abenden mit ihren Freunden mitgenommen, das ist super, weil man dadurch nicht nur in der Erasmus-Blase hängt. Ich bin auch nicht schüchtern, ich quatsche einfach drauflos, notfalls halt in Denglish oder Franglais. Ich will tiefe Freundschaften aufbauen, nicht nur oberflächliche, ob das klappt, sehe ich bis Januar. Ansonsten viel Rad fahren durch die Stadt, Cafés, abends an der Seine sitzen, das ist genau das, was ich mir erhofft hatte.",
+          "answer_id": "p03_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bis jetzt eindeutig die Kollision von Vorlesungszeiten mit meinen Arbeitszeiten. Zwei meiner gewählten Vorlesungen lagen exakt zur selben Zeit wie mein wöchentliches Sprint-Meeting bei der Agentur, und das kann ich nicht einfach schwänzen, weil das mein fester Job ist. Dazu kam der ganze Stress mit der Wohnungssuche davor, der hat mich echt Nerven gekostet. Und generell das Gefühl, dass das International Office bei Verwaltungskram nicht so richtig hilft, das hat mich ehrlich aufgeregt.",
+          "answer_id": "p03_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin am zweiten Tag nach Semesterbeginn direkt persönlich ins International Office gegangen, ziemlich aufgebracht, das gebe ich zu. Ich hab erklärt, dass ich zwei Termine nicht wahrnehmen kann und eine Lösung brauche. Hilfreich war das Büro dabei eher begrenzt, ehrlich gesagt. Also hab ich den Dozenten direkt angesprochen und mit ihm ausgehandelt, dass ich die Projektabgabe asynchron machen darf. Das hat dann geklappt, er war da zum Glück flexibel. Ob das für das ganze Semester so durchgeht oder ob es nochmal Ärger gibt, weiß ich nicht sicher, ich hoffe es einfach. Bei der Wohnung hab ich mir komplett selbst geholfen, über private WG-Gruppen.",
+          "answer_id": "p03_q9"
+        },
+        {
+          "number": "9.1",
+          "question_id": null,
+          "question_text": "Wie genau hast du den Dozenten angesprochen, und wie hat er auf deinen Vorschlag reagiert?",
+          "parent_question_id": "q09",
+          "text": "Ich bin nach dem Büro vom International Office direkt zu ihm gegangen, also nicht erst per Mail, weil ich keine Lust hatte, tagelang auf eine Antwort zu warten. Ich hab ihn nach der Vorlesung abgefangen, als die meisten schon raus waren, und hab ziemlich direkt gesagt: \"Ich hab ein Problem, weil dein Kurs genau mit meinem festen Arbeitsmeeting kollidiert, ich kann das nicht verschieben, ich arbeite nebenbei remote.\" Dann hab ich gleich einen Vorschlag hinterhergeschoben, damit es nicht nur nach Jammern klingt: dass ich die Projektabgabe asynchron machen könnte, also die Inhalte selbst nachhole und meine Ergebnisse digital einreiche, statt immer live dabei zu sein. Ich hab da bestimmt ein bisschen schnell und mit viel Energie geredet, mein Englisch ist ja kein Problem, und wenn mir mal ein Wort gefehlt hat, kam halt ein französisches rein.\n Er war erst kurz skeptisch und hat gefragt, wie ich mir das konkret vorstelle und ob ich die Gruppenarbeit dann nicht blockiere. Ich hab ihm erklärt, dass ich meinen Teil flexibel liefern kann, ich bin ja Entwicklerin, ich organisiere mich da selbst. Dann hat er ziemlich pragmatisch gesagt, okay, solange das Ergebnis passt und ich erreichbar bin, geht das. Ich glaube, es hat geholfen, dass ich nicht einfach gefordert, sondern was vorgeschlagen hab. Ob das schriftlich irgendwo festgehalten ist, weiß ich ehrlich gesagt nicht genau. Ich hab ihm danach noch eine kurze Mail geschickt, zur Sicherheit, aber ich bin nicht sicher, ob das offiziell zählt.",
+          "answer_id": "p03_q9_1"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Fangt mit der Wohnungssuche viel früher an und verlasst euch nicht auf die Links vom International Office, die waren bei mir veraltet. Private WG-Gruppen sind meiner Erfahrung nach der bessere Weg, aber rechnet mit Stress. Schaut euch eure Stundenpläne genau an, bevor ihr das Learning Agreement abgebt, vor allem wenn ihr nebenbei arbeitet, und sprecht direkt mit den Dozenten, wenn was kollidiert. Die waren bei mir offener als gedacht. Und kauft euch ein gebrauchtes Rad, zum Beispiel über Leboncoin, das hat mir in Paris richtig viel gebracht. Ein bisschen Französisch vorher mehr als nur Duolingo-Vokabeln wäre auch nicht schlecht gewesen.",
+          "answer_id": "p03_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_04",
+      "persona_id": "p04",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P04.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich heiße Lucia, bin 24 Jahre alt und komme aus Spanien. Ich studiere im Bachelor an der Universität Sevilla und bin für ein ganzes Studienjahr nach Paris gegangen. Ich wollte schon länger einmal für längere Zeit in Paris leben und die Stadt nicht nur als Touristin kennenlernen. Außerdem wollte ich internationale Erfahrungen sammeln und selbstständiger werden. Die ISEP hat für mich gut gepasst, weil es dort viele englischsprachige Kurse gibt und ich mein Studium dadurch auch während des Auslandsaufenthalts weiterführen konnte.",
+          "answer_id": "p04_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Bewerbung lief über meine Heimatuniversität und das Erasmus-Programm. Ich musste mich relativ früh um das Learning Agreement, Versicherungen und weitere Dokumente kümmern. Die Unterkunft war für mich zunächst die größte Unsicherheit. Eine private Wohnung in Paris war mir zu teuer und die Wohnungssuche aus Spanien heraus erschien mir kompliziert. Deshalb habe ich mich für ein CROUS-Wohnheim beworben.\n Die Bewerbung dafür habe ich möglichst früh gemacht, weil ich gehört hatte, dass die Plätze begrenzt sind. Als die Zusage kam, war ich erleichtert, weil ich dadurch schon vor der Anreise wusste, wo ich wohnen würde. Für die Anreise selbst habe ich nicht viel organisiert, aber ich war trotzdem nervös, weil ich nur wenig Französisch konnte.",
+          "answer_id": "p04_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Wochen waren aufregend, aber auch ziemlich anstrengend. Ich musste mich gleichzeitig an die ISEP, das Wohnheim und die Stadt gewöhnen. Paris ist viel größer und hektischer als Sevilla, und am Anfang habe ich häufig länger gebraucht, um mit der Métro von einem Ort zum anderen zu kommen.\n Im Wohnheim habe ich relativ schnell andere internationale Studierende kennengelernt. Das hat sehr geholfen, weil viele in einer ähnlichen Situation waren. Trotzdem war ich anfangs eher zurückhaltend. Wenn Gespräche länger wurden oder viele Leute gleichzeitig gesprochen haben, habe ich auf Englisch nicht immer alles verstanden.",
+          "answer_id": "p04_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Kurswahl war für mich komplizierter als erwartet. Ich musste zuerst herausfinden, welche ISEP-Kurse fachlich zu meinem Studium in Sevilla passen und wie viele ECTS ich jeweils bekomme. Die Kursbeschreibungen haben mir dabei geholfen, aber teilweise waren sie nicht detailliert genug, um sicher zu sagen, ob ein Kurs später anerkannt wird.\n Deshalb habe ich die Kurse mit den Anforderungen meiner Heimatuniversität verglichen und bei meiner Erasmus-Koordinatorin nachgefragt. Bei einigen Kursen musste ich die Inhalte genauer erklären oder zusätzliche Informationen zur ISEP weitergeben. Am Ende habe ich lieber einen Kurs gewählt, bei dem die Anerkennung vorher relativ klar war, statt einen interessanteren Kurs zu nehmen, bei dem ich ein Risiko gesehen habe.",
+          "answer_id": "p04_q4"
+        },
+        {
+          "number": "4.1",
+          "question_id": null,
+          "question_text": "Bei welchen organisatorischen Fragen hattest du besonders Schwierigkeiten, und an wen hast du dich dafür gewandt?",
+          "parent_question_id": "q04",
+          "text": "Am schwierigsten war für mich die Kombination aus Kurswahl, Einschreibung und Anerkennung. Ich hatte teilweise Informationen von der ISEP und von meiner Universität in Sevilla, und nicht immer war sofort klar, welche Information für mich gerade entscheidend war.\n Ich habe deshalb gelernt, nicht nur allgemein zu fragen, ob alles passt, sondern sehr konkrete Fragen zu stellen. Zum Beispiel habe ich meiner Koordinatorin genau geschrieben, welchen ISEP-Kurs ich belegen möchte und für welches Modul in Sevilla ich ihn anerkennen lassen will. So konnte sie mir viel einfacher sagen, ob das funktioniert.\n Wenn es um die Einschreibung an der ISEP ging, habe ich mich an das International Office gewandt. Wenn es um die spätere Anerkennung ging, war meine Universität in Sevilla zuständig. Das war manchmal etwas mühsam, weil ich zwischen beiden Seiten Informationen abstimmen musste.",
+          "answer_id": "p04_q4_1"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Das Studium war schwieriger, als ich vor meiner Anreise erwartet hatte. Ich hatte gedacht, dass der englische Unterricht kein großes Problem sein würde, weil ich mich im Alltag auf Englisch gut verständigen kann. Bei technischen Fachbegriffen und längeren Erklärungen war es aber etwas anderes.\n Während einer Vorlesung habe ich manchmal verstanden, worum es grundsätzlich geht, aber einzelne Details nicht. Deshalb musste ich viele Inhalte später noch einmal selbst bearbeiten. Ich habe Vorlesungsfolien zusammengefasst, unbekannte Fachbegriffe übersetzt und teilweise zusätzliche Erklärungen im Internet gesucht.\n Besonders hilfreich war für mich KI, wenn ich einen technischen Begriff oder ein Konzept zwar grundsätzlich kannte, aber die Erklärung aus der Vorlesung nicht vollständig verstanden hatte. Ich konnte mir den Inhalt dann in einfacheren Worten erklären lassen und anschließend mit den eigentlichen Kursunterlagen vergleichen.",
+          "answer_id": "p04_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe in einem CROUS-Wohnheim gewohnt. Für mich war das vor allem deshalb praktisch, weil ich dadurch bereits vor meiner Anreise eine Unterkunft hatte und mich nicht mit privaten Vermietern, Besichtigungen oder komplizierten Mietverträgen beschäftigen musste.\n Das Zimmer war relativ klein und eher funktional eingerichtet. Küche und teilweise auch andere Bereiche habe ich mit anderen Studierenden geteilt. Dafür waren die Kosten deutlich niedriger als bei vielen privaten Wohnungen in Paris.\n Bei den Lebenshaltungskosten habe ich vor allem unterschätzt, wie schnell sich kleinere Ausgaben summieren. Essen gehen, Kaffee, Aktivitäten und spontane Fahrten waren einzeln nicht extrem teuer, aber über einen Monat kam einiges zusammen. Deshalb habe ich angefangen, häufiger selbst zu kochen und meine Ausgaben etwas genauer zu verfolgen.",
+          "answer_id": "p04_q6"
+        },
+        {
+          "number": "6.1",
+          "question_id": null,
+          "question_text": "Würdest du das CROUS-Wohnheim auch anderen Erasmus-Studierenden empfehlen? Was waren für dich die wichtigsten Vor- und Nachteile?",
+          "parent_question_id": "q06",
+          "text": "Ja, besonders wenn das Budget begrenzt ist oder man nicht viel Zeit in die private Wohnungssuche investieren möchte. Für mich war der größte Vorteil, dass die Unterkunft schon vor der Anreise geklärt war. Dadurch hatte ich weniger Stress und musste mich in den ersten Wochen nicht zusätzlich um eine Wohnung kümmern.\n Ein weiterer Vorteil war, dass dort viele andere Studierende gewohnt haben. Dadurch war es einfacher, erste Kontakte zu knüpfen.\n Der Nachteil ist, dass man weniger Komfort und Privatsphäre hat. Mein Zimmer war klein und die Gemeinschaftsbereiche wurden von mehreren Personen genutzt. Man muss außerdem mit den Regeln des Wohnheims und mit unterschiedlichen Gewohnheiten der anderen Bewohner klarkommen.\n Wenn mir vor allem eine günstige und unkomplizierte Unterkunft wichtig wäre, würde ich CROUS wieder wählen. Wenn ich mehr Platz und Privatsphäre wollte und ein höheres Budget hätte, würde ich eher nach einer privaten Wohnung oder einer guten WG suchen.",
+          "answer_id": "p04_q6_1"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Kontakte habe ich hauptsächlich über andere Erasmus- und internationale Studierende gefunden. Am Anfang war das für mich einfacher, weil alle neu waren und niemand erwartet hat, dass man perfekt Englisch spricht.\n Ich habe versucht, bei Aktivitäten mitzumachen, auch wenn ich anfangs eher ruhig war. Besonders gut funktioniert hat es, regelmäßig mit denselben Leuten etwas zu unternehmen. Dadurch sind aus ersten Kontakten langsam Freundschaften entstanden.\n Paris selbst habe ich vor allem mit anderen Studierenden erkundet. Wir waren in verschiedenen Vierteln, Museen und Cafés und haben auch einfach Spaziergänge durch die Stadt gemacht. Dadurch habe ich Paris nach und nach eher als meinen Alltag und nicht mehr nur als touristische Stadt erlebt.",
+          "answer_id": "p04_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Meine größte Herausforderung war die Kombination aus Studium, Sprache und Heimweh. Gerade am Anfang hat mich der Unterricht viel Energie gekostet, weil ich mich sehr konzentrieren musste, um auf Englisch alle wichtigen Informationen mitzubekommen.\n Nach einigen Monaten kam dann noch das Heimweh stärker dazu. Ich hatte vorher gedacht, dass ein ganzes Studienjahr einfach nur eine längere Version eines Erasmus-Semesters sein würde. Tatsächlich war es emotional etwas anderes, weil man viel länger von Familie und Freunden getrennt ist.\n Wenn ich nach einem anstrengenden Studientag nach Hause kam und zusätzlich das Gefühl hatte, im Unterricht nicht alles verstanden zu haben, habe ich mich manchmal eher zurückgezogen. Dadurch wurde es natürlich schwieriger, neue Kontakte zu pflegen.",
+          "answer_id": "p04_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bei den fachlichen Problemen habe ich zunächst versucht, selbstständig Lösungen zu finden. Ich habe Vorlesungsunterlagen noch einmal durchgearbeitet, zusätzliche Quellen gesucht und KI genutzt, wenn mir ein Konzept oder ein Fachbegriff nicht klar war. Das hat meistens gut funktioniert, solange ich schon ungefähr verstanden hatte, worum es ging.\n Wenn ich organisatorische Fragen hatte, habe ich mich an das International Office der ISEP oder meine Erasmus-Koordinatorin in Sevilla gewandt. Anfangs habe ich manchmal zu allgemein gefragt und dadurch nicht die Antwort bekommen, die ich eigentlich gebraucht hätte. Später habe ich meine Fragen konkreter formuliert und möglichst direkt angegeben, welchen Kurs oder welches Dokument es betrifft.\n Gegen das Heimweh hat mir vor allem geholfen, regelmäßig mit meiner Familie zu telefonieren, aber gleichzeitig meinen Alltag in Paris nicht aufzugeben. Ich habe versucht, mich auch dann mit anderen zu verabreden, wenn ich eigentlich lieber zu Hause geblieben wäre.",
+          "answer_id": "p04_q9"
+        },
+        {
+          "number": "9.1",
+          "question_id": null,
+          "question_text": "Du hast KI und zusätzliche Materialien genutzt, wenn du Inhalte aus den Vorlesungen nicht verstanden hast. Für welche Probleme hat dir das besonders geholfen, und wo waren die Grenzen?",
+          "parent_question_id": "q09",
+          "text": "Am meisten geholfen hat mir KI bei Fachbegriffen und Konzepten, die ich inhaltlich eigentlich verstehen konnte, aber deren englische Erklärung zu kompliziert für mich war. Ich konnte zum Beispiel einen Abschnitt aus den Kursunterlagen nehmen und mir die Idee dahinter einfacher erklären lassen. Danach konnte ich wieder mit den eigentlichen Unterlagen weiterarbeiten.\n Ich würde KI aber nicht als Ersatz für die Vorlesung oder die Kursunterlagen verwenden. Manchmal war die Erklärung zu allgemein oder hat wichtige Details weggelassen. Deshalb habe ich die Antworten immer mit den Folien oder anderen Quellen verglichen. Für mich war KI eher ein zusätzliches Werkzeug, um eine sprachliche oder fachliche Verständnisbarriere schneller zu überwinden.",
+          "answer_id": "p04_q9_1"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich würde mich sehr früh um die Unterkunft und die wichtigsten Dokumente kümmern. Gerade bei der Unterkunft würde ich nicht darauf warten, dass sich kurz vor der Abreise noch etwas ergibt. Wenn das Budget begrenzt ist, würde ich CROUS auf jeden Fall als Möglichkeit prüfen.\n Bei der Kurswahl würde ich nicht nur darauf achten, ob ein Kurs interessant klingt, sondern vorher klären, ob er wirklich zur eigenen Studienrichtung passt und anerkannt wird. Dabei würde ich mir wichtige Informationen schriftlich bestätigen lassen.\n Für das Studium würde ich außerdem von Anfang an zusätzliche Zeit für die sprachliche Vorbereitung einplanen. Auch wenn man auf Englisch grundsätzlich gut zurechtkommt, sind technische Fachbegriffe noch einmal etwas anderes.\n Und beim sozialen Teil würde ich nicht darauf warten, dass man automatisch Anschluss findet. Gerade wenn man eher zurückhaltend ist, hilft es, regelmäßig an Aktivitäten teilzunehmen und Kontakte aktiv weiterzuführen. Nach ein paar Wochen wird vieles deutlich einfacher.",
+          "answer_id": "p04_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_05",
+      "persona_id": "p05",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P05.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich heiße Ahmed, bin 25 und komme ursprünglich aus Algerien. Momentan mache ich meinen Master an der Universität Turin. Für mein Erasmus-Semester habe ich mich bewusst für die ISEP in Paris entschieden, weil ich Frankreich schon länger kennenlernen wollte – nicht nur als Tourist, sondern richtig im Alltag. Gleichzeitig überlege ich, nach dem Studium vielleicht in Frankreich zu arbeiten. Da dachte ich, ein Semester hier ist die perfekte Gelegenheit, um zu sehen, wie das so läuft, und vielleicht auch schon erste Kontakte zu knüpfen.",
+          "answer_id": "p05_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Bewerbung lief eigentlich ganz smooth. An meiner Heimatuni in Turin gab es ein Erasmus-Büro, das hat die meisten Formalitäten übernommen. Ich musste Motivationsschreiben, Notenspiegel und so Zeug einreichen, dann kam relativ schnell die Zusage.\n Bei der Unterkunftssuche war’s schon stressiger. Ich wollte nicht zu viel Miete zahlen, aber gleichzeitig auch nicht total am Rand wohnen. Hab dann über verschiedene Facebook-Gruppen und WG-Gesuche gesucht und am Ende ein Zimmer in einer WG im 13. Arrondissement gefunden. Die Anreise war dann relativ unkompliziert – Flug von Turin nach Paris, dann mit der RER direkt in die Stadt.",
+          "answer_id": "p05_q2"
+        },
+        {
+          "number": "2.1",
+          "question_id": null,
+          "question_text": "Was war für dich bei der Wohnungssuche am schwierigsten, und was hat dir letztendlich geholfen, eine Unterkunft zu finden?",
+          "parent_question_id": "q02",
+          "text": "Bei der Wohnungssuche war für mich am schwierigsten, dass es extrem schnell gehen muss in Paris. Du siehst eine Anzeige, schreibst eine Nachricht, und wenn du nicht innerhalb von ein paar Stunden antwortest oder die Unterlagen schickst, ist das Zimmer schon weg. Das war für mich neu – in Turin lief das alles viel entspannter.\n Was mich zusätzlich genervt hat: Viele Vermieter wollen französische Bürgen oder mindestens drei Monatsmieten im Voraus. Als Erasmus-Student ohne französisches Einkommen bist du da natürlich im Nachteil. Ich hab ein paar Absagen bekommen, einfach weil ich keine französischen Garantien vorlegen konnte.\n Was mir letztendlich geholfen hat: Ich hab mich auf WG-Gesuche konzentriert, wo private Untervermieter suchen, nicht große Agenturen. Die sind oft flexibler, was Dokumente angeht. Außerdem hab ich meine Bewerbungsmappe auf Französisch vorbereitet – Anschreiben, Lebenslauf, Scholastic Records, alles kompakt in einer PDF. Das hat professioneller gewirkt.\n Am Ende war es ein Zimmer in einer WG im 13. Arrondissement, das über eine Facebook-Gruppe für internationale Studierende ausgeschrieben war. Der Hauptmieter war selbst Ausländer, hat die Situation verstanden und war bereit, mich ohne französische Bürgschaft zu nehmen. Ich musste nur die erste Miete plus Kaution im Voraus zahlen. War nicht billig, aber besser als nichts.\n Im Nachhinein würde ich sagen: Sei schnell, hab alle Unterlagen bereit, und such eher bei privaten Vermietern oder WGs statt bei großen Agenturen. Das macht es als Ausländer deutlich einfacher.",
+          "answer_id": "p05_q2_1"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Tage waren so typisch: einerseits total aufgeregt und begeistert, andererseits auch ein bisschen überwältigt. Paris ist einfach riesig und laut, und alles ist anders als in Turin. Die ersten Wochen hab ich viel Zeit damit verbracht, die Stadt zu erkunden, Metro-Linien zu lernen und mich an den Rhythmus hier zu gewöhnen.\n Was mir geholfen hat: Ich bin relativ offen und spreche gerne mit Leuten. Dadurch hab ich schnell andere Erasmus-Studierende kennengelernt, vor allem über die ISEP-Orientierungswoche. Die ersten Wochen waren also eher so ein „Ankommen und Orientieren“, weniger produktiv im akademischen Sinne.",
+          "answer_id": "p05_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Kurswahl an der ISEP war eigentlich gut organisiert. Es gab eine Liste mit Kursen, die für Exchange-Students offen sind, und ich konnte relativ frei wählen. Wichtig war nur, dass ich genug ECTS bekomme, die dann in Turin anerkannt werden.\n Ich hab mich für Kurse entschieden, die sowohl technisch als auch management-lastig sind – so eine Mischung aus Ingenieursthemen und ein bisschen Business. Die Einschreibung lief online über das ISEP-Portal, und die ECTS-Anerkennung hab ich vorher mit meinem Koordinator in Turin abgeklärt. Am Ende sollten es so um die 25–30 ECTS werden, die dann problemlos anerkannt wurden.",
+          "answer_id": "p05_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Das Studium an der ISEP ist schon intensiv, aber fair. Die Kurse sind eher praxisorientiert, es gibt viele Projekte und Gruppenarbeiten. Der Unterricht ist auf Englisch, was für mich kein Problem war, aber für manche andere schon eine Umstellung.\n Der Arbeitsaufwand ist höher als an meiner Heimatuni, würde ich sagen. Es gibt regelmäßig Deadlines für Projekte, und man muss schon selbstständig arbeiten. Aber ich fand das gut, weil man dadurch wirklich was lernt und nicht nur Vorlesungen hört.",
+          "answer_id": "p05_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich wohne in einer WG im 13. Arrondissement, ein Zimmer mit eigenem Bad, aber geteilter Küche und Wohnzimmer. Die Miete liegt bei etwa 750 Euro im Monat, was für Paris noch okay ist, aber schon ein großer Teil meines Budgets.\n Die Lebenshaltungskosten insgesamt sind deutlich höher als in Turin. Essen gehen, Metro-Tickets, selbst Supermarkt – alles ist teurer. Ich versuche, durch Kochen zu Hause und ein bisschen Budgetplanung gegenzusteuern. Aber klar: Paris ist keine günstige Stadt, das merkt man jeden Monat.",
+          "answer_id": "p05_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Kontakte zu anderen Studierenden waren eigentlich kein Problem. Über die ISEP gab es Welcome-Events, und dann haben sich schnell WhatsApp-Gruppen gebildet. Ich bin auch relativ aktiv, was angeht – hab mich bei ein paar studentischen Initiativen gemeldet und bin öfter mit Leuten was trinken oder essen gegangen.\n Was das Leben in Paris angeht: Ich nutze die Stadt ziemlich viel. Metro und Fahrrad sind meine Hauptverkehrsmittel. Am Wochenende sind wir oft in verschiedene Viertel gefahren, haben Märkte besucht oder sind einfach durch die Stadt gelaufen. So lernt man Paris am besten kennen, finde ich.",
+          "answer_id": "p05_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Meine größte Herausforderung war definitiv die Jobsuche und berufliche Orientierung in Frankreich. Ich wollte ja nicht nur studieren, sondern auch rausfinden, ob ich hier nach dem Master arbeiten könnte. Aber die Suche nach passenden Stellen, Praktika oder auch nur Informationen war schwieriger als erwartet.\n Viele Firmen wollen Französisch auf muttersprachlichem Niveau, andere verlangen spezifische Abschlüsse, die ich so nicht habe. Das war frustrierend, weil ich dachte, mit meinem Hintergrund und den Kontakten von der ISEP wäre es einfacher.",
+          "answer_id": "p05_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich hab verschiedene Dinge probiert. Erstens hab ich mein CV und Anschreiben auf Französisch überarbeiten lassen – von Freunden und auch vom Career-Service der ISEP. Zweitens bin ich auf ein paar Career-Events und Networking-Abende gegangen, die die ISEP organisiert hat.\n Außerdem hab ich versucht, über LinkedIn Kontakte zu Alumni der ISEP zu knüpfen, die in französischen Firmen arbeiten. Ein paar Gespräche waren echt hilfreich, um zu verstehen, wie der französische Arbeitsmarkt funktioniert. Die ISEP selbst hat mir vor allem bei der Vernetzung geholfen, aber konkrete Jobangebote konnten sie mir nicht vermitteln.\n 9.1 Welche dieser Maßnahmen hat dir am meisten geholfen, und warum?\n Am meisten geholfen haben mir definitiv die Gespräche mit Alumni der ISEP über LinkedIn. Die anderen Sachen waren auch nützlich – das überarbeitete CV hat meine Bewerbungen professioneller aussehen lassen, und die Career-Events waren gut, um ein Gefühl dafür zu bekommen, was Firmen erwarten. Aber die echten Durchbrüche kamen durch die direkten Gespräche mit Leuten, die schon den Weg gegangen sind, den ich gehen will.\n Ein Alumni, der jetzt in einer Tech-Firma im Süden von Paris arbeitet, hat mir zum Beispiel erklärt, warum meine Bewerbungen oft im Nirvana verschwunden sind. Er meinte, dass viele Firmen zwar „Englisch okay\" schreiben, aber im Alltag trotzdem fließendes Französisch erwarten – besonders im Team. Das war so ein Aha-Moment für mich. Bis dahin dachte ich, mein Französisch wäre gut genug, weil ich mich im Alltag verständigen kann. Aber für den Job reicht das offenbar nicht.\n Ein anderer Kontakt hat mir Tipps gegeben, wie ich meine Suche strukturieren kann: nicht nur auf großen Portalen wie Indeed oder LinkedIn suchen, sondern auch auf kleineren French-Tech-Plattformen und direkt auf den Karriereseiten von Firmen. Er hat mir auch gesagt, dass Initiativbewerbungen in Frankreich oft besser funktionieren als das Antworten auf Standard-Stellenanzeigen.\n Warum das am meisten geholfen hat? Weil es nicht nur konkrete Tipps waren, sondern auch so eine Art Reality-Check. Ich hab gemerkt, dass ich meine Erwartungen anpassen muss – sowohl was meine Sprachkenntnisse angeht als auch was die Strategie bei der Jobsuche betrifft. Und diese Art von ehrlichem Feedback bekommt man bei offiziellen Career-Events oder von der ISEP-Beratung nicht so direkt.",
+          "answer_id": "p05_q9"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Mein wichtigster Rat: Nutzt die Zeit nicht nur für die Uni, sondern auch für euch selbst. Paris bietet so viel, und ihr seid nur ein Semester hier. Geht auf Events, lernt Leute kennen, probiert Dinge aus, auch wenn sie nicht direkt mit dem Studium zu tun haben.\n Wenn ihr überlegt, in Frankreich zu arbeiten: Fangt früh an, euch zu informieren. Spricht mit Leuten, die schon hier arbeiten, und seid realistisch, was Sprachkenntnisse und Anforderungen angeht. Und last euch nicht entmutigen, wenn es am Anfang schwierig ist – das gehört dazu.",
+          "answer_id": "p05_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_06",
+      "persona_id": "p06",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P06.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin Florentin, 22, und studiere Informatik im Bachelor an einer Uni in Schweden. Ich war im fünften Semester, als ich nach Paris gegangen bin. Ich bin in Frankreich geboren und mit zwölf nach Schweden gezogen. Französisch ist also meine Muttersprache, aber Frankreich kannte ich eigentlich nur aus meiner Kindheit und aus Ferien. Ich wollte wieder länger dort leben und gleichzeitig technisch was lernen. Die ISEP hatte genau die Kurse, die mich interessiert haben, vor allem Machine Learning.",
+          "answer_id": "p06_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Bewerbung lief über meine Heimatuni, mit Nomination und dann ein paar Formularen für die ISEP. Das war okay, nur etwas Papierkram. Sprachlich musste ich mich nicht vorbereiten. Die Anreise war unkompliziert, ich bin einfach hingefahren und hatte nicht so viel Gepäck. Die Wohnungssuche war der anstrengendste Teil. Ich wollte keine WG, sondern was Eigenes, und so bin ich in einer kleinen Wohnung im 5. Arrondissement gelandet. Das war ziemlich teuer.",
+          "answer_id": "p06_q2"
+        },
+        {
+          "number": "2.1",
+          "question_id": null,
+          "question_text": "Wie hast du die Wohnung im 5. Arrondissement gefunden, und was würdest du bei der Wohnungssuche im Nachhinein anders machen?",
+          "parent_question_id": "q02",
+          "text": "Ich habe im Internet auf den üblichen Plattformen für möblierte Wohnungen gesucht. Dazu habe ich mir ein paar Angebote angeschaut, die über Bekannte meiner Familie in Frankreich gelaufen sind. Am Ende habe ich eine kleine möblierte Einzimmerwohnung im 5. genommen. Sie war nicht groß, aber die Lage war ideal, weil ich zu Fuß oder mit dem Rad schnell in der Uni war. Ich habe mich ziemlich schnell entschieden, weil gute Wohnungen schnell weg sind und ich nicht ewig in einer Zwischenlösung hängen wollte.\n Im Nachhinein war ich da wahrscheinlich zu schnell und hatte zu wenig verglichen. Mit knapp 1.000 € im Monat war das schon die obere Grenze für ein Semester. Ich hätte früher angefangen und auch Viertel angeschaut, die etwas weiter draußen liegen. Dort ist es günstiger, und die Métro ist ja sowieso schnell. Außerdem hätte ich ernsthafter über eine WG oder ein Zimmer nachgedacht. Ich wollte unbedingt meine Ruhe haben, aber das hat mich am Ende doch viel gekostet. Und ich hätte vorher genauer nachgefragt, was in der Miete alles drin ist, also Nebenkosten, Internet und so weiter.",
+          "answer_id": "p06_q2_1"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Seltsam, ehrlich gesagt. Ich habe die Sprache verstanden und mich sofort zurechtgefunden, und trotzdem war alles neu. Ich wusste nicht, wie man hier einen Alltag organisiert, mit Métro-Abo, Supermarkt und so weiter. Ich bin viel zu Fuß gegangen, um das Viertel kennenzulernen. Gleichzeitig hat es sich ein bisschen wie Heimkommen angefühlt, was ich nicht erwartet hatte.",
+          "answer_id": "p06_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe drei Kurse gewählt: Machine Learning, Software Security und Development of Mobile Applications. Alle waren auf Englisch. Das hat gut gepasst, es sind zusammen 15 ECTS, so wie ich es mit meiner Heimatuni geplant hatte. Die Einschreibung lief ohne große Probleme. Zur endgültigen Anerkennung kann ich noch nichts Genaues sagen, das läuft über meine Uni in Schweden.",
+          "answer_id": "p06_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Technisch war es anspruchsvoll, so wie ich es mir gewünscht hatte. Machine Learning fand ich am spannendsten. Der Aufwand war spürbar, mit Projekten und Abgaben neben dem Unterricht, aber gut machbar. Es war eher praxisnah. Mit drei Kursen hatte ich auch Zeit für die Stadt.",
+          "answer_id": "p06_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich hatte meine eigene kleine Wohnung im 5. Arrondissement, mit knapp 1.000 € Miete im Monat. Die Lage ist super, ich konnte viel zu Fuß machen oder mit dem Fahrrad fahren, und die Métro gab es für längere Strecken. Aber das Geld war schon knapp, weil die Miete einen großen Teil vom Budget gefressen hat. Beim Essen und bei den Ausgaben im Alltag musste ich darum aufpassen. Ich habe öfter selbst gekocht, statt auszugehen.",
+          "answer_id": "p06_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Hauptsächlich über die Kurse und die Projekte, da kommt man leicht ins Gespräch. Ich wollte beides, also internationale und französische Studierende. Mit den Franzosen war es für mich leichter als für viele andere, wegen der Sprache. Durch die eigene Wohnung war ich weniger im Erasmus-Gruppenleben als andere in WGs. Das war okay für mich, ich bin da eher ruhig.",
+          "answer_id": "p06_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Das Geld, vor allem die Wohnkosten. Dazu kam etwas Innerliches: Ich bin Franzose, aber mein Alltag ist schwedisch. In Paris wurde ich oft als „einer von hier“ behandelt, obwohl ich mich nicht ganz so gefühlt habe. Das war interessant, manchmal auch komisch.",
+          "answer_id": "p06_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich versuche immer erst, Sachen selbst zu lösen. Beim Geld habe ich meine Ausgaben im Blick behalten und gespart, wo es ging, zum Beispiel beim Essen und bei den Wegen mit Fahrrad statt Métro. An der Miete selbst konnte ich nichts ändern. Von der ISEP habe ich dafür keine spezielle Hilfe bekommen, und ich habe auch nicht aktiv danach gefragt. Bei der Identitätsfrage hat mir einfach das Reden mit Leuten geholfen.",
+          "answer_id": "p06_q9"
+        },
+        {
+          "number": "9.1",
+          "question_id": null,
+          "question_text": "Gab es etwas, das du im Vorfeld bei den Kosten unterschätzt hattest, und wie würdest du dein Budget heute planen?",
+          "parent_question_id": "q09",
+          "text": "Ja, vor allem die Nebensachen. Die Miete kannte ich vorher, aber die vielen kleinen Dinge kamen dazu: Kaution, Métro-Abo, Haushaltszeug für die Wohnung und mal ein Kaffee oder ein Essen mit den anderen aus dem Kurs. Einzeln ist das nicht viel, zusammen aber schon. Ich hatte im Kopf eher Schweden-Preise, und in Paris ist alles im Zentrum noch mal einen Tick teurer. Im Supermarkt ging es noch, aber Restaurants und Cafés im 5. sind echt teuer.\n Heute würde ich zuerst die festen Kosten abziehen, also Miete und Nahverkehr. Danach würde ich ein festes Wochenbudget fürs Essen und Ausgehen festlegen, statt nur grob zu schätzen. Zusätzlich würde ich einen Puffer von ein paar hundert Euro einplanen, für Unvorhergesehenes. Und ich würde die Miete von Anfang an niedriger ansetzen, weil sie bei mir einfach zu viel vom Budget gefressen hat.",
+          "answer_id": "p06_q9_1"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Fangt früh mit der Wohnungssuche an und rechnet ehrlich durch, was ihr euch leisten könnt. Eine eigene Wohnung in guter Lage klingt super, ist aber teuer. Eine WG wäre vielleicht günstiger gewesen und hätte mehr Kontakte gebracht. Wählt Kurse, die euch wirklich interessieren, und nutzt die Stadt zu Fuß oder mit dem Rad, denn das spart Geld und macht Spaß.",
+          "answer_id": "p06_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_07",
+      "persona_id": "p07",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P07.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin Krishna und komme aus Italien. Ich studiere an der Universität Bologna im Master Informatik mit Schwerpunkt Cybersecurity, und meine Wurzeln sind indisch. Ich habe die ISEP ausgewählt, weil ich mir vorstellen kann, später für einen Master dorthin zu wechseln. Die Studiengebühren sind ziemlich hoch, deshalb wollte ich die Hochschule erst über Erasmus kennenlernen, bevor ich Geld investiere. Dass Paris ein internationaler Ort ist, war auch ein Pluspunkt.",
+          "answer_id": "p07_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Bewerbung lief über Bologna und danach über die ISEP, mit dem üblichen Papierkram. Das war etwas nervig, aber machbar. Bei der Unterkunft habe ich mich direkt um einen Platz in der Maison de l'Inde in der Cité Internationale Universitaire beworben. Das war mir wichtig, weil der Pariser Wohnungsmarkt als schwierig gilt. Die Zusage kam zum Glück rechtzeitig. Zur Anreise weiß ich nur noch, dass ich Anfang September angekommen bin. Französisch habe ich vorher gar nicht gelernt, das war vielleicht ein Fehler.",
+          "answer_id": "p07_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Es war ein bisschen chaotisch. Ich musste mich im Wohnheim anmelden, das Zimmer übernehmen und mich orientieren. Der Campus der Cité ist grün und fast wie eine kleine Stadt, das fand ich angenehm. Im Alltag merke ich schnell, dass ohne Französisch manches zäh ist, zum Beispiel am Schalter oder im Supermarkt. Mit Englisch komme ich meistens durch, aber nicht immer.",
+          "answer_id": "p07_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe drei Kurse gewählt: Software Security, Virtualized Architectures und Distributed Architectures and Programming. Sie passen gut zu meinem Cybersecurity-Schwerpunkt. Die Einschreibung lief halbwegs strukturiert, aber ich musste öfter nachfragen, bis mir klar war, was wann fehlt. Ich bin da manchmal ungeduldig, ich will einfach schnell eine klare Antwort. Zur ECTS-Anerkennung kann ich noch nicht viel sagen, weil das Semester läuft. Ich habe das Learning Agreement mit Bologna abgestimmt und hoffe, dass am Ende alles so angerechnet wird.",
+          "answer_id": "p07_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ehrlich gesagt hat mich die Lehre positiv überrascht. Sie ist praxisnah und technisch anspruchsvoll, so hatte ich es mir gewünscht. Mir gefällt, wie die Veranstaltungen aufgebaut sind. Man arbeitet aktiv mit und hört nicht nur zu. In Bologna ist es oft theoretischer und größer, an der ISEP fühlt es sich näher an der Anwendung an. Der Arbeitsaufwand ist okay bis ziemlich ordentlich, mit Projekten und Abgaben neben den Vorlesungen. Unterrichtet wird auf Englisch, das ist für mich kein Problem.",
+          "answer_id": "p07_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich wohne im Wohnheim Maison de l'Inde, also in einem Zimmer auf dem Campus der Cité. Das ist praktisch, und man trifft ständig andere Studierende. Die genauen Kosten möchte ich nicht aus dem Kopf nennen, weil ich sie nicht sicher habe. Insgesamt ist Paris aber deutlich teurer als Bologna, vor allem Essen gehen und Cafés. Ich bin meistens mit der Métro oder zu Fuß unterwegs. Ich rechne ziemlich genau, was ich ausgebe, sonst läuft es schnell aus dem Ruder.",
+          "answer_id": "p07_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Am meisten über das Wohnheim, weil dort viele internationale Leute wohnen. Man kommt in der Küche, im Garten oder bei Veranstaltungen ins Gespräch. An der ISEP lernt man andere Erasmus-Leute in den Kursen kennen. Ich habe auch ErasmusPlace entdeckt. Die organisieren Events und Reisen für Erasmus-Studierende. Das finde ich eine gute Idee, um neue Leute zu treffen und nicht nur in Paris zu hängen. Ich würde das jedem empfehlen, der Anschluss sucht und auch mal raus will.",
+          "answer_id": "p07_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bisher ist es die Sprache im Alltag. Mit meinem Englisch kam ich an der Uni gut zurecht, aber bei Behördendingen, im Wohnheim oder bei Verträgen steht oft alles nur auf Französisch. Ich hatte vorher gar nichts gelernt und hab das unterschätzt. Das nervt mich manchmal, weil ich eigentlich selbstständig sein will.",
+          "answer_id": "p07_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich recherchiere viel selbst und nutze Übersetzungs-Apps. Bei wichtigen Sachen frage ich lieber direkt nach, bevor ich etwas falsch verstehe. Ich lerne jetzt auch langsam ein paar Basics, zum Beispiel für Bestellungen und Begrüßungen. Von der ISEP kam Unterstützung vor allem über die Ansprechpersonen für Austauschstudierende, die auf Fragen geantwortet haben. Hilfe gab es auch von anderen Leuten im Wohnheim, die schon länger Französisch können.",
+          "answer_id": "p07_q9"
+        },
+        {
+          "number": "9.1",
+          "question_id": null,
+          "question_text": "In welchen Situationen hat dir fehlendes Französisch bisher am meisten Probleme gemacht, und was hat dir dabei konkret geholfen?",
+          "parent_question_id": "q09",
+          "text": "Am meisten bei allem, was mit Papierkram zu tun hat. Im Wohnheim kamen am Anfang Infos zur Hausordnung und zu Formularen, und vieles stand nur auf Französisch. Ich habe dann einfach Fotos gemacht und sie mit einer Übersetzungs-App gelesen. Das klappt meistens, aber bei Fachbegriffen hatte ich manchmal Zweifel, ob ich es richtig verstehe. Bei wichtigen Sachen habe ich deshalb lieber nachgefragt, bevor ich etwas unterschreibe.\n Die zweite Situation war der Alltag: Bäckerei, Supermarkt, Métro-Ticket und Navigo-Fragen am Automaten oder Schalter. Wenn die Leute schnell reden, verstehe ich fast nichts. Ein bisschen genervt war ich auch, weil mich manche gleich auf Französisch angeredet haben und dann etwas ungeduldig wurden. Geholfen hat, dass ich mir ein paar Standardsätze gemerkt habe, zum Beispiel Begrüßung, Bestellen und „Pardon, vous pouvez répéter?“. Und ich frage inzwischen direkt, ob wir auf Englisch weitermachen können. Das funktioniert oft besser, als wenn ich mich durchquäle.\n Im Wohnheim haben mir auch andere Bewohner geholfen, die schon besser Französisch können. Das war ehrlich gesagt die praktischste Unterstützung, wenn eine Mail oder ein Aushang unklar war. An der Uni selbst gab es kaum Probleme, weil der Unterricht auf Englisch ist. Trotzdem bereue ich, dass ich vorher nichts gelernt habe.",
+          "answer_id": "p07_q9_1"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Fragt bei Unklarheiten zu Kursen und Learning Agreement sofort nach.\n Schaut bei ErasmusPlace vorbei, die organisieren Events und Reisen, über die man schnell Leute kennenlernt.\n Wenn ihr überlegt, später an der ISEP zu studieren, ist Erasmus eine gute Möglichkeit, die Hochschule vorher zu testen.",
+          "answer_id": "p07_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_08",
+      "persona_id": "p08",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P08.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Also, ich heiße Annette, bin 21 und studiere an der Uni zu Köln, im dritten Semester Bachelor. Ich wollte einfach mal ein Auslandssemester machen und Paris kannte ich nur vom kurzen Besuchen – ich fand die Stadt schon immer schön, auch wenn sie mir ehrlich gesagt auch ein bisschen Angst gemacht hat, weil sie so groß ist. Dass es am Ende die ISEP geworden ist, war eher Zufall. Ich wusste lange nicht genau, wo ich hingehen sollte, und als mir mein Erasmus-Koordinator die ISEP vorgeschlagen hat, habe ich mich einfach dafür entschieden. Die Kurse waren auf Englisch, das hat es für mich einfacher gemacht, weil mein Französisch damals wirklich kaum vorhanden war.",
+          "answer_id": "p08_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Vorbereitung war für mich insgesamt ziemlich stressig, weil ich vieles nicht so richtig einschätzen konnte. Die Bewerbung lief über meine Uni, das war noch okay – Learning Agreement ausfüllen, Unterlagen einreichen, so was. Schwieriger fand ich die Wohnungssuche. Ich habe relativ spät angefangen und dann in Panik gesetzt, weil in Paris wirklich kaum was Bezahlbares frei ist. Am Ende habe ich über eine Vermittlung der ISEP ein Zimmer in einer Studierendenresidenz bekommen, das war für mich ehrlich gesagt eine riesige Erleichterung. Anreise dann mit dem Zug von Köln, mit zwei großen Koffern und mehr Nervosität als nötig. Vorher habe ich noch ein bisschen mit einer Sprach-App Französisch gelernt – so Vokabeln wie \"boulangerie\" und Zahlen, das wars dann aber auch schon.",
+          "answer_id": "p08_q2"
+        },
+        {
+          "number": "2.1",
+          "question_id": null,
+          "question_text": "Wie bist du auf die Unterkunftsvermittlung der ISEP aufmerksam geworden, und würdest du diesen Weg anderen Studierenden empfehlen?",
+          "parent_question_id": "q02",
+          "text": "Also, ich hab's einfach selbst gefunden, weil ich statt jemanden zu fragen lieber alle Info-Seiten der ISEP für Austauschstudierende durchgelesen habe. Dort stand, dass es begrenzte Zimmer in Partnerresidenzen gibt, für die man sich per Formular bewerben kann.\n Empfehlen würde ich es ja – jedenfalls Leuten wie mir, die ungern mit Privatvermietern verhandeln. Man hat ein Zimmer und wohnt unter Studierenden, und man muss sich nicht durch dubiose Kleinanzeigen kämpfen. Nur eben: Plätze sind begrenzt, die Lage wählt man nicht selbst, und wirklich billig ist es auch nicht. Und früh bewerben, das ist wichtig.",
+          "answer_id": "p08_q2_1"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Tage waren... überwältigend. Positiv gemeint, aber trotzdem. Ich kannte niemanden, und ich bin ja nicht unbedingt die Person, die einfach auf Fremde zugeht und sich vorstellt. Ich habe viel alleine gemacht – Metrolinien auswendig gelernt, die Umgebung gelaufen, mich in die Residenz und auf den Campus eingeschlichen sozusagen. In den ersten Wochen war ich abends oft richtig müde, einfach weil alles neu war und ich ständig aufpassen musste, dass ich nichts falsch mache. Es gab ein paar Einführungsveranstaltungen für internationale Studierende, da war ich auch immer so halb dabei – hingegangen, aber eher am Rand gestanden.",
+          "answer_id": "p08_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Kurswahl war am Anfang chaotischer, als ich gedacht hatte. Man musste sich zu Beginn in einiges einwählen und hatte eine Frist, in der man wieder abwählen kann. Ich hatte mir vorher über das Kursverzeichnis der ISEP eine Liste zusammengestellt und die auch mit meinem Learning Agreement abgeglichen, damit die Anerkennung in Köln klappt. Am Anfang war ich in zu vielen Kursen – ich dachte, ich muss das so machen wie zu Hause. Die ECTS-Anerkennung hat zum Glück funktioniert, weil ich alles vorab mit meiner Koordinatorin in Köln abgestimmt hatte. Da kann ich wirklich sagen: das im Vorfeld klären, das hat mir später viel Ärger erspart.",
+          "answer_id": "p08_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Der Arbeitsaufwand war für mich die größte Überraschung. Ich hatte irgendwie erwartet, dass ich mich schnell einfinde und es ähnlich läuft wie in Köln – ein paar Vorlesungen, dann selbst lernen. An der ISEP war es aber deutlich strukturierter, mehr Präsenz, mehr kontinuierliche Aufgaben und Tests über das Semester verteilt. Man kann nicht einfach bis zum Ende des Semesters nichts machen. Für mich war das anstrengend, auch weil alles auf Englisch war und ich beim Sprechen immer unsicher bin – ich habe in Diskussionen einfach kaum was gesagt, obwohl ich den Stoff eigentlich verstanden habe. Die Lehrenden waren insgesamt aber freundlich und geduldig, das muss ich sagen.",
+          "answer_id": "p08_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe in einer Studierendenresidenz gewohnt, in einem eigenen kleinen Zimmer mit Gemeinschaftsküche. Das war gut, weil ich nicht selbst auf Wohnungssuche in Paris hätte successfully durchhalten müssen – aber es war auch nicht besonders günstig. Paris ist einfach teuer, da kommt man nicht drum herum. Ich habe versucht, viel selbst zu kochen und beim Einkaufen auf Preise zu achten, aber spontan essen gehen oder so war für mein Budget kaum drin. Mit dem Abo für die Metro bin ich überall hingekommen, das war okay von den Kosten her. Ich würde sagen, man braucht wirklich ein realistisches Budget – Paris wird einen immer irgendwie einen Euro mehr kosten lassen, als man gedacht hat.",
+          "answer_id": "p08_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ehrlich gesagt... langsam. Es hat gedauert. Ich bin nie die Person gewesen, die bei den ersten Events Freundschaften schließt. Was bei mir funktioniert hat, waren eher wiederkehrende Situationen – in der Gemeinschaftsküche der Residenz traf man immer dieselben Leute, und irgendwann reden wir dann halt doch miteinander. Es gab andere internationale Studierende, denen ging es ähnlich wie mir, und mit zweien davon habe ich dann öfter was unternommen, einfach durch die Stadt laufen oder zusammen kochen. Ich glaube, ohne die Residenz wäre es schwieriger geworden. Und Paris selbst hat mir geholfen – man kann da so viel einfach alleine machen, Museen und so, da fühlt man sich wenigstens nicht komplett verloren.",
+          "answer_id": "p08_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Mein größtes Problem war, dass ich mich Anfang des Semesters total überfordert gefühlt habe. Der Aufwand war höher als erwartet, ich habe mich getraut, kaum jemanden nach Hilfe zu fragen, und irgendwann hatte ich das Gefühl, dass ich in allen Kursen hinterherhänge und nebenbei auch noch alles in einer fremden Sprache und Stadt stemmen muss. Es gab ein paar Abende, da habe ich ernsthaft überlegt abzubrechen.",
+          "answer_id": "p08_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Was mir dann letztlich geholfen hat: Ich habe ein paar Kurse wieder abgewählt. Das war für mich ein schwieriger Schritt, weil es sich erstmal wie ein Eingeständnis angefühlt hat, dass ich es nicht schaffe – aber rückblicklich war es genau richtig. Ich habe mich auf die Kurse konzentriert, die ich für mein Erasmus brauche, und der Druck wurde deutlich weniger. Reden musste ich dafür mit der internationalen Koordination an der ISEP, und das war – wieder mal typisch für mich – das eigentliche Hindernis. Ich habe die E-Mail dreimal umformuliert, bevor ich sie abgeschickt habe. Aber die Antwort war total unkompliziert, abwählen war in der Frist kein Problem, und man hat mir auch versichert, dass mein Learning Agreement angepasst werden kann. Meine Koordinatorin in Köln war auch per E-Mail erreichbar und hat beruhigt. So ganz allein gelassen wurde ich also nicht, ich musste nur den ersten Schritt machen, und das war für mich die eigentliche Herausforderung.",
+          "answer_id": "p08_q9"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Mein Rat wäre: Fangt früh mit der Wohnungssuche an, klärt die Anerkennung der Kurse im Vorfeld ab – und vor allem, seid ehrlich mit euch, was die Kursanzahl angeht. Ihr müsst nicht beweisen, dass ihr alles schaffen könnt. Ich hätte mir auch gewünscht, dass ich den internationalen Studierenden früher einfach mal etwas direkter gesagt hätte \"Können wir mal was zusammen machen\" – es ist komischerweise fast nie so schlimm, wie man denkt. Und: Ein Semester geht verdammt schnell rum. Ich habe die ersten sechs Wochen damit verbracht, mich schlecht zu fühlen, und als es mir besser ging, war schon fast halbes Semester vorbei. Also nicht zu lange warten, bis man anfängt, sich wohlzufühlen.",
+          "answer_id": "p08_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_09",
+      "persona_id": "p09",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P09.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich heiße Kevin, bin 23 Jahre alt und komme aus den Niederlanden. An der HZ University of Applied Sciences in Vlissingen mache ich meinen Bachelor in Information and Communication Technology, das Erasmus-Semester war mein fünftes Semester. Die Entscheidung für die ISEP war für mich recht pragmatisch: Ich wollte ohnehin ein Semester in Paris verbringen, das stand für mich relativ früh fest. Die ISEP kam dazu, weil ich meine technischen Kenntnisse gerne um wirtschaftliche und organisatorische Themen ergänzen wollte – also nicht nochmal reine Programmierkurse, sondern eher Governance, Risikomanagement, sowas. Das passte zu meinem Plan, weil ich in meinem bisherigen Studium genau diese Management-Perspektive teilweise vermisst habe. Und ehrlich gesagt: Eine große Stadt für ein paar Monate richtig kennenlernen, das war auch ein Grund.",
+          "answer_id": "p09_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Bewerbung selbst war unproblematisch. Das lief über mein International Office in Vlissingen und dann direkt mit der ISEP – Learning Agreement ausgefüllt, Kurse eingetragen, unterschreiben lassen, fertig. Weil ich EU-Bürger bin, entfielen Visa und sowas komplett, das hat den Verwaltungsaufwand deutlich reduziert.\n Die Unterkunft war dagegen der kritische Punkt. Ich hatte vorab keine langfristige Wohnung gefunden, und deshalb habe ich bewusst eine Übergangslösung über Airbnb für die ersten Wochen gebucht. Das war eine bewusste Entscheidung: lieber eine teurere Übergangslösung als einen Mietvertrag unterschreiben, den ich nie gesehen habe. Anreise war dann mit dem Zug von Zeeland über Brüssel nach Paris, mit zwei Koffern und einem Radlaptop, alles gut planbar.\n Sprachlich hatte ich vorab schon Französisch auf B1-Niveau, das war bei der Suche und vor Ort dann schon hilfreich.",
+          "answer_id": "p09_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Gut organisiert, aber intensiv. Die erste Zeit wohnte ich im Airbnb, das lag in Issy-les-Moulineaux, also relativ nah an der Schule. Die ersten Tage habe ich für Verwaltungsdinge genutzt: Carte Navigo für die Métro besorgt, mir Vélolib-Fahrräder angeschaut, die Uni-Formalitäten. Die Einführungsveranstaltung an der ISEP war ordentlich geregelt, wir bekamen einen Plan, einen Rundgang, die wichtigsten Kontakte.\n Parallel dazu habe ich natürlich die Stadt genossen. Erste Woche abends durchs 6. Arrondissement laufen,沿着 die Seine, klassische Sachen – aber genau das, wofür ich hergekommen bin. Der einzige Dauerstress in den ersten Wochen war das Thema Wohnung, weil ich ja wusste, dass das Airbnb nur befristet war.",
+          "answer_id": "p09_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Kurswahl war vorher im Learning Agreement festgelegt und lief dann vor Ort reibungslos. Ich hatte vier Kurse: Governance and Organization of Information Systems, Management Training, Risk Management and Audit und das Learning Track Project. Zusammen 17 ECTS, in Englisch unterrichtet. Genau diese Mischung war ja der Grund für die ISEP, also war ich mit der Auswahl zufrieden.\n Die Einschreibung vor Ort war ein Nachmittag Papierkram, aber kein Drama. Die Anerkennung an der HZ war im Vorfeld abgestimmt – die Kurse wurden auf mein Curriculum angerechnet, solange ich die 17 ECTS bestand. Mein Tipp an der Stelle: das vorher schriftlich fixieren, nicht erst nach der Rückkehr diskutieren.",
+          "answer_id": "p09_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ISEP ist eine kleine, sehr spezialisierte Ingenieursschule – das merkt man überall. Klassen sind klein, die Dozenten sind ansprechbar, vieles ist praxisnah organisiert. Der Unterricht war stärker strukturiert und termingetaktet, als ich es von meiner Hochschule kenne: klare Deadlines, Gruppenprojekte, Präsentationen.\n Der Arbeitsaufwand war meiner Einschätzung nach moderat bis ordentlich. Risk Management und Governance waren leselastig mit Fallstudien, Management Training war eher praktisch mit Übungen und Präsentationen, und das Learning Track Project war der größte Brocken, weil da ein ganzes Projekt über das Semester läuft. Insgesamt: machbar, aber man sollte die Projekte nicht vor sich herschieben. Und man muss sich darauf einstellen, dass die Schule technisch geprägt ist – die wirtschaftliche Tiefe, die ich mir erhofft hatte, war vorhanden, aber halt im Rahmen einer Ingenieursschule.",
+          "answer_id": "p09_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Wie gesagt: anfangs Airbnb, und nach etwa drei, vier Wochen habe ich über eine Online-Annonce eine WG gefunden. Zwei Mitbewohner, eine Französin und ein Franzose, in Vanves, also quasi um die Ecke von der ISEP – mit dem Fahrrad war ich in zehn Minuten an der Schule. Das Zimmer hat mich rund 700 Euro im Monat gekostet, mit Nebenkosten. Dort habe ich mich dann wirklich sehr wohlgefühlt, vor allem auch wegen der Mitbewohner, mit denen ich viel Zeit verbracht habe und über die ich erst richtig ins französische Alltagsleben reingekommen bin.\n Die Lebenshaltungskosten insgesamt: Paris ist teuer, keine Frage. Ich würde sagen, ohne Miete brauchte ich so 600 bis 700 Euro im Monat, wenn man mal richtig fein essen geht, auch mehr. Erasmus-Zuschuss von zu Hause, etwas Erspartes, dann passt das – aber ein Hotel-Budget sollte man nicht planen.",
+          "answer_id": "p09_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Über drei Kanäle. Erstens die Erasmus-Gruppe an der ISEP selbst – wir waren eine überschaubare Zahl an Austauschstudierenden, da kennt man sich schnell alle. Zweitens über das Learning Track Project, wo ich in einer Gruppe mit französischen Studierenden gearbeitet habe. Und drittens über meine Mitbewohner, die mich mit in ihre Kneipen und zu ihren Freunden genommen haben. Das war für mich der wertvollste Teil, weil man über die WG die Stadt viel unabhängiger vom Studium erlebt.\n Ich bin viel mit dem Fahrrad durch Paris gefahren, das empfehle ich jedem – man lernt die Stadt so in zwei Monaten besser kennen als mit zwei Jahren Métro.",
+          "answer_id": "p09_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Klar die Wohnungssuche. Das Airbnb war ja nur als Puffer gedacht, aber eine langfristige Unterkunft zu finden, war schwieriger als gedacht. Das Pariser Wohnungsmarkt-System ist für Neulinge sehr zäh: Viele Inserate sind unseriös, die Nachfrage ist riesig, und als ausländischer Student ohne französisches Einkommen oder französische Bürgen sind viele Vermieter skeptisch. Ich hatte zwei oder drei Besichtigungen, bei denen nach den ersten fünf Minuten klar war, dass es nicht klappt, weil ich die üblichen Nachweise nicht vorlegen konnte.\n Dazu kam, dass ich vom International Office der ISEP bei diesem Thema leider keine wesentliche Unterstützung erfahren habe. Es gab Hinweise auf Plattformen und allgemeine Links, aber keine konkrete Hilfe. Das war ehrlich gesagt enttäuschend, gerade weil Wohnungssuche für Internationale die zentrale Hürde ist.",
+          "answer_id": "p09_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe es letztlich über den klassischen Weg gelöst: täglich Anzeigen durchsuchen, auf seriöse Inserate schreiben, mit einem kurzen, ordentlichen Vorstellungsschreiben – auf Französisch, das hat glaube ich tatsächlich einen Unterschied gemacht. Beim Besuch der WG hatte ich alle Dokumente dabei: Immatrikulationsbescheinigung, Kontoauszüge, Kopie des Ausweises. Und ich habe relativ früh erwähnt, dass ich mit der Erasmus-Zusage und dem Zuschuss finanziell abgesichert bin.\n Was geholfen hätte und wovon ich erst später erfahren habe: Visale, die staatliche Bürgschaft für Studierende unter 30. Das kann man als internationaler Student beantragen und damit das Bürgen-Problem umgehen. Das hätte mir ein paar Absagen ersparen können. Am Ende hat dann aber die WG in Vanves funktioniert, und zwar über den klassischen Weg – Bestätigung meines Bauchgefühls: man muss einfach dranbleiben. Von der ISEP selbst kam, wie gesagt, bei der Wohnungsfrage keine substanzielle Unterstützung, die Lösung war im Wesentlichen Eigeninitiative.",
+          "answer_id": "p09_q9"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Drei Punkte:\n Erstens: Das Wohnungsproblem nicht auf die leichte Schulter nehmen. Ich würde genau wie ich eine befristete Übergangslösung für die ersten Wochen buchen und dann vor Ort in Ruhe suchen. Und vorher über Visale informieren, das erspart Frustration.\n Zweitens: Französisch lernen, auch wenn die Kurse auf Englisch sind. Mit B1-Niveau kam ich im Alltag gut klar, und ohne Französisch ist die Wohnungssuche und einfach der ganze Verwaltungsalltag deutlich anstrengender.\n Drittens: Seid offen für die wirtschaftlicheren Kurse, wenn ihr wie ich aus einem technischen Programm kommt – Governance und Risk Management haben mir eine Perspektive gegeben, die ich zu Hause so nicht bekommen hätte.\n Und fahrt Fahrrad in Paris. Vertraut mir.",
+          "answer_id": "p09_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_10",
+      "persona_id": "p10",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P10.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin Annica, 23 Jahre alt und studiere im fünften Semester Software Design and Cloud Computing an der FH JOANNEUM in Kapfenberg. Ich wollte schon länger für einen längeren Zeitraum ins Ausland und habe mich deshalb für ein Erasmus-Semester entschieden. Paris hat mich wegen der internationalen Umgebung und des großen kulturellen Angebots interessiert. Die ISEP hat außerdem ein gutes Angebot für Informatik, sodass ich dort mein Studium fachlich weiterführen kann. Ursprünglich war ein Semester geplant, aber inzwischen überlege ich, meinen Aufenthalt auf ein ganzes Jahr zu verlängern.",
+          "answer_id": "p10_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Erasmus-Bewerbung lief über meine Heimathochschule. Ich musste die üblichen Unterlagen einreichen und mich frühzeitig um das Learning Agreement kümmern. Bei der Unterkunft habe ich mich bewusst gegen eine klassische Wohnung oder WG entschieden und nach einer Au-pair-Stelle gesucht. Dadurch konnte ich die Wohnungssuche vermeiden und gleichzeitig stärker in den französischen Alltag eintauchen. Ich habe über eine Au-pair-Plattform eine Gastfamilie gefunden und mich bereits vor meiner Anreise mit der Familie ausgetauscht. Dabei haben wir vorab besprochen, welche Aufgaben ich übernehmen soll, wie viele Stunden ich arbeite und wann ich freie Zeit für mein Studium habe.",
+          "answer_id": "p10_q2"
+        },
+        {
+          "number": "2.1",
+          "question_id": null,
+          "question_text": "Was würdest du anderen Studierenden empfehlen, die Erasmus mit einer Au-pair-Stelle verbinden möchten?",
+          "parent_question_id": "q02",
+          "text": "Ich würde empfehlen, die Aufgaben und Arbeitszeiten wirklich vor dem Einzug genau zu besprechen. Erasmus und Au-pair lassen sich gut kombinieren, aber beides kostet Zeit und Energie. Für mich ist vor allem die zeitliche Organisation eine Herausforderung, weil ISEP-Aufgaben, Prüfungen und Au-pair-Zeiten zusammenpassen müssen. Deshalb sollte man vorher klären, wie viele Stunden man arbeitet und ob genügend freie Zeit für das Studium bleibt.",
+          "answer_id": "p10_q2_1"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Tage waren aufregend, weil gleichzeitig die neue Stadt, die ISEP und das Leben bei der Gastfamilie neu waren. Durch das Wohnen bei einer französischen Familie hatte ich von Anfang an mehr Kontakt mit der französischen Sprache und dem Alltag. Gleichzeitig hatte ich dadurch etwas weniger Privatsphäre als in einer eigenen Wohnung. Für die Orientierung in Paris habe ich hauptsächlich Metro und Bus genutzt und mich am Anfang auch an anderen Erasmus-Studierenden orientiert.",
+          "answer_id": "p10_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bei der Kurswahl wollte ich nicht zu viele Kurse nehmen, weil ich zusätzlich meine Au-pair-Aufgaben habe. Ich habe mich für Virtualized Architectures, Development of Mobile Applications und Machine Learning entschieden und komme damit auf 17 ECTS. Da mein Französisch zu Beginn noch nicht gut genug für technische Fachkurse war, habe ich hauptsächlich englischsprachige Kurse gewählt. Bei der Auswahl waren für mich sowohl die fachliche Passung zu meinem Studium als auch der erwartete Arbeitsaufwand wichtig. Die Anerkennung habe ich mit meiner Heimathochschule über das Learning Agreement abgestimmt.",
+          "answer_id": "p10_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Das Studium ist für mich anspruchsvoll, aber grundsätzlich gut machbar. Besonders Machine Learning finde ich fachlich interessant. Neben dem Unterricht gibt es regelmäßig Aufgaben, Übungen und Projekte, sodass man kontinuierlich arbeiten muss. Gerade mit dem Au-pair kann ich deshalb nicht einfach jeden Nachmittag mehrere Stunden in der Bibliothek verbringen. Ich versuche, Aufgaben möglichst früh zu erledigen und nicht bis kurz vor den Abgabeterminen zu warten.",
+          "answer_id": "p10_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Meine Woche ist ziemlich voll, weil ich Studium und Au-pair miteinander verbinden muss. An der ISEP habe ich meistens an drei bis vier Tagen Unterricht. Dazu kommen Übungen, Projekte und selbstständiges Lernen. Für das Au-pair arbeite ich ungefähr 15 bis 20 Stunden pro Woche, meistens nachmittags oder am frühen Abend. Die Aufgaben für die Uni versuche ich deshalb an freien Vormittagen oder am Wochenende zu erledigen. Für Freizeit bleibt weniger Zeit als bei anderen Erasmus-Studierenden, aber ich versuche trotzdem, ein bis zwei Abende pro Woche freizuhalten und am Wochenende etwas mit Freunden zu unternehmen. Besonders wichtig ist für mich, die Uni-Aufgaben nicht aufzuschieben, weil Studium und Au-pair sonst schnell gleichzeitig zu viel werden.",
+          "answer_id": "p10_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe ein eigenes Zimmer bei meiner Gastfamilie. Durch die Au-pair-Vereinbarung zahle ich keine klassische Miete, sondern übernehme bestimmte Aufgaben und die Betreuung der Kinder. Das ist finanziell natürlich ein großer Vorteil gegenüber einer normalen Wohnung in Paris. Gleichzeitig muss man sich bewusst sein, dass man dadurch weniger unabhängig ist und die Aufgaben und Arbeitszeiten mit dem Studium vereinbaren muss. Bei den sonstigen Ausgaben versuche ich eher sparsam zu sein und viel zu Fuß oder mit der Metro zu machen.",
+          "answer_id": "p10_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Über die ISEP habe ich relativ schnell andere internationale Studierende kennengelernt. Dadurch hatte ich Kontakte zu Leuten, die ebenfalls neu in Paris waren. Gleichzeitig habe ich durch meine Gastfamilie einen viel stärkeren Kontakt zum französischen Alltag und zur französischen Sprache. Diese Kombination finde ich eigentlich sehr gut, weil ich über die ISEP internationale Kontakte habe, aber durch die Familie auch regelmäßig Französisch spreche.",
+          "answer_id": "p10_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die größte Herausforderung ist für mich die Kombination aus Studium und Au-pair. Es gibt Wochen, in denen mehrere Aufgaben oder Projekte an der ISEP gleichzeitig anstehen und ich trotzdem meine Au-pair-Zeiten einhalten muss. Dann habe ich weniger freie Zeit und muss genauer planen. Zusätzlich ist die Sprache manchmal eine Herausforderung, vor allem wenn im Alltag schnell Französisch gesprochen wird.",
+          "answer_id": "p10_q9"
+        },
+        {
+          "number": "9.1",
+          "question_id": null,
+          "question_text": "Wie hast du versucht, dieses Problem zu lösen, und welche Unterstützung hast du dabei von der ISEP oder anderen Stellen erhalten?",
+          "parent_question_id": "q09",
+          "text": "Ich plane meine Woche inzwischen möglichst früh und stimme mich mit der Gastfamilie ab, wenn an der ISEP besonders viel zu tun ist. Für die Sprache versuche ich, möglichst viel Französisch im Alltag zu sprechen, auch wenn ich nicht alles verstehe. Neue Wörter schreibe ich mir auf und versuche, sie später wieder zu verwenden. Bei organisatorischen Fragen zur ISEP kann ich mich an das International Office wenden. Bei fachlichen Problemen helfen mir außerdem die Lehrenden oder andere Studierende.",
+          "answer_id": "p10_q9_1"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich würde zuerst überlegen, welche Art von Aufenthalt man eigentlich möchte. Eine eigene Wohnung oder WG bietet mehr Freiheit und Privatsphäre, während Au-pair finanziell günstiger sein kann und viel Kontakt zum französischen Alltag ermöglicht. Wenn man Au-pair mit Studium verbindet, sollte man die Aufgaben, Arbeitszeiten und freie Zeit unbedingt vorher klären. Für das Studium würde ich eher etwas weniger Kurse wählen und dafür genug Zeit für laufende Aufgaben und Projekte einplanen. Wenn man über eine Verlängerung des Erasmus-Aufenthalts nachdenkt, würde ich mich außerdem möglichst früh über die organisatorischen Voraussetzungen informieren.",
+          "answer_id": "p10_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_11",
+      "persona_id": "p11",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P11.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Also, ich bin Pierre, 22 Jahre alt, komme aus Belgien und studiere Informatik an der Université de Liège. Ich bin jetzt im fünften Semester. Ich wollte schon ziemlich lange einmal in Paris wohnen, nicht nur für ein verlängertes Wochenende, und die ISEP hat mich wegen der technischen Ausrichtung besonders interessiert. Ich hatte den Eindruck, dass ich dort fachlich wirklich viel lernen kann – und bisher hat sich das auch bestätigt.",
+          "answer_id": "p11_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bei der Vorbereitung war die Bewerbung eigentlich relativ unkompliziert. Ich habe mich über meine Universität und die Erasmus-Informationen informiert und dann die Unterlagen für die ISEP zusammengestellt.\n Eine WG habe ich noch vor der Ankunft im 15. Arrondissement gefunden. Das war natürlich praktisch, aber bei einer Wohnung, die man nur über Fotos und Nachrichten kennt, bleibt trotzdem ein kleines mulmiges Gefühl. Die Anreise selbst war dann kein großes Abenteuer, weil Belgien ja nicht weit entfernt ist.",
+          "answer_id": "p11_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Tage waren trotzdem etwas chaotisch. Ich musste mich erst orientieren, herausfinden, wie ich am besten zur ISEP komme, und natürlich auch die ganzen organisatorischen Dinge erledigen. Gleichzeitig wollte ich sofort möglichst viel von Paris sehen.\n Ich war ziemlich begeistert, aber auch ein bisschen überfordert, weil ständig irgendetwas neu war. Nach ein, zwei Wochen hatte ich dann langsam meine Routinen – Métro, Fahrrad, zu Fuß, je nachdem.",
+          "answer_id": "p11_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bei der Kurswahl habe ich mich für Deep Learning, Data Bases & Big Data sowie Advanced Algorithmic & Programming entschieden. Die Kurse sind auf Englisch und passen ziemlich gut zu meinem Informatikstudium in Liège. Insgesamt ging es um ungefähr 20 ECTS.\n Die Anerkennung musste natürlich mit meiner Heimatuniversität abgestimmt werden, und manche Details waren nicht sofort hundertprozentig klar. Ich habe deshalb lieber einmal mehr nachgefragt, bevor ich später Probleme mit dem Learning Agreement bekomme.",
+          "answer_id": "p11_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Das Studium an der ISEP gefällt mir wirklich sehr. Es ist technisch und teilweise anspruchsvoll, aber genau das wollte ich ja. Besonders bei Deep Learning habe ich das Gefühl, dass ich viel mitnehme und nicht nur oberflächlich Inhalte abarbeite.\n Es gibt natürlich Phasen mit ziemlich viel Arbeit, vor allem wenn mehrere Abgaben oder Prüfungen näher zusammenliegen. Ich würde nicht sagen, dass es immer entspannt ist, aber ich habe bisher enorm viel gelernt. Manchmal sitze ich länger an einer Aufgabe, als ich ursprünglich geplant hatte – das ist wahrscheinlich der weniger schöne Teil.",
+          "answer_id": "p11_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich wohne in einer WG im 15. Arrondissement und zahle ungefähr 700 Euro im Monat. Mein Gesamtbudget liegt bei etwa 1.200 Euro, also muss ich schon ein bisschen aufpassen.\n Paris ist nicht gerade billig, besonders wenn man oft auswärts isst oder spontan irgendwo hingeht. Andererseits kann man einiges zu Fuß oder mit dem Fahrrad machen, und dadurch spare ich zumindest bei den Fahrten.\n Das Zusammenleben in der WG ist nicht immer ganz einfach. Meine Mitbewohner sind teilweise ziemlich kindisch, gerade bei Ordnung und gemeinsamen Regeln. Es ist nichts Dramatisches, aber es nervt, wenn man nach einem langen Studientag nach Hause kommt und sich dann noch über Kleinigkeiten ärgern muss.",
+          "answer_id": "p11_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Kontakte habe ich vor allem über die ISEP und andere Erasmus-Studierende gefunden. Ich bin ziemlich offen und spreche Leute einfach an, deshalb war das für mich nicht so schwierig.\n Wir haben gemeinsam Paris erkundet, waren etwas trinken oder haben uns auch einfach zwischen den Kursen getroffen. Ich mag, dass dort Leute aus verschiedenen Ländern zusammenkommen.\n Gleichzeitig wollte ich nicht nur in einer internationalen Erasmus-Blase bleiben, sondern auch den normalen Alltag in Paris erleben. Deshalb bin ich auch öfter allein unterwegs gewesen oder habe versucht, Dinge außerhalb der typischen Erasmus-Aktivitäten zu machen.",
+          "answer_id": "p11_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Meine größte Herausforderung war wahrscheinlich tatsächlich die WG, nicht das Studium. Das Studium ist anstrengend, aber auf eine gute Art. In der WG führen Kleinigkeiten dagegen immer wieder zu Frust, weil man unterschiedliche Vorstellungen von Sauberkeit, Ruhe oder Verantwortlichkeiten hat.\n Ich habe versucht, Dinge direkt anzusprechen und nicht alles einfach herunterzuschlucken. Vieles löst sich dadurch, aber nicht alles. Von der ISEP habe ich bei akademischen oder organisatorischen Fragen Unterstützung bekommen; bei privaten WG-Konflikten musste ich eher selbstständig eine Lösung finden.",
+          "answer_id": "p11_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe versucht, Probleme möglichst direkt anzusprechen, bevor sie sich über längere Zeit aufstauen. Zum Beispiel haben wir über die Reinigung und gemeinsame Regeln gesprochen. Das funktioniert manchmal ganz gut, aber natürlich kann man nicht erwarten, dass sich alle plötzlich gleich verhalten.\n Ich glaube, ich musste auch lernen, nicht jede Kleinigkeit persönlich zu nehmen. Wenn man mit mehreren Menschen zusammenlebt, gibt es einfach unterschiedliche Gewohnheiten. Bei größeren Problemen würde ich allerdings schon versuchen, klar zu sagen, was mich stört, statt einfach immer nachzugeben.\n Die ISEP war für mich vor allem bei Fragen zum Studium und zur Organisation eine Anlaufstelle. Bei einem WG-Konflikt würde ich jetzt nicht erwarten, dass die Universität das für mich löst.",
+          "answer_id": "p11_q9"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bei der Unterkunft würde ich nicht nur darauf achten, ob das Zimmer günstig ist und gut aussieht. Gerade bei einer WG würde ich versuchen, vorher möglichst viel über die Mitbewohner und das Zusammenleben herauszufinden. Wenn möglich, würde ich auch einmal mit den zukünftigen Mitbewohnern telefonieren oder zumindest genauer nachfragen, wie sie sich die Aufgaben in der Wohnung vorstellen. 700 Euro für ein Zimmer sind im Nachhinein nicht unbedingt günstig, wenn man sich dafür jeden Tag über das Zusammenleben ärgert.\n Bei der Kurswahl würde ich außerdem nicht versuchen, möglichst viele anspruchsvolle Kurse gleichzeitig zu nehmen. Wenn mehrere Kurse gleichzeitig Projekte und Prüfungen haben, kann sich der Arbeitsaufwand plötzlich ziemlich stark konzentrieren. Ich würde deshalb nicht nur auf die ECTS schauen, sondern auch darauf, wie die Prüfungs- und Abgabetermine liegen.\n Und was Paris selbst betrifft: Ich würde mir nicht vornehmen, in den ersten Wochen unbedingt alles sehen zu müssen. Ich hatte am Anfang ständig das Gefühl, ich müsste jede freie Stunde nutzen, um etwas zu unternehmen. Dadurch hatte ich irgendwann fast mehr Stress mit meiner Freizeit als mit dem Studium. Mittlerweile plane ich nicht mehr alles im Voraus und lasse auch einfach einmal einen Abend frei.\n Am wichtigsten finde ich aber, dass man sich selbst ein bisschen aus der Komfortzone bewegt. Gerade wenn man offen auf andere zugeht, findet man relativ schnell Leute. Gleichzeitig würde ich nicht erwarten, dass der gesamte Aufenthalt automatisch durch Erasmus-Veranstaltungen organisiert wird. Man muss schon selbst aktiv werden und auch einmal allein irgendwo hingehen.",
+          "answer_id": "p11_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_12",
+      "persona_id": "p12",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P12.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ja, gerne. Ich heiße Luis, bin 22 Jahre alt und komme aus Kroatien. Ich studiere im fünften Bachelorsemester Software Engineering an der Algebra Bernays University in Zagreb. Ich wollte schon länger einmal für längere Zeit ins Ausland und nicht nur für ein paar Wochen verreisen. Ich wollte auch selbstständiger werden und einmal in einer größeren Stadt leben.\n Paris hat mich natürlich wegen der Stadt selbst interessiert, aber ich wollte auch sehen, wie ein eher praxisorientiertes Informatikstudium in Frankreich im Vergleich zu meinem Studium in Zagreb ist. Außerdem wollte ich mein Französisch verbessern. Ich hatte vor der Anreise allerdings erst ungefähr A1 und wusste schon, dass das wahrscheinlich nicht ganz einfach werden würde.",
+          "answer_id": "p12_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe relativ früh mit der Vorbereitung angefangen, vor allem wegen des Learning Agreements. Ich wollte ungefähr 30 ECTS machen und natürlich sicher sein, dass ich die Kurse später auch in Zagreb anerkannt bekomme. Das war teilweise etwas mühsam, weil ich die Kursbeschreibungen vergleichen musste und nicht bei allen Kursen sofort klar war, ob sie passen.\n Dann kamen noch Sachen wie Krankenversicherung, Mietvertrag und später ein französisches Bankkonto dazu. Die Wohnungssuche war ehrlich gesagt schwieriger als erwartet. Ich habe über verschiedene Plattformen gesucht und auch Leute angeschrieben, aber ich habe mehrere Absagen bekommen. Teilweise habe ich gar keine Antwort bekommen.\n Am Ende habe ich ein möbliertes Zimmer in einer WG in Issy-les-Moulineaux gefunden. Das war ziemlich praktisch, weil es relativ nah am ISEP-Campus liegt. Die Anreise selbst war dann eigentlich unkompliziert, nur mit meinem ganzen Gepäck war es etwas mühsam. Vorher habe ich noch mit einer Sprach-App und ein paar Online-Videos versucht, mein Französisch zumindest ein bisschen aufzufrischen.",
+          "answer_id": "p12_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Tage waren schon ziemlich überwältigend. Es waren einfach sehr viele neue Dinge gleichzeitig: neue Wohnung, neue Umgebung, Campus finden, einkaufen und herausfinden, wie alles funktioniert. Dazu kam, dass mein Französisch noch nicht besonders gut war.\n Auf Englisch konnte ich mich meistens gut verständigen, aber bei kleineren Geschäften oder wenn jemand schnell Französisch gesprochen hat, habe ich manchmal einfach nicht verstanden, was die Person von mir wollte. Am Anfang habe ich dann oft einfach gelächelt und gehofft, dass es passt.\n Gleichzeitig habe ich aber relativ schnell Leute kennengelernt. In der Einführungswoche bin ich über eine internationale Sportgruppe mit anderen Austauschstudierenden in Kontakt gekommen. Danach haben wir öfter gemeinsam gekocht oder Paris erkundet. Das gemeinsame Kochen war tatsächlich ziemlich wichtig, weil Essen gehen für mein Budget schnell teuer geworden wäre.",
+          "answer_id": "p12_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Kurswahl war grundsätzlich gut organisiert, aber es gab ein paar Überschneidungen und später auch Änderungen bei den Stundenplänen. Ich hatte Software Engineering, Web Development, Datenbanken, Projektmanagement und einen Französischkurs ausgewählt.\n Ich habe die Kurse zuerst mit dem Angebot der ISEP und danach mit meiner Universität in Zagreb verglichen. Bei manchen Kursen musste ich dann noch einmal nachfragen, ob die Inhalte und der Arbeitsaufwand wirklich für die Anerkennung passen.\n Das International Office an der ISEP hat mir dabei geholfen, aber ich musste trotzdem selbst ziemlich genau aufpassen. Ich habe irgendwann gemerkt, dass man sich nicht darauf verlassen sollte, dass automatisch alles passt, nur weil ein Kurs im Learning Agreement steht. Ich wollte 30 ECTS machen und hatte deshalb schon etwas Angst, dass am Ende ein Kurs nicht anerkannt wird.",
+          "answer_id": "p12_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Der Unterricht war überwiegend auf Englisch, was für mich angenehm war. Nur bei den französischen Sprachkursen war natürlich alles auf Französisch, wobei dort schon Rücksicht darauf genommen wurde, dass wir Anfänger waren.\n Vom Arbeitsaufwand her war es für mich insgesamt machbar. Es gab einige Projekte und Gruppenarbeiten, was ich eigentlich ganz gut fand. Ich hatte allerdings beim akademischen Niveau etwas höhere Erwartungen. Ich hatte gedacht, dass einige der Informatikmodule anspruchsvoller sein würden.\n Vor allem bei manchen Inhalten hatte ich das Gefühl, dass sie für mich eher Grundlagen wiederholen. Web Development und Projektmanagement fand ich trotzdem praktisch und interessant. Also ich würde nicht sagen, dass die Kurse schlecht waren, nur war ich fachlich nicht immer so gefordert, wie ich es erwartet hatte.",
+          "answer_id": "p12_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich hatte ein möbliertes Zimmer in einer WG in Issy-les-Moulineaux. Die Lage war für mich wirklich praktisch, weil ich zu Fuß zum Campus gehen konnte. Wenn ich nach Paris hinein wollte, habe ich meistens die Metro oder die Tram genommen.\n Mit meinen Mitbewohnern hat es meistens gut funktioniert. Natürlich gab es manchmal Diskussionen darüber, wer die Küche putzt oder wann das Bad sauber gemacht wird. Aber insgesamt war es okay.\n Mein Budget lag bei ungefähr 1.100 Euro im Monat. Für das Zimmer habe ich etwa 700 Euro inklusive Nebenkosten bezahlt. Damit blieb dann nicht mehr besonders viel für Essen, Transport und Freizeit übrig.\n Ich habe am Anfang unterschätzt, wie schnell sich die kleinen Ausgaben summieren. Wenn man hier und da einen Kaffee trinkt, etwas essen geht oder spontan irgendwo Eintritt bezahlt, ist das Geld ziemlich schnell weg. Nach einer Weile habe ich deshalb genauer auf meine Ausgaben geschaut und wir haben in der WG häufiger gemeinsam gekocht.",
+          "answer_id": "p12_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bei mir war die internationale Sportgruppe während der Einführungswoche wahrscheinlich am hilfreichsten. Dort habe ich Studierende aus verschiedenen Ländern kennengelernt und nicht nur Leute von der ISEP. Danach haben wir uns immer wieder getroffen, gemeinsam gekocht oder sind durch verschiedene Viertel von Paris gelaufen.\n An der ISEP selbst gab es natürlich auch Möglichkeiten, andere Austauschstudierende kennenzulernen. Zusätzlich habe ich WhatsApp- und Facebook-Gruppen genutzt. Gerade am Anfang waren die ziemlich praktisch, weil man dort schnell mitbekommen hat, was andere machen.\n Mein Französisch hat sich eher langsam verbessert. Ich habe nicht plötzlich angefangen, fließend zu sprechen. Aber durch alltägliche Situationen konnte ich irgendwann kleine Gespräche führen und mich zum Beispiel in Geschäften oder im öffentlichen Verkehr besser verständigen.",
+          "answer_id": "p12_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Am schwierigsten war für mich wahrscheinlich die Kombination aus dem begrenzten Budget und den hohen Kosten in Paris. Die Miete hat schon einen großen Teil meines Geldes verbraucht. Gleichzeitig wollte ich natürlich nicht nur studieren und in der Wohnung sitzen. Ich wollte Paris auch wirklich erleben.\n Französisch war ebenfalls manchmal ein Problem, besonders bei Behörden oder mit Vermietern. Wenn jemand nicht gut Englisch gesprochen hat, war ich teilweise ziemlich aufgeschmissen.\n Und dann war da noch die Sache mit dem Studium. Ich hatte erwartet, dass ich fachlich stärker gefordert werde. Als ich gemerkt habe, dass manche Kurse für mich eher einfach sind, war ich zuerst etwas enttäuscht. Irgendwann habe ich versucht, das nicht mehr als großes Problem zu sehen und einfach das mitzunehmen, was für mich interessant ist.",
+          "answer_id": "p12_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Beim Geld habe ich am Anfang ehrlich gesagt ein bisschen zu locker gelebt. Nach dem ersten Monat habe ich dann gemerkt, dass ich so nicht weit komme. Danach habe ich angefangen, meine Ausgaben genauer aufzuschreiben und mir ungefähr festzulegen, wie viel ich pro Woche für Essen und Freizeit ausgeben kann.\n Wir haben auch oft gemeinsam in der WG gekocht. Das war günstiger und gleichzeitig eine gute Möglichkeit, etwas mit den anderen zu machen. Für Freizeit habe ich öfter kostenlose Sachen gemacht, zum Beispiel Spaziergänge oder Sport.\n Bei organisatorischen Problemen habe ich meistens zuerst selbst auf der ISEP-Webseite oder in meinen Unterlagen gesucht. Wenn ich danach noch nicht weiterwusste, habe ich beim International Office nachgefragt. Andere Austauschstudierende waren ebenfalls sehr hilfreich, weil manche Probleme bei ihnen schon einmal aufgetreten waren.\n Beim Französisch habe ich versucht, nicht sofort auf Englisch zu wechseln. Das hat nicht immer funktioniert und manchmal war es auch etwas unangenehm, wenn ich kaum verstanden habe, was die andere Person sagt. Aber wahrscheinlich habe ich dadurch mehr gelernt, als wenn ich immer sofort ins Englische gewechselt hätte.",
+          "answer_id": "p12_q9"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich würde die Unterkunft und das Learning Agreement wirklich früh angehen. Vor allem bei der Wohnungssuche würde ich nicht erst kurz vor der Abreise anfangen. Und man sollte vorsichtig sein, bevor man Geld überweist. Ich habe bei manchen Angeboten schon ein komisches Gefühl gehabt und würde lieber einmal zu viel prüfen.\n Beim Budget würde ich auch realistischer planen. Nicht nur die Miete einrechnen, sondern auch Kaution, Transport, Lebensmittel und die ganzen kleinen Ausgaben. Die merkt man am Anfang gar nicht so stark, aber sie summieren sich.\n Bei den Kursen würde ich alle Inhalte und ECTS vorher mit der Heimatuniversität absprechen. Und auch wenn die meisten Kurse auf Englisch sind, würde ich vorher ein bisschen Französisch lernen. Schon einfache Sätze helfen im Alltag.\n Mein wichtigster Tipp wäre aber, in der ersten Woche aktiv auf andere Leute zuzugehen. Das ist vielleicht etwas unangenehm, besonders wenn man niemanden kennt, aber bei mir hat die Sportgruppe wirklich einen Unterschied gemacht. Dadurch hatte ich relativ schnell Leute, mit denen ich etwas unternehmen konnte, und Paris hat sich viel weniger fremd angefühlt.",
+          "answer_id": "p12_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_13",
+      "persona_id": "p13",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P13.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin Daria, 19 Jahre alt, komme aus Deutschland und studiere im dritten Semester Informatik an der HTW Berlin. Ich habe mich für das Erasmus-Semester an der ISEP entschieden, weil ich zum ersten Mal längere Zeit im Ausland leben wollte und die ISEP als technische Hochschule gut zu meinem Studium gepasst hat. Besonders interessant fand ich, dass ich dort technische Kurse auf Englisch belegen konnte. Ich wollte außerdem selbstständiger werden und meine Programmiererfahrung erweitern.",
+          "answer_id": "p13_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Vorbereitung war bei mir eher kurzfristig und etwas chaotisch. Mit Erasmus hatte ich vorher kaum Erfahrung, und vor allem das Learning Agreement und die Versicherungsunterlagen haben mich ziemlich überfordert.\n Die Unterkunft habe ich über den Housing-Service der ISEP gesucht. Die Zusage für ein Zimmer im Studentenwohnheim kam aber erst kurz vor der Abreise, was ziemlich stressig war. Finanziert habe ich den Aufenthalt durch die Erasmus-Förderung und Unterstützung von meinen Eltern. Französisch habe ich vorher nur ein paar Wochen mit einer App gelernt.",
+          "answer_id": "p13_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Tage waren leider schwieriger als erwartet. Direkt nach meiner Ankunft wurde ich krank und lag mehrere Tage im Bett. Dadurch habe ich die Einführungswoche verpasst und auch wichtige Informationen zu den Kursen nicht mitbekommen.\n In einer fremden Stadt war das ziemlich unangenehm, weil ich noch niemanden kannte. Ich musste mich zunächst selbst um einen Arztbesuch und die nötigen Unterlagen kümmern. Als ich wieder gesund war, hatte ich das Gefühl, schon etwas hinterherzuhinken.",
+          "answer_id": "p13_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Bei der Kurswahl hatte ich mich für Webentwicklung, Datenbanken, Grundlagen der KI und einen Französischkurs entschieden. Die Unterrichtssprache war Englisch, was für mich grundsätzlich gut funktioniert hat.\n Die Einschreibung und das Learning Agreement waren trotzdem nicht ganz einfach, weil sich manche Informationen für mich widersprochen haben oder nicht rechtzeitig kamen. Ich sollte ungefähr 30 ECTS erreichen. Bei der Anerkennung musste ich deshalb relativ genau mit meiner Heimathochschule abgleichen, welche Kurse angerechnet werden können.",
+          "answer_id": "p13_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Das Studium an der ISEP war technisch interessant, aber der Einstieg war für mich schwierig, weil ich durch meine Krankheit verspätet angefangen habe. Besonders bei Gruppenarbeiten war es unangenehm, neu dazuzukommen, wenn die anderen schon Aufgaben verteilt hatten.\n Der Arbeitsaufwand war machbar, aber man musste regelmäßig dranbleiben. Ich habe viel allein gearbeitet, zum Beispiel an Aufgaben für Webentwicklung und Datenbanken. Bei Grundlagen der KI fand ich die Inhalte spannend, aber teilweise musste ich einiges nacharbeiten, weil ich am Anfang gefehlt hatte.",
+          "answer_id": "p13_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe in einem Studentenwohnheim gewohnt und ungefähr 600 Euro im Monat für das Zimmer bezahlt. Mein gesamtes Budget lag bei ungefähr 900 Euro, deshalb musste ich bei anderen Ausgaben schon aufpassen.\n Paris ist natürlich teuer, vor allem beim Essen und bei spontanen Unternehmungen. Ich bin meistens mit der Metro gefahren oder zu Fuß gegangen und habe nicht ständig in Restaurants gegessen. Dadurch ging es einigermaßen, aber besonders viel finanzieller Spielraum war nicht da.",
+          "answer_id": "p13_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Kontakte zu anderen Studierenden zu finden, war für mich anfangs nicht leicht. Weil ich die Einführungswoche verpasst hatte und eher schüchtern bin, habe ich nicht automatisch Anschluss gefunden.\n Eine Kommilitonin aus meinem Webentwicklungs-Kurs hat mir später geholfen, den verpassten Stoff nachzuholen. Dadurch bin ich dann auch mit ein paar anderen Studierenden ins Gespräch gekommen.\n Französisch habe ich während des Aufenthalts nur von A1 auf ungefähr A2 verbessert, deshalb habe ich mich im Alltag meistens auf Englisch verlassen. Paris selbst habe ich vor allem zu Fuß und mit der Metro erkundet.",
+          "answer_id": "p13_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Mein größtes Problem war eigentlich die Erkrankung direkt zu Beginn. Dadurch habe ich nicht nur Unterricht verpasst, sondern auch den sozialen Einstieg und wichtige organisatorische Informationen.\n Danach hatte ich ständig das Gefühl, hinterherzulaufen. Zusätzlich war es schwierig, vom International Office rechtzeitig Antworten zu bekommen. Einige E-Mails wurden spät oder gar nicht beantwortet, und ich wusste manchmal nicht, an wen ich mich sonst wenden sollte.",
+          "answer_id": "p13_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe zunächst versucht, alles allein zu lösen, wahrscheinlich auch zu lange. Ich habe die Kursunterlagen selbst zusammengesucht und meine Kommilitonin um Hilfe gebeten. Sie hat mir beim Nachholen des Stoffes geholfen und beim International Office noch einmal nachgehakt. Für den Arztbesuch und die Unterlagen musste ich mich größtenteils selbst organisieren. Von der ISEP gab es zwar Informationen über die Website und per E-Mail, aber in meiner konkreten Situation hätte ich mir eine deutlich schnellere und persönlichere Unterstützung gewünscht.",
+          "answer_id": "p13_q9"
+        },
+        {
+          "number": "9.1",
+          "question_id": null,
+          "question_text": "Du hast gesagt, dass du durch deine Erkrankung die Einführungswoche und den Studienstart verpasst hast. Was hat dir im Nachhinein am meisten geholfen, wieder Anschluss an die Kurse und den Alltag zu finden?",
+          "parent_question_id": "q09",
+          "text": "Am meisten hat mir wirklich die Kommilitonin aus dem Webentwicklungs-Kurs geholfen. Sie hat mir nicht nur ihre Mitschriften und die Aufgabenstellungen geschickt, sondern mir auch erklärt, wie die Gruppenarbeiten organisiert waren und wer eigentlich für was zuständig war. Ohne sie wäre ich wahrscheinlich noch viel länger im Unklaren gewesen, was gerade läuft.\n Auch praktisch war, dass sie mir konkret gesagt hat, welche E-Mails ich noch einmal an das International Office schicken sollte und an wen genau. Ich hatte vorher immer das Gefühl, an eine allgemeine Adresse zu schreiben, die niemand liest. Sie hat mir eine spezifischere Kontaktadresse gegeben, wo dann tatsächlich schneller eine Antwort kam.\n Vom Inhalt her habe ich dann angefangen, mir die Vorlesungsfolien und Aufzeichnungen selbstständig anzusehen. Bei Grundlagen der KI war das zum Beispiel wichtig, weil dort schon relativ schnell erste Übungen kamen. Ich habe mir dann abends Zeit genommen, um die verpassten Themen nachzuarbeiten, auch wenn das am Anfang ziemlich überwältigend war.\n Was den Alltag angeht, hat es geholfen, dass ich durch sie auch ein paar andere Leute aus dem Kurs kennengelernt habe. Wir haben uns dann öfter zum gemeinsamen Lernen getroffen, und dadurch bin ich langsam aus meiner Isolation rausgekommen. Vorher saß ich eigentlich nur allein in meinem Zimmer und habe versucht, alles allein zu lösen.\n Im Nachhinein würde ich sagen: Der soziale Anschluss war fast noch wichtiger als der reine Lernstoff. Sobald ich ein paar Gesichter kannte und mich traute, nachzufragen, lief es deutlich besser.",
+          "answer_id": "p13_q9_1"
+        },
+        {
+          "number": "9.2",
+          "question_id": null,
+          "question_text": "Du hast erwähnt, dass du teilweise lange auf Antworten vom International Office warten musstest. Was würdest du Studierenden empfehlen, wenn sie auf eine wichtige organisatorische Frage keine Antwort bekommen?",
+          "parent_question_id": "q09",
+          "text": "Ich würde auf jeden Fall empfehlen, nicht nur eine E-Mail an eine allgemeine Adresse zu schicken und dann abzuwarten. Bei mir war das oft so, dass ich an eine zentrale E-Mail-Adresse geschrieben habe und dann tagelang nichts kam.\n Fragt am besten direkt nach konkreten Ansprechpersonen oder spezifischeren Adressen, zum Beispiel über Kommilitonen, die schon länger da sind, oder über die Heimatuni.\n Wenn nach ein paar Tagen immer noch keine Antwort kommt, würde ich eine zweite, kürzere E-Mail schreiben und im Betreff klar markieren, dass es dringend ist – zum Beispiel mit „Urgent: Learning Agreement“. Manchmal gehen E-Mails einfach unter, und eine freundliche Erinnerung hilft schon.\n Außerdem kann man sich parallel an die Koordinatoren der Heimatuniversität wenden. Die haben oft direktere Kontakte zur Gastuni und können manchmal schneller eine Antwort bekommen als man selbst. Bei mir hat das International Office der HTW Berlin dann tatsächlich noch einmal nachgefasst, und plötzlich kamen Antworten.\n Und ganz praktisch: Bewahrt alle E-Mails und Screenshots auf, falls ihr später nachweisen müsst, dass ihr euch rechtzeitig gekümmert habt. Das hat mir im Nachhinein geholfen, als es um die Anerkennung von Kursen ging.\n Am wichtigsten ist aber: Wartet nicht zu lange. Ich habe am Anfang zu viel Zeit verloren, weil ich dachte, es kommt noch eine Antwort. Lieber mehrmals nachfragen, als am Ende Probleme bei der Anerkennung zu bekommen.",
+          "answer_id": "p13_q9_2"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Mein wichtigster Rat wäre, die Unterkunft und alle wichtigen Dokumente möglichst früh zu organisieren. Gerade beim Learning Agreement würde ich nicht davon ausgehen, dass sich offene Fragen irgendwann von selbst klären.\n Wenn man neu an der ISEP ist, würde ich außerdem versuchen, möglichst schnell ein paar Kontakte zu anderen Studierenden aufzubauen. Wenn man einmal jemanden kennt, kann diese Person bei organisatorischen Fragen oder verpasstem Unterricht oft viel schneller weiterhelfen als eine allgemeine E-Mail-Adresse.\n Und falls man krank wird oder aus einem anderen Grund den Studienstart verpasst, würde ich sofort Bescheid sagen und mir gezielt von Kommilitonen die Unterlagen und Informationen besorgen. Ich habe damit leider zu lange gewartet und dadurch den Einstieg unnötig schwer gemacht.\n Außerdem würde ich alle wichtigen E-Mails, Zusagen und Dokumente aufbewahren. Gerade bei Learning Agreement und Anerkennung kann es später hilfreich sein, wenn man noch nachvollziehen kann, was wann vereinbart wurde.",
+          "answer_id": "p13_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_14",
+      "persona_id": "p14",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P14.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin Pi Lindström, 27, aus Schweden und studiere Computer Science im Master an der KTH in Stockholm. Gerade verbringe ich mein drittes Mastersemester an der ISEP. Ich wollte verteilte Systeme und IT-Sicherheit mit einem Aufenthalt in Paris verbinden, aber nicht nur auf Englisch studieren. Einen technischen Kurs wirklich auf Französisch zu machen, war für mich ein wichtiger Teil der Entscheidung. Sonst hätte ich auch irgendwo sitzen können, wo das Wetter genauso schlecht ist wie in Stockholm.",
+          "answer_id": "p14_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Vorbereitung lief ziemlich strukturiert. Ich habe zuerst die Austauschinformationen der KTH, die Kursbeschreibungen der ISEP und Erfahrungsberichte durchgesehen und dann abgeglichen, was in meinen Master passt. Bewerbung, Learning Agreement und Immatrikulation waren eigentlich schnell erledigt. Mehr Zeit ging für die Wohnung drauf: Ich habe über französische Mietportale und Studapart gesucht und meine Unterlagen gesammelt, damit ich bei einem passenden Angebot direkt reagieren konnte. Am Ende wurde es ein Studio im 14. Arrondissement. Für die Anreise habe ich einen Flug gebucht und mein Rennrad als Sportgepäck mitgenommen. Sprachlich habe ich vorher viel französische Podcasts gehört und Fachtexte gelesen. Alltagsfranzösisch und eine Diskussion über Kryptographie sind eben doch zwei verschiedene Dinge.",
+          "answer_id": "p14_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Am Anfang war ich vor allem damit beschäftigt, meinen Alltag aufzubauen: Wohnung übernehmen, einkaufen, Wege zur Hochschule ausprobieren, das Rad wieder zusammenbauen. Ich bin relativ schnell allein durch mein Viertel gelaufen und gefahren. Das hilft mir mehr beim Ankommen als zehn organisierte Kennenlernspiele. Paris hat mir sofort gefallen, aber beim Radfahren musste ich mich umstellen. Meine Vorstellung war etwas entspannter als die tatsächliche Erfahrung an manchen Kreuzungen. An der ISEP war der Empfang freundlich. Überrascht hat mich eher, wie eng der Studienalltag organisiert ist.",
+          "answer_id": "p14_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe Distributed Systems, Cloud Architecture, Machine Learning und den französischsprachigen Kurs „Sécurité des Réseaux et Cryptographie“ gewählt. Besonders beim Sicherheitskurs habe ich vorher genau auf die Inhalte geschaut, nicht nur auf den Titel. Die geplanten 30 ECTS habe ich mit der zuständigen Person an der KTH im Learning Agreement abgestimmt. Die Einschreibung ging bei mir ohne größere Schwierigkeiten. Die endgültige Anerkennung kann ich noch nicht beurteilen, das Semester läuft ja noch. Für mich war wichtig, die Zustimmung vorher schriftlich zu haben und die Modulbeschreibungen aufzubewahren. Ich möchte nachher nicht darüber diskutieren müssen, ob ein Kurs plötzlich doch nicht fachlich genug war.",
+          "answer_id": "p14_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Inhaltlich finde ich gerade die Systems- und Sicherheitsthemen interessant. Was mich stört, ist weniger das Niveau als die Organisation. Ich hatte ein freieres, stärker forschungsorientiertes Studium erwartet, wie ich es von der KTH kenne. Stattdessen gibt es ziemlich feste Tagespläne, Anwesenheitskontrollen, kleinere Hausaufgaben und immer wieder kurze Abfragen. Man ist dadurch ständig beschäftigt, aber beschäftigt sein und etwas vertieft verstehen sind für mich nicht automatisch dasselbe. Der französische Sicherheitskurs fordert mich trotzdem: Ich kann gut mitdiskutieren, muss bei präzisen Fachbegriffen aber manchmal kurz überlegen. Mein Französisch war bei der Ankunft ungefähr B2; inzwischen werde ich vor allem fachlich deutlich sicherer.",
+          "answer_id": "p14_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich wohne allein in einem kleinen Studio nahe Montparnasse und zahle ungefähr 980 Euro warm. Mein gesamtes monatliches Budget liegt bei etwa 1.600 Euro, finanziert durch schwedische CSN-Studienförderung, Erasmus und Ersparnisse aus meiner Werkstudententätigkeit. Die Miete nimmt also schon einen ziemlich unangenehmen Teil davon weg. Ich wollte trotzdem bewusst keine WG, weil ich zum Arbeiten und nach einem langen Hochschultag Ruhe brauche. Dafür koche ich viel selbst und überlege bei größeren Ausgaben. Meist fahre ich mit meinem Rennrad, gelegentlich nehme ich die Metro. Essen gehen und Kultur mache ich schon, aber nicht jeden Abend. Das Studio ist mein Luxus, nicht die Cocktailkarte.",
+          "answer_id": "p14_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Kontakte kamen bei mir eher über gemeinsame Aufgaben und Gespräche nach dem Unterricht zustande. Im französischen Kurs war das angenehm, weil ich dadurch auch mit lokalen Studierenden ins Gespräch gekommen bin und nicht nur im englischsprachigen Austauschkreis blieb. Ich bin mit 27 und meiner Arbeitserfahrung manchmal an einem anderen Punkt als jüngere Kommilitonen. Das ist kein Drama, aber ich brauche nicht jede Woche drei Partys. Mir passen gemeinsame Mittagessen, eine Ausstellung oder ein kleiner Konzertabend besser. Französisch zu sprechen macht dabei viel aus. Man ist dann nicht immer die Person, für die alle erst die Sprache wechseln müssen.",
+          "answer_id": "p14_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Meine größte Herausforderung war bisher tatsächlich der Umgang mit den starren Vorgaben. In der dritten Semesterwoche habe ich mit einem Dozenten über die Anwesenheitskontrolle diskutiert. Ich hatte den Stoff der betreffenden Vorlesung schon selbst durchgearbeitet und wollte parallel an einem Open-Source-Projekt arbeiten. Für mich war die Frage: Warum zählt meine Anwesenheit stärker als das, was ich nachweislich kann? Für ihn ging es darum, dass dieselben Regeln für alle gelten. Das war keine besonders produktive Begegnung. Ich bin mit einer sachlichen Frage hineingegangen und habe erst im Gespräch gemerkt, wie grundsätzlich wir da unterschiedlich denken.",
+          "answer_id": "p14_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich habe danach noch einmal ruhiger mit ihm gesprochen und versucht, die Diskussion von „Ich will nicht kommen“ zu „Wie kann ich sinnvoll mitarbeiten?“ zu verschieben. Eine generelle Ausnahme habe ich nicht bekommen. Ich habe auch bei der Austauschkoordination nachgefragt, damit ich die Vorgaben und mögliche Folgen richtig verstehe. Das war hilfreich zur Klärung, aber die konnten die Kursregeln natürlich nicht einfach aufheben. Praktisch habe ich meine Projektarbeit auf freie Zeitfenster gelegt und versuche, bei Aufgaben stärker in die Tiefe zu gehen, wenn das möglich ist. Andere Studierende haben mir außerdem erklärt, welche Abläufe man einfach früh kennen sollte. Ich suche inzwischen gezielter nach Spielraum, statt jedes Prinzip einzeln zu bekämpfen. Dafür ist mein Semester dann doch zu kurz.",
+          "answer_id": "p14_q9"
+        },
+        {
+          "number": "9.1",
+          "question_id": null,
+          "question_text": "Du hast einen französischsprachigen Fachkurs in „Sécurité des Réseaux et Cryptographie“ gewählt. Was hat dir bei der Vorbereitung auf diesen Kurs am meisten geholfen, und würdest du anderen Studierenden empfehlen, einen Fachkurs auf Französisch zu belegen?",
+          "parent_question_id": "q09",
+          "text": "Am meisten hat mir geholfen, Fachtexte auf Französisch zu lesen, deren Inhalt ich schon ungefähr kannte. Dann musste ich nicht gleichzeitig ein neues Sicherheitskonzept und die Sprache verstehen. Ich habe mir beispielsweise Begriffe zu Schlüsselaustausch und Authentifizierung notiert und versucht, die Zusammenhänge laut auf Französisch zu erklären. Beim Lesen denkt man schnell: Ja, klar, verstanden. Sobald man selbst erklären soll, merkt man, wo die Wörter fehlen. Die Podcasts waren eher dafür gut, mich an das Tempo zu gewöhnen. Diese Mischung aus Fachliteratur, Podcasts und meinen früheren Französischkursen war meine Vorbereitung.\n Ich würde so einen Kurs wieder wählen. Gerade die Diskussionen mit französischen Studierenden sind für mich ein wichtiger Teil des Austauschs. Allerdings war mein Französisch bei der Ankunft schon auf B2, und die fachlichen Grundlagen waren mir vertraut. Trotzdem suche ich manchmal nach einer präzisen Formulierung. Ich würde anderen deshalb nicht sagen: „Mach das unbedingt, wird schon.“ Eher: Nimm ein Fach, in dem du dich inhaltlich einigermaßen sicher fühlst, und akzeptiere, dass du anfangs nicht jeden Gedanken so elegant ausdrücken kannst wie auf Englisch. Man muss nicht fehlerfrei sprechen, um einen guten fachlichen Einwand zu haben.",
+          "answer_id": "p14_q9_1"
+        },
+        {
+          "number": "9.2",
+          "question_id": null,
+          "question_text": "Du hast die Anwesenheitsregeln als Herausforderung erlebt. Würdest du bei der Kurswahl heute anders vorgehen, um besser einschätzen zu können, wie stark ein Kurs den Studienalltag tatsächlich strukturiert?",
+          "parent_question_id": "q09",
+          "text": "Ja, ich würde heute deutlich konkreter nach dem Ablauf fragen. Ich hatte vor allem geprüft, was unterrichtet wird und ob es in meinen Master passt. Das war nicht falsch, aber eben nur die halbe Information. Ein interessanter Kurstitel sagt mir noch nicht, ob ich selbstständig an einem größeren Projekt arbeite oder jede Woche mehrere kleine Pflichtaufgaben abgeben muss.\n Ich würde mir möglichst einen tatsächlichen Wochenplan und die Bewertungsregeln geben lassen. Und ich würde jemanden fragen, der den Kurs schon besucht hat: Wie oft musstest du da sein? Was passiert bei einer Fehlzeit? Wie viele laufende Abgaben gibt es wirklich? Vor allem würde ich zwischen offizieller Beschreibung und gelebtem Unterricht unterscheiden. „Eigenständiges Arbeiten“ kann offenbar auch heißen, dass man eigenständig bis morgen ein Arbeitsblatt fertig macht.\n Den französischen Sicherheitskurs würde ich deswegen wahrscheinlich nicht streichen. Die fachliche und sprachliche Herausforderung wollte ich ja bewusst. Ich würde eher darauf achten, dass nicht alle gewählten Kurse gleichzeitig meinen Kalender so eng festlegen. Mein Fehler war nicht, einen anspruchsvollen Kurs zu wählen, sondern anzunehmen, dass anspruchsvoll automatisch auch viel Freiheit bedeutet.",
+          "answer_id": "p14_q9_2"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Mein konkreter Rat wäre: Fragt vor der Kurswahl nicht nur nach Inhalten und ECTS, sondern auch nach Anwesenheit, laufenden Abgaben und Prüfungsformen. Ich hatte die Fachbeschreibungen gründlich gelesen, aber den tatsächlichen Wochenrhythmus unterschätzt. Und wenn ihr einen französischsprachigen Fachkurs machen wollt, bereitet euch mit Material aus genau diesem Fachgebiet vor. Mir hat das mehr gebracht als noch einmal allgemeine Grammatikübungen durchzugehen. Für die Unterkunft würde ich früh ein vollständiges Bewerbungsdossier vorbereiten und ehrlich rechnen, wie viel nach der Miete übrig bleibt. Paris macht mehr Spaß, wenn man nicht bei jedem Kaffee seine Finanzierung neu verhandeln muss.",
+          "answer_id": "p14_q10"
+        }
+      ]
+    },
+    {
+      "interview_id": "INT_15",
+      "persona_id": "p15",
+      "guide_id": "isep_erasmus_v1",
+      "source_file": "P15.txt",
+      "language": "de",
+      "answers": [
+        {
+          "number": "1",
+          "question_id": "q01",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich bin Malte van Dijk, 21, aus den Niederlanden. Ich studiere Computing Science in Groningen und war von September bis Januar an der ISEP. Ehrlich gesagt war Paris der Hauptgrund. Clubs, Konzerte, eine große Stadt. Die englischen Kurse haben zu meinem Studium gepasst, und die Bewerbung wirkte machbar.",
+          "answer_id": "p15_q1"
+        },
+        {
+          "number": "2",
+          "question_id": "q02",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Eher knapp. Ich habe die Pflichtunterlagen erledigt, aber meistens erst nach einer Erinnerung. Das Learning Agreement musste ich mehrfach nachreichen, weil ich Mails liegen gelassen hatte. Mein Zimmer habe ich kurz vor der Abreise über eine Facebook-Gruppe gefunden, bei einem niederländischen Expat. Angereist bin ich mit dem Zug und ziemlich viel Gepäck. Französisch vorbereitet hatte ich gar nicht.",
+          "answer_id": "p15_q2"
+        },
+        {
+          "number": "3",
+          "question_id": "q03",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die ersten Tage waren gut. Zimmer beziehen, Metro ausprobieren, abends Leute aus einer Erasmus-WhatsApp-Gruppe treffen. Ich war schneller in einer Bar als richtig im Hochschulalltag angekommen. Nach zwei Wochen habe ich dann gemerkt, dass spät heimkommen und morgens im Unterricht sitzen nicht dauerhaft zusammenpasst. War jetzt keine völlig überraschende Erkenntnis, aber ich hatte sie vorher ignoriert.",
+          "answer_id": "p15_q3"
+        },
+        {
+          "number": "4",
+          "question_id": "q04",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich hatte Web Applications, Intro to Data Science, Human-Computer Interaction und Französisch für Anfänger gewählt. Angemeldet war ich für 30 ECTS. Bei der Einschreibung fehlte zwischendurch noch die aktuelle Version meines Learning Agreements. Das war eher mein Fehler als ein kompliziertes Verfahren. Was genau Groningen später anerkennt, musste ich mit der dortigen Koordination klären. Ich wollte vor allem vermeiden, mit zu wenig bestandenen Leistungen zurückzukommen.",
+          "answer_id": "p15_q4"
+        },
+        {
+          "number": "5",
+          "question_id": "q05",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die Programmierinhalte lagen mir. Wenn ich da war und angefangen habe, kam ich meistens recht schnell rein. Aber es gab mehr laufende Abgaben und Gruppenarbeit, als ich erwartet hatte. Einfach kurz vor der Klausur lernen war nicht überall möglich. Die Anwesenheit war auch deutlich weniger egal, als ich gehofft hatte. Der Aufwand wurde vor allem dann unangenehm, wenn ich zwei Wochen fast nichts gemacht hatte.",
+          "answer_id": "p15_q5"
+        },
+        {
+          "number": "6",
+          "question_id": "q06",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Ich hatte ein kleines Zimmer zur Zwischenmiete im 11. Arrondissement, in der Gegend Bastille/Oberkampf. Für mich eine gute Lage, für ungefähr 850 Euro allerdings kein Schnäppchen. Insgesamt hatte ich etwa 1.450 Euro im Monat, aus DUO, Erasmus-Förderung und etwas Erspartem. Das ging, aber mit Ausgehen und nächtlichen Uber- oder Bolt-Fahrten wurde es eng. Ich habe dann eher beim Essen gespart als beim Feiern. Nicht unbedingt clever.",
+          "answer_id": "p15_q6"
+        },
+        {
+          "number": "7",
+          "question_id": "q07",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Hauptsächlich über WhatsApp-Gruppen und beim Ausgehen. Einer schrieb, dass er irgendwo hingeht, und man kam mit. Mein engerer Kreis bestand fast nur aus internationalen Studierenden. Mit französischen Leuten hatte ich weniger Kontakt. Auf Englisch war alles einfach für mich, und mein Französisch blieb ziemlich bei „bonjour“, „merci“ und Bier bestellen. Da habe ich auch wenig investiert.",
+          "answer_id": "p15_q7"
+        },
+        {
+          "number": "8",
+          "question_id": "q08",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Die größte Herausforderung war irgendwann die Angst, wegen zu wenig ECTS Geld zurückzahlen zu müssen. Ich hatte Fehlzeiten gesammelt und Beiträge für Gruppenarbeiten aufgeschoben. Einmal schrieb ein Gruppenmitglied ziemlich direkt, dass sie meinen Teil nicht auch noch übernehmen würden. War berechtigt. Mitte Dezember habe ich dann in einem Notizbuch ausgerechnet, welche Leistungen und welche Noten ich in zwei Klausuren noch brauchte. Da war Paris kurz weniger entspannt.",
+          "answer_id": "p15_q8"
+        },
+        {
+          "number": "9",
+          "question_id": "q09",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Erst mal habe ich das Problem eine Weile nicht gelöst. Dann habe ich die offenen Aufgaben aufgeschrieben und endlich meine Mails beantwortet. Bei der Erasmus-Koordination in Groningen habe ich nachgefragt, welche Bedingungen in meinem Fall gelten. An der ISEP habe ich mit der zuständigen Kontaktperson geklärt, was noch fehlte und wen ich wegen der Kurse ansprechen musste. Die haben mir Orientierung gegeben, aber keine Leistungen geschenkt. Für die Gruppenarbeit habe ich einen klar abgegrenzten Programmierteil übernommen und diesmal rechtzeitig abgegeben.\n 9a. Du hast erwähnt, dass du zunächst nicht genau wusstest, wie viele ECTS du für Anerkennung und Förderung tatsächlich brauchst. Wie würdest du das heute vor dem Erasmus-Aufenthalt klären?\n Ich würde das vor der Abreise getrennt für Anerkennung und Förderung klären. Bei der Erasmus-Koordination in Groningen würde ich konkret nachfragen: Wie viele ECTS muss ich anmelden, wie viele muss ich tatsächlich bestehen und was passiert mit der Förderung, wenn ich darunter bleibe? Zusätzlich würde ich klären, welche ISEP-Kurse mir tatsächlich für meinen Studiengang angerechnet werden.\n Die Antworten würde ich mir schriftlich geben lassen und zusammen mit dem Learning Agreement speichern. Ich hatte diese beiden Themen vorher ziemlich durcheinandergeworfen und außerdem eine Zahl von 15 bis 20 ECTS aus einer Erasmus-Gruppe übernommen, ohne zu prüfen, ob sie für meinen Fall überhaupt stimmt. Das würde ich heute nicht mehr machen.\n 9b. Du hast gemerkt, dass laufende Abgaben und Gruppenarbeiten problematischer waren als erwartet. Was würdest du bei der Kurswahl oder deiner Zeitplanung heute anders machen?\n Bei der Kurswahl würde ich nicht nur auf den Titel und die Inhalte schauen, sondern auch auf die Prüfungsform und den tatsächlichen Arbeitsrhythmus: Gibt es wöchentliche Aufgaben? Ein Gruppenprojekt? Anwesenheitspflicht? Mehrere kleine Abgaben? Die englischen Informatikkurse haben fachlich gut zu mir gepasst, aber ich hatte unterschätzt, dass ich dadurch während des gesamten Semesters kontinuierlich arbeiten musste.\n Bei Gruppenarbeiten würde ich direkt am Anfang einen klar abgegrenzten Teil übernehmen und einen konkreten Termin dafür vereinbaren. Bei mir war das Problem weniger, dass ich die Aufgaben nicht konnte, sondern dass ich zu spät angefangen habe. Außerdem würde ich feste Zeitblöcke für Abgaben einplanen, zum Beispiel zwei Nachmittage pro Woche.\n Und ich würde Ausgehen nicht komplett streichen, aber realistischer planen. Mein Fehler war, Paris so zu planen, als wäre die Uni die freiwillige Nebenveranstaltung. Zwei gute Abende sind besser als vier Abende und danach Panik wegen einer Abgabe.",
+          "answer_id": "p15_q9"
+        },
+        {
+          "number": "10",
+          "question_id": "q10",
+          "question_text": null,
+          "parent_question_id": null,
+          "text": "Lest die Mails von beiden Hochschulen und klärt vor der Abreise genau, welche Leistungen ihr für Anerkennung und Förderung braucht. Lasst euch wichtige Informationen schriftlich geben und speichert sie zusammen mit dem Learning Agreement.\n Bei der Kurswahl würde ich nicht nur nach interessanten Inhalten gehen, sondern auch prüfen, wie viele laufende Abgaben, Gruppenarbeiten und Anwesenheitspflichten ein Kurs hat. Und plant neben dem Studium bewusst Zeit für Paris ein, aber nicht so, als gäbe es am nächsten Morgen keine Uni. Ich hätte mir einiges erspart, wenn ich früher verstanden hätte, dass ein Erasmus-Semester gleichzeitig Studium und Aufenthalt ist.",
+          "answer_id": "p15_q10"
+        }
+      ]
+    }
+  ]
+}
