@@ -1,0 +1,54 @@
+{
+  "query_id": "T05",
+  "query": "unterrichtsqualität isep",
+  "information_need": "Wie erleben Studierende Unterricht, Arbeitsaufwand und Qualität an der ISEP?",
+  "retriever": "bm25",
+  "top_k": 5,
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.3621,
+      "base_score": 0.3017,
+      "document_id": "OFF_11",
+      "source_type": "official",
+      "topic": "ects",
+      "text": "Austauschstudierende an der ISEP müssen pro Semester mindestens 15 ECTS belegen. Das entspricht dem Mindestumfang für einen Austausch an der ISEP."
+    },
+    {
+      "rank": 2,
+      "score": 0.2888,
+      "base_score": 0.2406,
+      "document_id": "OFF_04",
+      "source_type": "official",
+      "topic": "housing",
+      "text": "Die ISEP unterstützt Austauschstudierende bei der Wohnungssuche. Möglich sind unter anderem ein Wohnheim, ein privates Zimmer oder eine Wohnung. Das genaue Verfahren wird nach der Zulassung mitgeteilt."
+    },
+    {
+      "rank": 3,
+      "score": 0.2724,
+      "base_score": 0.227,
+      "document_id": "OFF_09",
+      "source_type": "official",
+      "topic": "living_costs",
+      "text": "Die ISEP schätzt die monatlichen Lebenshaltungskosten in Paris auf etwa 700 bis 1.100 Euro. Dieser Betrag umfasst Unterkunft, Verpflegung und Transport. Die tatsächlichen Kosten hängen insbesondere von der Wohnform und Lage ab."
+    },
+    {
+      "rank": 4,
+      "score": 0.2585,
+      "base_score": 0.2585,
+      "document_id": "p10_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Über die ISEP habe ich relativ schnell andere internationale Studierende kennengelernt. Dadurch hatte ich Kontakte zu Leuten, die ebenfalls neu in Paris waren. Gleichzeitig habe ich durch meine Gastfamilie einen viel stärkeren Kontakt zum französischen Alltag und zur französischen Sprache. Diese Kombination finde ich eigentlich sehr gut, weil ich über die ISEP internationale Kontakte habe, aber durch die Familie auch regelmäßig Französisch spreche."
+    },
+    {
+      "rank": 5,
+      "score": 0.2578,
+      "base_score": 0.2148,
+      "document_id": "OFF_01",
+      "source_type": "official",
+      "topic": "application",
+      "text": "Bewerbungsfristen für Austauschstudierende an der ISEP sind der 31. Mai für das erste Semester (Anfang September bis Ende Januar) und der 31. Oktober für das zweite Semester (Anfang Februar bis Ende Juni). Interessierte Studierende müssen zunächst über das International Office ihrer Heimatuniversität nominiert werden."
+    }
+  ]
+}
