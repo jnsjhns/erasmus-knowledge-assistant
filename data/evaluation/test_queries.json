@@ -1,0 +1,145 @@
+{
+  "version": "1.1",
+  "created": "2026-10-05",
+  "relevance_scale": {
+    "3": "beste bzw. direkteste Antwort",
+    "2": "relevant und hilfreich",
+    "1": "teilweise relevant",
+    "0": "nicht relevant"
+  },
+  "test_queries": [
+    {
+      "query_id": "T01",
+      "query": "wohnung kosten paris",
+      "information_need": "Wie viel kostet das Wohnen und Leben in Paris für Austauschstudierende?",
+      "judgments": [
+        {"document_id": "OFF_09", "relevance": 3, "reason": "Offizielle Schätzung der monatlichen Lebenshaltungskosten."},
+        {"document_id": "EXT_01", "relevance": 3, "reason": "Konkrete Kosten für WG-Zimmer, Verpflegung und Transport."},
+        {"document_id": "OFF_06", "relevance": 2, "reason": "Wohnbeihilfe kann die Kosten senken."},
+        {"document_id": "OFF_04", "relevance": 2, "reason": "ISEP-Unterstützung bei der Wohnungssuche."},
+        {"document_id": "p01_q6", "relevance": 3, "reason": "Konkrete Miete und persönliches Monatsbudget."},
+        {"document_id": "p05_q6", "relevance": 3, "reason": "Konkrete WG-Miete und Lebenshaltungskosten."},
+        {"document_id": "p06_q6", "relevance": 2, "reason": "Hohe Miete und Auswirkung auf das Budget."},
+        {"document_id": "p11_q6", "relevance": 2, "reason": "WG-Miete und Gesamtbudget."},
+        {"document_id": "p04_q6", "relevance": 2, "reason": "CROUS als günstigere Wohnalternative."}
+      ]
+    },
+    {
+      "query_id": "T02",
+      "query": "mindestens ects",
+      "information_need": "Wie viele ECTS müssen Austauschstudierende an der ISEP mindestens belegen?",
+      "judgments": [
+        {"document_id": "OFF_11", "relevance": 3, "reason": "Offizielle Mindestanforderung: 15 ECTS pro Semester."},
+        {"document_id": "p06_q4", "relevance": 2, "reason": "Beispiel mit genau 15 ECTS."},
+        {"document_id": "p11_q4", "relevance": 2, "reason": "Beispiel mit etwa 20 ECTS."},
+        {"document_id": "p05_q4", "relevance": 2, "reason": "Beispiel mit etwa 25 bis 30 ECTS."},
+        {"document_id": "OFF_03", "relevance": 1, "reason": "ECTS-Notensystem, aber keine Mindestanzahl."}
+      ]
+    },
+    {
+      "query_id": "T03",
+      "query": "learning agreement",
+      "information_need": "Welche Erfahrungen, Probleme und Tipps gibt es zum Learning Agreement?",
+      "judgments": [
+        {"document_id": "p01_q2", "relevance": 3, "reason": "Learning Agreement wurde vorab mit der Heimatuniversität abgestimmt."},
+        {"document_id": "p01_q4", "relevance": 3, "reason": "Kurswahl, Anerkennung und Stundenplanprobleme."},
+        {"document_id": "p02_q4", "relevance": 3, "reason": "Learning Agreement, Kurswahl und Nachfrage beim International Office."},
+        {"document_id": "p11_q4", "relevance": 3, "reason": "Vorherige Abstimmung, um spätere Probleme zu vermeiden."},
+        {"document_id": "p14_q4", "relevance": 3, "reason": "Schriftliche Abstimmung von 30 ECTS und Aufbewahrung der Modulbeschreibungen."},
+        {"document_id": "p13_q4", "relevance": 2, "reason": "Widersprüchliche Informationen und schwierige Abstimmung."},
+        {"document_id": "p01_q10", "relevance": 3, "reason": "Tipp: Kurse und Anerkennung früh klären."},
+        {"document_id": "p04_q10", "relevance": 3, "reason": "Tipp: Anerkennung schriftlich bestätigen lassen."},
+        {"document_id": "p15_q10", "relevance": 3, "reason": "Tipp: Unterlagen zusammen mit dem Learning Agreement speichern."}
+      ]
+    },
+    {
+      "query_id": "T04",
+      "query": "erasmus förderung",
+      "information_need": "Welche Erasmus-Förderung gibt es und wie hoch kann sie sein?",
+      "judgments": [
+        {"document_id": "OFF_08", "relevance": 3, "reason": "Offizieller Erasmus-Zuschuss und Förderbereich für Frankreich."},
+        {"document_id": "p01_q6", "relevance": 2, "reason": "Erasmus-Zuschuss ist Teil des persönlichen Budgets."},
+        {"document_id": "p13_q2", "relevance": 2, "reason": "Erasmus-Förderung als Finanzierungsquelle."},
+        {"document_id": "p15_q6", "relevance": 2, "reason": "Erasmus-Förderung als Teil der Finanzierung."},
+        {"document_id": "p01_q10", "relevance": 2, "reason": "Nicht ausgezahlte Förderung nicht sofort für Miete einplanen."}
+      ]
+    },
+    {
+      "query_id": "T05",
+      "query": "unterrichtsqualität isep",
+      "information_need": "Wie erleben Studierende Unterricht, Arbeitsaufwand und Qualität an der ISEP?",
+      "judgments": [
+        {"document_id": "p05_q5", "relevance": 3, "reason": "Intensiv, fair, praxisorientiert, viele Projekte und Gruppenarbeiten."},
+        {"document_id": "p06_q5", "relevance": 3, "reason": "Technisch anspruchsvoll, praxisnah und gut machbar."},
+        {"document_id": "p11_q5", "relevance": 3, "reason": "Technisch anspruchsvoll und fachlich lehrreich."},
+        {"document_id": "p02_q5", "relevance": 2, "reason": "Praxisnähe und Projektarbeit."},
+        {"document_id": "p01_q5", "relevance": 3, "reason": "Anwesenheit, Pünktlichkeit und laufende Abgaben."},
+        {"document_id": "p14_q5", "relevance": 3, "reason": "Feste Tagespläne, Anwesenheitskontrollen und laufende Aufgaben."},
+        {"document_id": "p04_q5", "relevance": 2, "reason": "Herausforderungen durch englische Fachbegriffe."},
+        {"document_id": "p13_q5", "relevance": 2, "reason": "Regelmäßiger Arbeitsaufwand und Nacharbeit."}
+      ]
+    },
+    {
+      "query_id": "T06",
+      "query": "probleme wohnungssuche",
+      "information_need": "Welche Schwierigkeiten gibt es bei der Wohnungssuche und was hilft dabei?",
+      "judgments": [
+        {"document_id": "p05_q2_1", "relevance": 3, "reason": "Zeitdruck, Bürgschaft, Vorauszahlung und konkrete Lösungsstrategien."},
+        {"document_id": "p01_q2", "relevance": 3, "reason": "Fehlende französische Bürgschaft; Erfolg über persönliche Kontakte."},
+        {"document_id": "p06_q2_1", "relevance": 3, "reason": "Zu schnelle Entscheidung, hohe Kosten und fehlender Vergleich."},
+        {"document_id": "p13_q2", "relevance": 2, "reason": "Späte Zusage des Housing-Service."},
+        {"document_id": "p15_q9", "relevance": 3, "reason": "Vorsicht bei Zahlungen; Nebenkosten und Kaution einplanen."},
+        {"document_id": "OFF_04", "relevance": 2, "reason": "Offizielle Unterstützung bei der Wohnungssuche."}
+      ]
+    },
+    {
+      "query_id": "T07",
+      "query": "französischkurs",
+      "information_need": "Welche Erfahrungen und Empfehlungen gibt es zu Französischkursen und Sprachvorbereitung?",
+      "judgments": [
+        {"document_id": "p01_q2", "relevance": 3, "reason": "A1-Intensivkurs vor der Abreise."},
+        {"document_id": "p01_q10", "relevance": 3, "reason": "Empfehlung, vorab Französisch zu lernen."},
+        {"document_id": "p13_q4", "relevance": 3, "reason": "Französischkurs als Teil der Kurswahl."},
+        {"document_id": "p07_q2", "relevance": 3, "reason": "Kein Französisch gelernt, rückblickend als Fehler."},
+        {"document_id": "p04_q10", "relevance": 2, "reason": "Empfehlung, sprachliche Vorbereitung einplanen."},
+        {"document_id": "p02_q9", "relevance": 2, "reason": "Sprachkurs-Hinweis und Alltagssprache."},
+        {"document_id": "p03_q5", "relevance": 1, "reason": "Französischkurs erwähnt, aber Fokus auf Arbeitsbelastung."}
+      ]
+    },
+    {
+      "query_id": "T08",
+      "query": "kontakte zu locals",
+      "information_need": "Wie können Austauschstudierende Kontakte zu französischen bzw. lokalen Studierenden aufbauen?",
+      "judgments": [
+        {"document_id": "p01_q7", "relevance": 3, "reason": "Kontakte über Gruppenarbeiten, französische Kommilitonen und Alltag auf Französisch."},
+        {"document_id": "p06_q7", "relevance": 3, "reason": "Kontakte zu französischen Studierenden über Kurse und Projekte."},
+        {"document_id": "p11_q7", "relevance": 2, "reason": "Kontakte über ISEP und Erasmus, Wunsch nach Kontakt außerhalb der internationalen Blase."},
+        {"document_id": "p14_q7", "relevance": 2, "reason": "Kontakte über ISEP und Erasmus, Alltag außerhalb typischer Erasmus-Aktivitäten."},
+        {"document_id": "p04_q6_1", "relevance": 2, "reason": "CROUS erleichtert erste Kontakte, vor allem zu internationalen Studierenden."},
+        {"document_id": "p13_q3", "relevance": 2, "reason": "Internationale Sportgruppe, gemeinsames Kochen und Paris-Erkundung."},
+        {"document_id": "p05_q7", "relevance": 1, "reason": "Kontakte zu Studierenden, aber nicht klar auf Locals fokussiert."}
+      ]
+    },
+    {
+      "query_id": "T09",
+      "query": "isep campus lage",
+      "information_need": "Wo liegen die ISEP-Campusse und welcher Campus ist für Austauschstudierende relevant?",
+      "judgments": [
+        {"document_id": "OFF_10", "relevance": 3, "reason": "Offizielle Angaben zu beiden Campusstandorten."},
+        {"document_id": "p12_q2", "relevance": 2, "reason": "WG in Issy-les-Moulineaux nahe am ISEP-Campus."},
+        {"document_id": "p06_q6", "relevance": 1, "reason": "Gute Lage zur Hochschule, aber kein expliziter Campusbezug."}
+      ]
+    },
+    {
+      "query_id": "T10",
+      "query": "notengebung bewertung",
+      "information_need": "Wie funktioniert die Benotung an der ISEP?",
+      "judgments": [
+        {"document_id": "OFF_03", "relevance": 3, "reason": "Offizielle Notenskala, Bestehensgrenze und ECTS-Notenverteilung."},
+        {"document_id": "p05_q5", "relevance": 1, "reason": "Intensität und faire Bewertung, aber keine Notenskala."},
+        {"document_id": "p02_q5", "relevance": 1, "reason": "Persönlicher Anspruch an gute Noten."},
+        {"document_id": "p15_q8", "relevance": 1, "reason": "Sorge um ausreichende Leistungen und Noten."}
+      ]
+    }
+  ]
+}
