@@ -1,0 +1,148 @@
+{
+  "official_information": [
+    {
+      "fact_id": "OFF_01",
+      "source_type": "official",
+      "source": "ISEP Paris",
+      "source_url": "https://www.isep.fr/en/course/exchange-students/",
+      "language": "de",
+      "source_language": "en",
+      "topic": "application",
+      "text": "Bewerbungsfristen für Austauschstudierende an der ISEP sind der 31. Mai für das erste Semester (Anfang September bis Ende Januar) und der 31. Oktober für das zweite Semester (Anfang Februar bis Ende Juni). Interessierte Studierende müssen zunächst über das International Office ihrer Heimatuniversität nominiert werden.",
+      "source_text": "Application closes on: May 31st for joining 1st semester (early September-late January); October 31st for joining 2nd semester (early February-late June). Please contact the International Office of your university in order to be nominated before starting the application process.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_02",
+      "source_type": "official",
+      "source": "ISEP Paris",
+      "source_url": "https://www.isep.fr/en/course/exchange-students/",
+      "language": "de",
+      "source_language": "en",
+      "topic": "courses",
+      "text": "Austauschstudierende können Module und Laborveranstaltungen aus dem Curriculum des dritten, vierten oder fünften Jahres besuchen. Es gibt Kurse, die auf Englisch unterrichtet werden. Je nach Programm kann auch ein Projekt oder Praktikum im Labor möglich sein.",
+      "source_text": "Exchange students coming under international exchange programs such as Erasmus+, GE4, Micefa and bilateral agreements may attend a set of modules and laboratory sessions in the third, fourth or fifth year syllabus or do a project in our laboratory. Courses available for exchange students taught in English.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_03",
+      "source_type": "official",
+      "source": "ISEP Paris",
+      "source_url": "https://www.isep.fr/en/course/exchange-students/",
+      "language": "de",
+      "source_language": "en",
+      "topic": "grading_system",
+      "text": "Die ISEP verwendet das europäische ECTS-Notensystem. Die Notenskala reicht von 0 bis 20; die Bestehensgrenze liegt bei 10 Punkten. Die ECTS-Noten werden statistisch verteilt: A für die besten 10 Prozent, B für die nächsten 25 Prozent, C für die nächsten 30 Prozent, D für die nächsten 25 Prozent und E für die nächsten 10 Prozent.",
+      "source_text": "Isep applies the European ECTS grading system. Grading system ranges from 0 to 20. Pass mark: 10. A best 10% (outstanding), B next 25% (very good), C next 30% (good), D next 25% (satisfactory), E next 10% (sufficient), F fail.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_04",
+      "source_type": "official",
+      "source": "ISEP Paris",
+      "source_url": "https://www.isep.fr/en/course/exchange-students/",
+      "language": "de",
+      "source_language": "en",
+      "topic": "housing",
+      "text": "Die ISEP unterstützt Austauschstudierende bei der Wohnungssuche. Möglich sind unter anderem ein Wohnheim, ein privates Zimmer oder eine Wohnung. Das genaue Verfahren wird nach der Zulassung mitgeteilt.",
+      "source_text": "Isep can help you to find accommodation in a residence hall, a private room or a flat. You will be informed about the procedure when you are admitted.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_05",
+      "source_type": "official",
+      "source": "ISEP Paris",
+      "source_url": "https://www.isep.fr/en/course/exchange-students/",
+      "language": "de",
+      "source_language": "en",
+      "topic": "application",
+      "text": "Für die Bewerbung sind unter anderem ein Studienplan für das Herbstsemester, ein Pass- oder Ausweisdokument, Notenübersichten der Heimatuniversität, ein Sprachzertifikat auf B2-Niveau, frühere Bildungsnachweise und für EU-Bürger:innen die Europäische Krankenversicherungskarte erforderlich.",
+      "source_text": "Complete the online application form. You will be requested to upload the following documents: Study plan completed for the Fall semester (September – January), a copy of your passport or ID card (for applicants for EU citizens), a copy of transcripts from the home university, a language proficiency certificate, B2 level, previous education certificates (not necessary for bilateral agreements), a copy of your European Health Insurance Card for EU citizens.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_06",
+      "source_type": "official",
+      "source": "Service-Public / CAF",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1563",
+      "language": "de",
+      "source_language": "fr",
+      "topic": "housing_costs",
+      "text": "Studierende können unter bestimmten Voraussetzungen eine staatliche Wohnbeihilfe erhalten: APL, ALF oder ALS. Voraussetzungen sind unter anderem ein angemieteter, angemessener Wohnraum, keine nahe Verwandtschaft zum Vermieter sowie niedrige Einkünfte. Die erste Auszahlung erfolgt in der Regel etwa zwei Monate nach Antragstellung. Bei einer WG kann jede Person einen eigenen Antrag stellen.",
+      "source_text": "Oui, un étudiant peut bénéficier sous conditions d'une aide au logement pour l'aider à payer son loyer. Il existe 3 types d'aides au logement: Aide personnalisée au logement (APL), Allocation de logement familiale (ALF), Allocation de logement sociale (ALS). Le 1er paiement de l'aide au logement est généralement effectué 2 mois après la demande. En cas de colocation, chaque colocataire peut bénéficier d'une aide au logement.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_07",
+      "source_type": "official",
+      "source": "Service-Public / CAF",
+      "source_url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1563",
+      "language": "de",
+      "source_language": "fr",
+      "topic": "housing_costs",
+      "text": "Seit dem 1. Juli 2026 können Studierende aus Ländern außerhalb der EU, des EWR oder der Schweiz mit einem Studienaufenthaltstitel eine Wohnbeihilfe nur erhalten, wenn sie beispielsweise ein sozial abhängiges Stipendium erhalten, berufstätig sind oder einen Ausbildungs- bzw. Professionalisierungsvertrag haben.",
+      "source_text": "Depuis le 1er juillet 2026, si vous êtes étudiant ressortissant d'un pays hors Union européenne (UE), Espace économique européen (EEE) ou Suisse et possédez un titre de séjour délivré pour les études, vous pouvez bénéficier d'une aide au logement uniquement dans l'un des 3 cas suivants: Vous percevez une bourse sur critères sociaux, vous exercez une activité professionnelle, vous êtes engagé dans un contrat d'apprentissage ou de professionnalisation.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "EXT_01",
+      "source_type": "external",
+      "source": "Erasmus Place",
+      "source_url": "https://erasmusplace.com/en/nord/paris/",
+      "language": "de",
+      "source_language": "en",
+      "topic": "living_costs",
+      "text": "Für ein WG-Zimmer in Paris werden etwa 600 bis 900 Euro pro Monat genannt. Für Einkäufe und Mahlzeiten rechnet Erasmus Place mit etwa 200 bis 300 Euro monatlich. Für den studentischen Navigo-Imagine-R-Tarif wird ein zusätzlicher monatlicher Transportposten angegeben.",
+      "source_text": "Cost of living for an Erasmus student in Paris: Rent: €600 to €900 for a shared room; Shopping and meals: €200-300; Transport: €42 per month with Navigo Imagine R.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_08",
+      "source_type": "official",
+      "source": "European Commission / Erasmus+ Programme Guide 2026",
+      "source_url": "https://erasmus-plus.ec.europa.eu/sites/default/files/2025-11/programme-guide-2026_en.pdf",
+      "language": "de",
+      "source_language": "en",
+      "topic": "erasmus_funding",
+      "text": "Die Erasmus+-Förderung ist ein Zuschuss zu den zusätzlichen Lebenshaltungskosten während eines Studien- oder Praktikumsaufenthalts im Ausland. Für Mobilität zwischen EU-Mitgliedstaaten unterscheidet der Erasmus+ Programme Guide 2026 Ländergruppen nach Lebenshaltungskosten. Für ein Zielland mit höheren Lebenshaltungskosten, etwa Frankreich, liegt der höhere Förderbereich bei etwa 348 bis 674 Euro pro Monat. Der konkrete Betrag wird von der nationalen Agentur und der entsendenden Hochschule festgelegt.",
+      "source_text": "Students may receive an individual support grant as a contribution to their additional costs for subsistence related to their period of study or traineeship abroad. For mobility between EU Member States, the Programme Guide distinguishes country groups by cost of living; for a destination country with higher cost of living, the higher monthly range is 348 to 674 euros.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_09",
+      "source_type": "official",
+      "source": "ISEP Paris",
+      "source_url": "https://www.isep.fr/en/life-at-isep/living-in-paris/",
+      "language": "de",
+      "source_language": "en",
+      "topic": "living_costs",
+      "text": "Die ISEP schätzt die monatlichen Lebenshaltungskosten in Paris auf etwa 700 bis 1.100 Euro. Dieser Betrag umfasst Unterkunft, Verpflegung und Transport. Die tatsächlichen Kosten hängen insbesondere von der Wohnform und Lage ab.",
+      "source_text": "Isep estimates monthly living expenses in Paris at 700 to 1100 euros, including housing, food and transportation.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_10",
+      "source_type": "official",
+      "source": "ISEP Paris",
+      "source_url": "https://www.isep.fr/",
+      "language": "de",
+      "source_language": "en",
+      "topic": "campus_location",
+      "text": "Die ISEP hat in der Region Paris zwei Campus: den Campus Notre-Dame-des-Champs im 6. Arrondissement von Paris und den Campus Notre-Dame-de-Lorette in Issy-les-Moulineaux. Austauschstudierende sollten vor der Ankunft prüfen, an welchem Campus ihre Kurse stattfinden.",
+      "source_text": "Campus Notre-Dame-des-Champs (NDC) - 28, rue Notre-Dame-des-Champs, 75006 Paris. Campus Notre-Dame-de-Lorette (NDL) - 10, rue de Vanves, 92130 Issy-les-Moulineaux.",
+      "retrieved_on": "2026-10-05"
+    },
+    {
+      "fact_id": "OFF_11",
+      "source_type": "official",
+      "source": "ISEP Paris",
+      "source_url": "https://www.isep.fr/app/uploads/2026/04/FactSheet_ISEP_2026-2027.pdf",
+      "language": "de",
+      "source_language": "en",
+      "topic": "ects",
+      "text": "Austauschstudierende an der ISEP müssen pro Semester mindestens 15 ECTS belegen. Das entspricht dem Mindestumfang für einen Austausch an der ISEP.",
+      "source_text": "Exchange students are expected to take a minimum of 15 ECTS per semester.",
+      "retrieved_on": "2026-10-05"
+    }
+  ]
+}
