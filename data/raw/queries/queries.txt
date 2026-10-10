@@ -1,0 +1,50 @@
+Q01
+wohnung kosten paris
+Wie viel kostet das Wohnen und Leben in Paris für Austauschstudierende?
+
+Q02
+mindestens ects
+Wie viele ECTS müssen Austauschstudierende an der ISEP mindestens belegen?
+
+Q03
+learning agreement
+Welche Erfahrungen, Probleme und Tipps gibt es zum Learning Agreement?
+
+Q04
+erasmus förderung
+Welche Erasmus-Förderung gibt es und wie hoch kann sie sein?
+
+Q05
+unterrichtsqualität isep
+Wie erleben Studierende Unterricht, Arbeitsaufwand und Qualität an der ISEP?
+
+Q06
+probleme wohnungssuche
+Welche Schwierigkeiten gibt es bei der Wohnungssuche und was hilft dabei?
+
+Q07
+französischkurs
+Welche Erfahrungen und Empfehlungen gibt es zu Französischkursen und Sprachvorbereitung?
+
+Q08
+kontakte zu locals
+Wie können Austauschstudierende Kontakte zu französischen bzw. lokalen Studierenden aufbauen?
+Anmerkung: Bewusst umständliche Formulierung mit englischem Begriff „locals“, um die Robustheit des Systems gegenüber unüblichen Ausdrücken zu prüfen.
+
+Q09
+isep campus lage
+Wo liegen die ISEP-Campusse und welcher Campus ist für Austauschstudierende relevant?
+
+Q10
+notengebung bewertung
+Wie funktioniert die Benotung an der ISEP?
+
+Q11
+krankenversicherung in paris
+Wie ist man als Austauschstudierende in Paris krankenversichert?
+Anmerkung: Edge Case – verwandtes Thema (Gesundheit), aber Versicherung wird im Korpus nicht behandelt.
+
+Q12
+flüge nach paris buchen
+Wie kann man Flüge nach Paris buchen?
+Anmerkung: Edge Case – Thema liegt vollständig außerhalb des Korpus; es sollten keine relevanten Treffer erscheinen.

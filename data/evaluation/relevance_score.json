@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "created": "2026-10-10",
+  "relevance_scale": {
+    "0": "Keine Relevanz: Die Passage enthält keine Informationen, die zur Beantwortung der Frage beitragen.",
+    "1": "Sehr geringe Relevanz: Die Passage weist höchstens einen entfernten thematischen Bezug auf.",
+    "2": "Geringe Relevanz: Die Passage enthält einzelne nützliche Informationen, beantwortet die Frage aber kaum.",
+    "3": "Mittlere Relevanz: Die Passage enthält relevante Informationen und beantwortet einen Teil der Frage.",
+    "4": "Hohe Relevanz: Die Passage beantwortet die Frage weitgehend direkt.",
+    "5": "Sehr hohe Relevanz: Die Passage beantwortet die Frage direkt und liefert die gesuchten Informationen vollständig."
+  },
+  "storage_rule": {
+    "store_from_score": 3,
+    "description": "Passagen mit einem Relevanzscore von 3 bis 5 werden gespeichert und für die Auswahl der Top-10-Ergebnisse berücksichtigt. Passagen mit einem Score von 0 bis 2 werden nicht gespeichert."
+  }
+}

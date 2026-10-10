@@ -1,8 +1,0 @@
-{
-  "query_id": "T10",
-  "query": "notengebung bewertung",
-  "information_need": "Wie funktioniert die Benotung an der ISEP?",
-  "retriever": "bm25",
-  "top_k": 5,
-  "results": []
-}
