@@ -1,0 +1,37 @@
+{
+  "query_id": "Q02",
+  "query": "mindestens ects",
+  "information_need": "Wie viele ECTS müssen Austauschstudierende an der ISEP mindestens belegen?",
+  "results": [
+    {
+      "rank": 1,
+      "document_id": "OFF_11",
+      "relevance_score": 5,
+      "reason": "Die Passage nennt direkt die Mindestanforderung: Austauschstudierende müssen an der ISEP pro Semester mindestens 15 ECTS belegen."
+    },
+    {
+      "rank": 2,
+      "document_id": "p01_q4",
+      "relevance_score": 2,
+      "reason": "Die Passage nennt eine konkrete individuelle Kurswahl mit insgesamt 29 ECTS, gibt aber nicht an, dass 15 ECTS der verbindliche Mindestumfang sind."
+    },
+    {
+      "rank": 3,
+      "document_id": "p01_q2",
+      "relevance_score": 2,
+      "reason": "Die Passage erwähnt im Kontext von Learning Agreement und Kursanerkennung 29 ECTS, liefert jedoch keine allgemeine Mindest-ECTS-Anforderung der ISEP."
+    },
+    {
+      "rank": 4,
+      "document_id": "p02_q4",
+      "relevance_score": 2,
+      "reason": "Die Passage nennt eine geplante Gesamtleistung von 30 ECTS für den Austausch, beantwortet aber nicht die allgemeine Mindestanforderung."
+    },
+    {
+      "rank": 5,
+      "document_id": "OFF_03",
+      "relevance_score": 1,
+      "reason": "Die Passage behandelt das ECTS-Notensystem und Notenvergabe an der ISEP, enthält jedoch keine Angabe zur Mindestanzahl zu belegender ECTS."
+    }
+  ]
+}

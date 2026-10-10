@@ -61,6 +61,16 @@
       "query_id": "Q12",
       "query": "flüge nach paris buchen",
       "information_need": "Wie kann man Flüge nach Paris buchen?"
+    },
+    {
+      "query_id": "Q13",
+      "query": "monatliche ausgaben paris",
+      "information_need": "Wie hoch sind die monatlichen Ausgaben für Austauschstudierende in Paris und wie können sie ihr Budget planen?"
+    },
+    {
+      "query_id": "Q14",
+      "query": "wenig geld paris erleben",
+      "information_need": "Ich habe während meines Erasmus-Semesters wenig Geld zur Verfügung, möchte Paris aber trotzdem erleben. Welche Erfahrungen und Strategien helfen dabei?"
     }
   ]
 }

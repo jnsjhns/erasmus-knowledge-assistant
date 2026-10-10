@@ -1,0 +1,13 @@
+{
+  "query_id": "Q09",
+  "query": "isep campus lage",
+  "information_need": "Wo liegen die ISEP-Campusse und welcher Campus ist für Austauschstudierende relevant?",
+  "results": [
+    {
+      "rank": 1,
+      "document_id": "OFF_10",
+      "relevance_score": 5,
+      "reason": "Die Passage nennt beide ISEP-Campusse mit exakten Adressen: Notre-Dame-des-Champs im 6. Arrondissement von Paris und Notre-Dame-de-Lorette in Issy-les-Moulineaux. Sie weist zudem explizit darauf hin, dass Austauschstudierende vor der Ankunft prüfen sollen, an welchem Campus ihre Kurse stattfinden."
+    }
+  ]
+}

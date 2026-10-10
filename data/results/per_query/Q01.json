@@ -1,0 +1,91 @@
+{
+  "query_id": "Q01",
+  "query": "wohnung kosten paris",
+  "information_need": "Wie viel kostet das Wohnen und Leben in Paris für Austauschstudierende?",
+  "results": [
+    {
+      "rank": 1,
+      "document_id": "p01_q6",
+      "relevance_score": 5,
+      "reason": "Die Passage nennt eine konkrete Warmmiete von 950 Euro, ein monatliches Gesamtbudget von etwa 1.950 Euro, Einsparungen beim Essen sowie die Rolle des CAF-Wohngelds und deckt damit Wohn- und Lebenshaltungskosten umfassend ab."
+    },
+    {
+      "rank": 2,
+      "document_id": "EXT_01",
+      "relevance_score": 5,
+      "reason": "Die Passage gibt direkt konkrete monatliche Kosten für ein WG-Zimmer (600–900 Euro), Einkäufe und Mahlzeiten (200–300 Euro) sowie Transport (42 Euro) in Paris an und beantwortet den Informationsbedarf vollständig."
+    },
+    {
+      "rank": 3,
+      "document_id": "OFF_09",
+      "relevance_score": 5,
+      "reason": "Die Passage nennt eine offizielle Schätzung der monatlichen Lebenshaltungskosten in Paris von 700 bis 1.100 Euro einschließlich Unterkunft, Verpflegung und Transport und erklärt deren Abhängigkeit von Wohnform und Lage."
+    },
+    {
+      "rank": 4,
+      "document_id": "p01_q2",
+      "relevance_score": 4,
+      "reason": "Die Passage nennt eine konkrete Warmmiete von 950 Euro für ein möbliertes 25-Quadratmeter-Studio im 14. Arrondissement und liefert damit einen wesentlichen konkreten Kostenwert für das Wohnen."
+    },
+    {
+      "rank": 5,
+      "document_id": "p02_q2",
+      "relevance_score": 4,
+      "reason": "Die Passage nennt eine konkrete Monatsmiete von 465 Euro für ein Einzelzimmer im Wohnheim Maison de l’Inde und liefert damit eine wesentliche Angabe zu günstigeren Wohnkosten für Austauschstudierende."
+    },
+    {
+      "rank": 6,
+      "document_id": "OFF_06",
+      "relevance_score": 3,
+      "reason": "Die Passage erklärt konkret, welche staatlichen Wohnbeihilfen Studierende erhalten können, unter welchen Voraussetzungen sie gelten und wann die erste Auszahlung erfolgt; das beeinflusst die effektiven Wohnkosten."
+    },
+    {
+      "rank": 7,
+      "document_id": "OFF_07",
+      "relevance_score": 3,
+      "reason": "Die Passage nennt konkrete Bedingungen, unter denen Studierende aus Nicht-EU-Ländern seit Juli 2026 Wohnbeihilfe erhalten können, und trägt damit zur Einschätzung der tatsächlich zu tragenden Wohnkosten bei."
+    },
+    {
+      "rank": 8,
+      "document_id": "OFF_08",
+      "relevance_score": 3,
+      "reason": "Die Passage quantifiziert die mögliche Erasmus+-Förderung für Lebenshaltungskosten in Frankreich mit etwa 348 bis 674 Euro monatlich und trägt damit konkret zur Finanzierung der Lebenshaltungskosten bei."
+    },
+    {
+      "rank": 9,
+      "document_id": "p01_q9",
+      "relevance_score": 3,
+      "reason": "Die Passage beschreibt konkret, dass das persönliche Budget ohne CAF-Auszahlung geplant wurde und eine Verzögerung der Auszahlung daher kein sofortiger finanzieller Notfall ist; sie trägt zur Budgetplanung bei den Wohnkosten bei."
+    },
+    {
+      "rank": 10,
+      "document_id": "p01_q10",
+      "relevance_score": 3,
+      "reason": "Die Passage gibt konkrete Budgetempfehlungen für die Miete, insbesondere dass noch nicht ausgezahltes Wohngeld nicht für die nächste Miete eingeplant werden sollte, und trägt damit zur Kostenplanung bei."
+    },
+    {
+      "rank": 11,
+      "document_id": "OFF_04",
+      "relevance_score": 2,
+      "reason": "Die Passage nenmt mögliche Wohnformen wie Wohnheim, privates Zimmer oder Wohnung und die Unterstützung bei der Suche, enthält jedoch keine Kostenangaben; der Beitrag zum Kosteninformationsbedarf bleibt begrenzt."
+    },
+    {
+      "rank": 12,
+      "document_id": "p01_q3",
+      "relevance_score": 2,
+      "reason": "Die Passage erwähnt die Organisation von CAF-Wohngeld und ein Vélib’-Abo, liefert aber weder Kostenbeträge noch eine belastbare Einschätzung der Lebenshaltungskosten."
+    },
+    {
+      "rank": 13,
+      "document_id": "p01_q8",
+      "relevance_score": 2,
+      "reason": "Die Passage beschreibt Schwierigkeiten und Wartezeiten beim CAF-Wohngeldantrag, ohne konkrete Angaben zu Miete, Budget oder Lebenshaltungskosten zu machen."
+    },
+    {
+      "rank": 14,
+      "document_id": "p02_q10",
+      "relevance_score": 2,
+      "reason": "Die Passage erwähnt begrenztes Geld sowie die über die ISEP erhaltene Unterkunft, enthält aber keine konkreten Kostenwerte oder belastbaren Angaben zu Lebenshaltungskosten."
+    }
+  ]
+}

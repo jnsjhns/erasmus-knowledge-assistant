@@ -1,0 +1,25 @@
+{
+  "query_id": "Q04",
+  "query": "erasmus förderung",
+  "information_need": "Welche Erasmus-Förderung gibt es und wie hoch kann sie sein?",
+  "results": [
+    {
+      "rank": 1,
+      "document_id": "OFF_08",
+      "relevance_score": 5,
+      "reason": "Beantwortet die Frage direkt: Die Erasmus+-Förderung ist ein Zuschuss zu zusätzlichen Lebenshaltungskosten im Ausland; für Frankreich wird ein monatlicher Förderbereich von etwa 348 bis 674 Euro genannt, wobei die konkrete Höhe von nationaler Agentur und Hochschule festgelegt wird."
+    },
+    {
+      "rank": 2,
+      "document_id": "p01_q6",
+      "relevance_score": 3,
+      "reason": "Bestätigt konkret, dass ein Erasmus-Zuschuss existiert und in das monatliche Budget eines Austauschstudierenden einfließt; zur Förderart und zur Höhe des Zuschusses enthält die Passage jedoch keine Angaben."
+    },
+    {
+      "rank": 3,
+      "document_id": "OFF_02",
+      "relevance_score": 1,
+      "reason": "Erwähnt Erasmus+ als Austauschprogramm für Studierende an der ISEP, liefert aber keine Informationen zu Art, Voraussetzungen oder Höhe einer Erasmus-Förderung."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+"query_id": "Q11",
+"query": "krankenversicherung in paris",
+"information_need": "Wie ist man als Austauschstudierende in Paris krankenversichert?",
+"results": [
+{
+"rank": 1,
+"document_id": "OFF_05",
+"relevance_score": 3,
+"reason": "Die Passage nennt konkret, dass EU-Bürger:innen für die Bewerbung an der ISEP eine Kopie der Europäischen Krankenversicherungskarte einreichen müssen. Sie trägt damit zum Teilaspekt der Krankenversorgung für EU-Austauschstudierende bei, erklärt aber nicht vollständig die Absicherung während des Aufenthalts, etwa für Nicht-EU-Studierende oder Zusatzversicherungen."
+}
+] }

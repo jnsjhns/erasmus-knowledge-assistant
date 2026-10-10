@@ -1,0 +1,55 @@
+{
+  "query_id": "Q03",
+  "query": "learning agreement",
+  "information_need": "Welche Erfahrungen, Probleme und Tipps gibt es zum Learning Agreement?",
+  "results": [
+    {
+      "rank": 1,
+      "document_id": "p01_q4",
+      "relevance_score": 5,
+      "reason": "Beschreibt direkt die Vorbereitung der Kursanerkennung, die Abstimmung der Inhalte mit der Heimatuniversität, 29 ECTS, ein konkretes Problem durch überschneidende Labortermine, die Lösung über das International Office sowie die noch ausstehende Anerkennung und benötigte Leistungsübersicht."
+    },
+    {
+      "rank": 2,
+      "document_id": "p01_q2",
+      "relevance_score": 4,
+      "reason": "Berichtet von der Erfahrung, Modulbeschreibungen zusammenzusuchen, das Learning Agreement mit der FH Campus Wien abzustimmen und 29 ECTS festzulegen, um Überraschungen bei der Kursanerkennung zu vermeiden."
+    },
+    {
+      "rank": 3,
+      "document_id": "p01_q10",
+      "relevance_score": 4,
+      "reason": "Gibt einen konkreten Tipp: Kurse vorab genau auf Anerkennung prüfen und vor Ort den Stundenplan kontrollieren, weil das bereits abgestimmte Learning Agreement dennoch eine Laborüberschneidung nicht verhindert hat."
+    },
+    {
+      "rank": 4,
+      "document_id": "p02_q2",
+      "relevance_score": 4,
+      "reason": "Schildert die Erfahrung, das Learning Agreement an einem Abend zu erstellen und anschließend zu korrigieren, weil bei einem Kurs Unsicherheit bestand; zudem wird die Abstimmung der Kursauswahl mit Bologna erwähnt."
+    },
+    {
+      "rank": 5,
+      "document_id": "p01_q9",
+      "relevance_score": 3,
+      "reason": "Liefert eine konkrete Erfahrung und Lösung zu einem Problem nach der Learning-Agreement-Planung: Eine Kursüberschneidung wurde über das International Office geklärt und ein Wechsel in eine andere Laborgruppe ermöglicht."
+    },
+    {
+      "rank": 6,
+      "document_id": "p01_q8",
+      "relevance_score": 2,
+      "reason": "Enthält einen relevanten Teilaspekt: Der Druck, Leistungen rechtzeitig abzuschließen und Nachweise für die Bildungskarenz zu erhalten, betrifft die Umsetzung der vereinbarten Kurse und die spätere Anerkennung."
+    },
+    {
+      "rank": 7,
+      "document_id": "OFF_11",
+      "relevance_score": 2,
+      "reason": "Nennt die offizielle Mindestanforderung von 15 ECTS pro Semester und ist damit eine konkrete Rahmenbedingung für die Kursauswahl im Learning Agreement, behandelt aber keine Erfahrungen, Probleme oder Tipps."
+    },
+    {
+      "rank": 8,
+      "document_id": "OFF_02",
+      "relevance_score": 1,
+      "reason": "Nennt verfügbare Module, Laborveranstaltungen und englischsprachige Kurse für Austauschstudierende und hat damit nur einen entfernten Bezug zur möglichen Auswahl von Kursen für ein Learning Agreement."
+    }
+  ]
+}

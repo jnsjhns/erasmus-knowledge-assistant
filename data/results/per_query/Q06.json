@@ -1,0 +1,133 @@
+{
+  "query_id": "Q06",
+  "query": "probleme wohnungssuche",
+  "information_need": "Welche Schwierigkeiten gibt es bei der Wohnungssuche und was hilft dabei?",
+  "results": [
+    {
+      "rank": 1,
+      "document_id": "p03_q2_1",
+      "relevance_score": 5,
+      "reason": "Beschreibt konkret zentrale Schwierigkeiten: veraltete oder nicht mehr erreichbare Wohnheim-Links, abgelaufene Bewerbungsphasen, fehlende Antworten, bereits vergebene Zimmer, Betrugsrisiko bei Vorkasse und erschwerte Besichtigung aus dem Ausland. Als Hilfe werden private WG-Gruppen und ein Videocall mit den Mitbewohnern genannt."
+    },
+    {
+      "rank": 2,
+      "document_id": "p03_q2",
+      "relevance_score": 5,
+      "reason": "Benennt die Wohnungssuche als „absoluten Horror“, veraltete Links des International Office und großen Zeitdruck; die WG wurde erst vier Tage vor Abreise über private WG-Gruppen gefunden."
+    },
+    {
+      "rank": 3,
+      "document_id": "p03_q10",
+      "relevance_score": 5,
+      "reason": "Gibt direkte Empfehlungen: früh mit der Wohnungssuche beginnen, sich nicht auf veraltete International-Office-Links verlassen und private WG-Gruppen nutzen, wobei Stress einzuplanen ist."
+    },
+    {
+      "rank": 4,
+      "document_id": "p01_q2",
+      "relevance_score": 5,
+      "reason": "Nennt konkrete Hindernisse auf Wohnungsportalen, insbesondere verlangte Unterlagen und einen französischen Bürgen, sowie als erfolgreiche Lösung die Wohnungssuche über persönliche Kontakte."
+    },
+    {
+      "rank": 5,
+      "document_id": "p01_q10",
+      "relevance_score": 5,
+      "reason": "Empfiehlt, früh um eine Unterkunft zu kümmern, nicht nur große Portale zu nutzen und auch Hochschule sowie persönliches Umfeld nach Kontakten zu fragen; zusätzlich rät er, beantragtes aber nicht ausgezahltes Wohngeld nicht für die Miete einzuplanen."
+    },
+    {
+      "rank": 6,
+      "document_id": "p04_q2",
+      "relevance_score": 5,
+      "reason": "Beschreibt hohe private Mieten und die komplizierte Wohnungssuche aus dem Ausland als Probleme sowie die frühe Bewerbung um ein begrenzt verfügbares CROUS-Wohnheim als Lösung, durch die die Unterkunft vor der Anreise gesichert war."
+    },
+    {
+      "rank": 7,
+      "document_id": "p02_q2",
+      "relevance_score": 4,
+      "reason": "Zeigt einen konkreten Weg, der die Wohnungssuche erheblich erleichtert: Über das International Office der ISEP wurde ein bezahlbares Einzelzimmer in der Cité Universitaire vermittelt, wodurch eigene Wohnungsanzeigen und Formalitäten entfielen."
+    },
+    {
+      "rank": 8,
+      "document_id": "p02_q10",
+      "relevance_score": 4,
+      "reason": "Empfiehlt, früh beim International Office nach Unterkunftsmöglichkeiten und Zusagefristen zu fragen; zugleich warnt er davor, sich darauf zu verlassen, dass eine Vermittlung automatisch funktioniert."
+    },
+    {
+      "rank": 9,
+      "document_id": "p04_q10",
+      "relevance_score": 4,
+      "reason": "Gibt die konkrete Empfehlung, sehr früh mit der Unterkunftssuche zu beginnen, nicht auf eine kurzfristige Lösung zu warten und bei begrenztem Budget CROUS zu prüfen."
+    },
+    {
+      "rank": 10,
+      "document_id": "p05_q2",
+      "relevance_score": 4,
+      "reason": "Beschreibt die Wohnungssuche als stressig bei dem Ziel, weder zu viel Miete zu zahlen noch zu weit außerhalb zu wohnen, und nennt Facebook-Gruppen sowie WG-Gesuche als erfolgreichen Suchweg."
+    },
+    {
+      "rank": 11,
+      "document_id": "OFF_04",
+      "relevance_score": 4,
+      "reason": "Nennt eine direkte Unterstützungsmaßnahme: Die ISEP hilft Austauschstudierenden bei der Wohnungssuche und vermittelt Optionen wie Wohnheim, privates Zimmer oder Wohnung; das Verfahren wird nach der Zulassung mitgeteilt."
+    },
+    {
+      "rank": 12,
+      "document_id": "p01_q6",
+      "relevance_score": 3,
+      "reason": "Zeigt eine finanzielle Schwierigkeit der Wohnsituation: Die Miete von 950 Euro warm ist hoch, und CAF-Wohngeld war noch nicht ausgezahlt. Als Hilfe wird beschrieben, das Budget ohne die Auszahlung zu planen."
+    },
+    {
+      "rank": 13,
+      "document_id": "p01_q9",
+      "relevance_score": 3,
+      "reason": "Erläutert eine konkrete Lösung bei Problemen mit dem Wohngeldantrag: persönlicher Besuch einer CAF-Außenstelle, vorbereitete französische Sätze und Klärung eines Missverständnisses in der Vermieterbescheinigung."
+    },
+    {
+      "rank": 14,
+      "document_id": "p03_q8",
+      "relevance_score": 3,
+      "reason": "Bestätigt, dass der Stress vor der Wohnungssuche eine der größten Herausforderungen des Aufenthalts war, und erwähnt zugleich die begrenzte Hilfe des International Office."
+    },
+    {
+      "rank": 15,
+      "document_id": "p03_q9",
+      "relevance_score": 3,
+      "reason": "Nennt als konkrete Lösung für die Wohnungssuche, sich selbst über private WG-Gruppen zu helfen, nachdem die Unterstützung durch das International Office begrenzt war."
+    },
+    {
+      "rank": 16,
+      "document_id": "OFF_06",
+      "relevance_score": 3,
+      "reason": "Liefert konkrete Informationen zu staatlicher Wohnbeihilfe als finanzielle Hilfe: Voraussetzungen, Arten der Beihilfe, üblich etwa zwei Monate Wartezeit bis zur ersten Auszahlung und separate Anträge in einer WG."
+    },
+    {
+      "rank": 17,
+      "document_id": "OFF_07",
+      "relevance_score": 3,
+      "reason": "Beschreibt eine konkrete Einschränkung, die die Wohnungssuche für Studierende aus Nicht-EU-/EWR-/Schweiz-Ländern erschweren kann: Wohnbeihilfe ist seit Juli 2026 nur unter bestimmten Bedingungen möglich."
+    },
+    {
+      "rank": 18,
+      "document_id": "p01_q8",
+      "relevance_score": 2,
+      "reason": "Erwähnt die Wartezeit bei der CAF und die erschwerte Nachfrage mit begrenzten Französischkenntnissen als Belastung, konzentriert sich aber überwiegend auf Studium und Verwaltung."
+    },
+    {
+      "rank": 19,
+      "document_id": "p03_q6",
+      "relevance_score": 2,
+      "reason": "Nennt die hohe Warmmiete von 1.050 Euro als finanzielle Belastung, liefert jedoch keine Informationen zum Suchprozess oder zu Lösungsstrategien für die Wohnungssuche."
+    },
+    {
+      "rank": 20,
+      "document_id": "EXT_01",
+      "relevance_score": 2,
+      "reason": "Gibt eine grobe Preisspanne für ein WG-Zimmer in Paris an und kontextualisiert damit mögliche Wohnkosten, trägt aber nicht direkt zu Suchproblemen oder Suchstrategien bei."
+    },
+    {
+      "rank": 21,
+      "document_id": "OFF_09",
+      "relevance_score": 2,
+      "reason": "Nennt Unterkunft als Bestandteil der Lebenshaltungskosten und weist auf Abhängigkeit von Wohnform und Lage hin, ohne konkrete Schwierigkeiten oder Hilfen bei der Wohnungssuche zu beschreiben."
+    }
+  ]
+}

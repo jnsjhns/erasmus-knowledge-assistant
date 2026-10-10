@@ -1,0 +1,31 @@
+{
+  "query_id": "Q08",
+  "query": "kontakte zu locals",
+  "information_need": "Wie können Austauschstudierende Kontakte zu französischen bzw. lokalen Studierenden aufbauen?",
+  "results": [
+    {
+      "rank": 1,
+      "document_id": "p01_q7",
+      "relevance_score": 4,
+      "reason": "Die Passage beschreibt konkret, wie Kontakte über Gruppenarbeiten an der Hochschule entstehen und wie daraus gemeinsame Kaffee- oder Essens Treffen mit einem französischen Kommilitonen werden. Sie nennt damit einen unmittelbar nutzbaren Weg, lokale Studierende kennenzulernen."
+    },
+    {
+      "rank": 2,
+      "document_id": "p01_q3",
+      "relevance_score": 3,
+      "reason": "Die Passage nennt Kennenlernveranstaltungen der ISEP als Möglichkeit, andere Studierende zu treffen. Sie liefert einen konkreten sozialen Einstieg, behandelt den Aufbau von Kontakten zu lokalen Studierenden jedoch nur teilweise."
+    },
+    {
+      "rank": 3,
+      "document_id": "p01_q1",
+      "relevance_score": 2,
+      "reason": "Die Passage erwähnt den Wunsch, Leute kennenzulernen und nicht allein zu bleiben. Sie enthält jedoch keine konkrete Methode oder Empfehlung, wie Kontakte zu französischen oder lokalen Studierenden aufgebaut werden können."
+    },
+    {
+      "rank": 4,
+      "document_id": "p01_q5",
+      "relevance_score": 2,
+      "reason": "Die Passage erwähnt Gruppenarbeiten als Bestandteil des Studiums. Da gemeinsame Arbeiten grundsätzlich Kontakt zu Kommilitoninnen und Kommilitonen ermöglichen können, besteht ein konkreter, aber nur indirekter Bezug zum Informationsbedarf."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "query_id": "Q13",
+  "query": "monatliche ausgaben paris",
+  "information_need": "Wie hoch sind die monatlichen Ausgaben für Austauschstudierende in Paris und wie können sie ihr Budget planen?",
+  "results": [
+    {
+      "rank": 1,
+      "document_id": "OFF_09",
+      "relevance_score": 5,
+      "reason": "Gibt eine direkte offizielle Schätzung der monatlichen Lebenshaltungskosten in Paris von 700 bis 1.100 Euro an und nennt Unterkunft, Verpflegung und Transport sowie die Abhängigkeit von Wohnform und Lage."
+    },
+    {
+      "rank": 2,
+      "document_id": "EXT_01",
+      "relevance_score": 5,
+      "reason": "Liefert konkrete monatliche Kostenaufstellungen für Austauschstudierende: 600 bis 900 Euro Miete für ein WG-Zimmer, 200 bis 300 Euro für Einkäufe und Mahlzeiten sowie 42 Euro für den Navigo Imagine R."
+    },
+    {
+      "rank": 3,
+      "document_id": "p01_q6",
+      "relevance_score": 5,
+      "reason": "Nennt eine konkrete Warmmiete von 950 Euro, ein monatlich eingeplantes Gesamtbudget von etwa 1.950 Euro, sparsame Verpflegung durch Selbstkochen und die bewusste Nichtberücksichtigung noch nicht ausgezahlten CAF-Wohngelds im Budget."
+    },
+    {
+      "rank": 4,
+      "document_id": "OFF_08",
+      "relevance_score": 4,
+      "reason": "Erläutert die Erasmus+-Förderung als Zuschuss zu den zusätzlichen Lebenshaltungskosten und nennt für Frankreich als Land mit höheren Lebenshaltungskosten einen monatlichen Förderbereich von etwa 348 bis 674 Euro."
+    },
+    {
+      "rank": 5,
+      "document_id": "OFF_06",
+      "relevance_score": 3,
+      "reason": "Erklärt konkrete Möglichkeiten zur Entlastung der Wohnkosten durch APL, ALF oder ALS, nennt Voraussetzungen und den üblichen Zeitpunkt der ersten Auszahlung etwa zwei Monate nach Antragstellung."
+    },
+    {
+      "rank": 6,
+      "document_id": "OFF_07",
+      "relevance_score": 3,
+      "reason": "Gibt an, unter welchen eingeschränkten Bedingungen Studierende aus Ländern außerhalb der EU, des EWR oder der Schweiz seit dem 1. Juli 2026 Wohnbeihilfe erhalten können, was für die Budgetplanung relevant ist."
+    },
+    {
+      "rank": 7,
+      "document_id": "p01_q2",
+      "relevance_score": 3,
+      "reason": "Nennt eine konkrete Warmmiete von 950 Euro für ein möbliertes 25-Quadratmeter-Studio im 14. Arrondissement und damit einen wesentlichen konkreten Kostenposten."
+    },
+    {
+      "rank": 8,
+      "document_id": "p01_q9",
+      "relevance_score": 3,
+      "reason": "Beschreibt eine konkrete Budgetplanungsstrategie: Das Budget wurde ohne CAF-Auszahlung geplant, sodass eine Verzögerung der Auszahlung kein finanzieller Notfall wird."
+    },
+    {
+      "rank": 9,
+      "document_id": "p01_q10",
+      "relevance_score": 3,
+      "reason": "Gibt eine konkrete Budgetempfehlung: vorsichtig zu planen und Geld, das beantragt, aber noch nicht ausgezahlt wurde, nicht für die nächste Miete einzuplanen."
+    },
+    {
+      "rank": 10,
+      "document_id": "p01_q3",
+      "relevance_score": 2,
+      "reason": "Erwähnt die Organisation von Versicherung, CAF-Unterlagen und ein Vélib’-Abo, liefert jedoch keine konkreten Beträge oder umfassenden Angaben zu den monatlichen Ausgaben."
+    },
+    {
+      "rank": 11,
+      "document_id": "p01_q8",
+      "relevance_score": 2,
+      "reason": "Behandelt die Verwaltung und das Warten auf CAF-Wohngeld als Belastung, enthält aber keine konkreten Kostenangaben oder direkten Budgetplanungshinweise."
+    },
+    {
+      "rank": 12,
+      "document_id": "p02_q10",
+      "relevance_score": 1,
+      "reason": "Erwähnt nur allgemein, dass Geld und Energie nicht unbegrenzt sind, ohne konkrete Ausgaben, Beträge oder Budgetplanungsmaßnahmen für Paris."
+    }
+  ]
+}

@@ -49,3 +49,12 @@ Q12
 flüge nach paris buchen
 Wie kann man Flüge nach Paris buchen?
 Anmerkung: Edge Case – Thema liegt vollständig außerhalb des Korpus; es sollten keine relevanten Treffer erscheinen.
+
+Q13
+monatliche ausgaben paris
+Wie hoch sind die monatlichen Ausgaben für Austauschstudierende in Paris und wie können sie ihr Budget planen?
+
+Q14
+wenig geld paris erleben
+Ich habe während meines Erasmus-Semesters wenig Geld zur Verfügung, möchte Paris aber trotzdem erleben. Welche Erfahrungen und Strategien helfen dabei?
+Anmerkung: Kombination aus wenig Budget und dem Wunsch, Paris zu erleben
