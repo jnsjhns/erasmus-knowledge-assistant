@@ -1,0 +1,30 @@
+LLM-as-a-Judge – Run Information
+
+Date: 2026-10-10
+Platform: Perplexity Web
+Model: Claude Sonnet 5.5
+Execution method: Manual browser prompting
+
+Prompt file:
+llm_relevance_judge.txt
+
+Attached files for each query:
+- data/processed/interviews.json
+- data/processed/official_info.json
+- data/processed/questions.json
+
+Test queries:
+data/evaluation/test_queries.json
+
+Relevance scale:
+data/evaluation/relevance_score.json
+
+Procedure:
+Each test query is processed separately in a new chat.
+The same selected model, prompt, attached files and relevance scale are used for every query.
+No web search or external knowledge is used.
+Only passages with a relevance score of 3, 4 or 5 are saved.
+The outputs form an LLM-based relevance silver standard.
+
+Output:
+data/results/
