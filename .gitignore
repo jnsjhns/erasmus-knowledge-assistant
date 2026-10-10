@@ -5,3 +5,4 @@ venv/
 .env
 
 pdfs_etc/
+doc/
