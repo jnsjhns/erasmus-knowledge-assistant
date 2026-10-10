@@ -5,6 +5,7 @@ Wie viel kostet das Wohnen und Leben in Paris für Austauschstudierende?
 Q02
 mindestens ects
 Wie viele ECTS müssen Austauschstudierende an der ISEP mindestens belegen?
+Anmerkung: Edge Case zur Präzision – zahlreiche persönliche ECTS-Angaben sind Rauschen; nur OFF_11 nennt die verbindliche Mindestanzahl von 15 ECTS.
 
 Q03
 learning agreement

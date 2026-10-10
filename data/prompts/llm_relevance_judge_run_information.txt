@@ -4,6 +4,7 @@ Date: 2026-10-10
 Platform: Perplexity Web
 Model: Claude Sonnet 5.5
 Execution method: Manual browser prompting
+Reasoning / Thinking: Enabled for each query
 
 Prompt file:
 llm_relevance_judge.txt

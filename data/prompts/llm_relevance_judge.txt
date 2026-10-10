@@ -69,9 +69,9 @@ Die Passage beantwortet die Suchanfrage direkt und vollständig. Sie enthält di
 
 ENTSCHEIDENDE ABGRENZUNG
 
-Eine Passage darf nur dann einen Score von mindestens 3 erhalten, wenn sie einen konkreten inhaltlichen Beitrag zur Beantwortung der Suchanfrage leistet.
+Eine Passage erhält mindestens Score 3, wenn sie einen konkreten inhaltlichen Beitrag zu mindestens einem relevanten Teilaspekt des Informationsbedarfs leistet. Sie muss nicht alle Teilaspekte der Suchanfrage abdecken.
 
-Ein bloßer thematischer Zusammenhang, gemeinsame Schlüsselwörter oder die Erwähnung desselben Gegenstands reichen nicht aus.
+Ein bloßer thematischer Zusammenhang, gemeinsame Schlüsselwörter oder die Erwähnung desselben Gegenstands ohne konkreten Informationsbeitrag erhalten höchstens Score 2.
 
 Bewerte den tatsächlichen Informationsbeitrag der Passage und nicht, wie gut ihre Formulierung zur Suchanfrage passt.
 
@@ -81,14 +81,14 @@ AUFGABE
 2. Prüfe sämtliche Dokumente aus interviews.json und official_info.json.
 3. Nutze questions.json ausschließlich dann, wenn zusätzlicher Kontext benötigt wird, um eine Interviewantwort korrekt zu interpretieren.
 4. Bewerte intern jede Passage anhand der Relevanzskala von 0 bis 5.
-5. Gib im JSON ausschließlich Passagen mit einem Relevanzscore von mindestens 3 aus.
-6. Vollständigkeit ist wichtiger als Kürze: Lasse keine Passage mit Score 3, 4 oder 5 aus, auch wenn viele relevante Passagen gefunden wurden.
+5. Gib im JSON alle Passagen mit einem Relevanzscore von mindestens 1 aus. Passagen mit Score 0 werden nicht ausgegeben.
+6. Vollständigkeit ist wichtiger als Kürze: Lasse keine Passage mit Score 1, 2, 3, 4 oder 5 aus, auch wenn viele relevante Passagen gefunden wurden.
 7. Begrenze die Anzahl der Ergebnisse nicht auf zehn oder eine andere feste Zahl.
 8. Lasse keine Passage allein deshalb weg, weil bereits andere Passagen mit ähnlichem Inhalt ausgewählt wurden.
 9. Verwende jede document_id höchstens einmal innerhalb der Ergebnisse einer Suchanfrage.
 10. Sortiere die Ergebnisse absteigend nach Relevanzscore.
 11. Bei gleichem Score dürfen die direkteren und spezifischeren Passagen höher stehen.
-12. Falls keine Passage einen Score von mindestens 3 erreicht, gib ein leeres Array bei "results" zurück.
+12. Falls keine Passage einen Score von mindestens 1 erreicht, gib ein leeres Array bei "results" zurück.
 13. Begründe jeden Score kurz und konkret anhand des tatsächlichen Informationsbeitrags der Passage.
 14. Verändere die Bewertungskriterien nicht abhängig von der jeweiligen Suchanfrage. Wende die Relevanzskala konsistent auf alle Suchanfragen an.
 
