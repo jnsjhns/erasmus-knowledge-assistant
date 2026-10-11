@@ -1,6 +1,9 @@
 {
+  "query_id": "Q07",
   "query": "französischkurs",
-  "top_k": 10,
+  "information_need": "Welche Erfahrungen und Empfehlungen gibt es zu Französischkursen und Sprachvorbereitung?",
+  "retriever": "bm25",
+  "top_k": 20,
   "results": [
     {
       "rank": 1,

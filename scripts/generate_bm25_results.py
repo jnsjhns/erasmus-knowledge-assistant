@@ -11,34 +11,9 @@ ROOT = Path(__file__).resolve().parents[1]
 
 EVALUATION_DIR = ROOT / "data" / "evaluation"
 TEST_QUERIES_FILE = EVALUATION_DIR / "test_queries.json"
-RESULTS_DIR = EVALUATION_DIR / "bm25_results"
+RESULTS_DIR = ROOT / "results" / "bm25"
 
 BM25_SCRIPT = ROOT / "scripts" / "bm25_search.py"
-
-
-def slugify(text: str) -> str:
-    """Erzeugt einen sicheren Dateinamen aus einer Suchanfrage."""
-
-    replacements = {
-        "ä": "ae",
-        "ö": "oe",
-        "ü": "ue",
-        "ß": "ss",
-        " ": "_",
-        "/": "_",
-        "-": "_",
-    }
-
-    text = text.lower()
-
-    for old, new in replacements.items():
-        text = text.replace(old, new)
-
-    return "".join(
-        character
-        for character in text
-        if character.isalnum() or character == "_"
-    )
 
 
 def run_bm25_search(query: str, top_k: int = 20) -> dict:
@@ -118,7 +93,7 @@ def main():
             "results": search_result.get("results", []),
         }
 
-        output_filename = f"{query_id}_{slugify(query)}.json"
+        output_filename = f"bm25_{query_id.lower()}_top20.json"
         output_path = RESULTS_DIR / output_filename
 
         with output_path.open("w", encoding="utf-8") as file:

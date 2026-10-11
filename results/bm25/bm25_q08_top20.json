@@ -1,0 +1,162 @@
+{
+  "query_id": "Q08",
+  "query": "kontakte zu locals",
+  "information_need": "Wie können Austauschstudierende Kontakte zu französischen bzw. lokalen Studierenden aufbauen?",
+  "retriever": "bm25",
+  "top_k": 20,
+  "results": [
+    {
+      "rank": 1,
+      "score": 3.7271,
+      "base_score": 3.7271,
+      "document_id": "p10_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Über die ISEP habe ich relativ schnell andere internationale Studierende kennengelernt. Dadurch hatte ich Kontakte zu Leuten, die ebenfalls neu in Paris waren. Gleichzeitig habe ich durch meine Gastfamilie einen viel stärkeren Kontakt zum französischen Alltag und zur französischen Sprache. Diese Kombination finde ich eigentlich sehr gut, weil ich über die ISEP internationale Kontakte habe, aber durch die Familie auch regelmäßig Französisch spreche."
+    },
+    {
+      "rank": 2,
+      "score": 2.8966,
+      "base_score": 2.8966,
+      "document_id": "p06_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Fangt früh mit der Wohnungssuche an und rechnet ehrlich durch, was ihr euch leisten könnt. Eine eigene Wohnung in guter Lage klingt super, ist aber teuer. Eine WG wäre vielleicht günstiger gewesen und hätte mehr Kontakte gebracht. Wählt Kurse, die euch wirklich interessieren, und nutzt die Stadt zu Fuß oder mit dem Rad, denn das spart Geld und macht Spaß."
+    },
+    {
+      "rank": 3,
+      "score": 2.5653,
+      "base_score": 2.5653,
+      "document_id": "p05_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich heiße Ahmed, bin 25 und komme ursprünglich aus Algerien. Momentan mache ich meinen Master an der Universität Turin. Für mein Erasmus-Semester habe ich mich bewusst für die ISEP in Paris entschieden, weil ich Frankreich schon länger kennenlernen wollte – nicht nur als Tourist, sondern richtig im Alltag. Gleichzeitig überlege ich, nach dem Studium vielleicht in Frankreich zu arbeiten. Da dachte ich, ein Semester hier ist die perfekte Gelegenheit, um zu sehen, wie das so läuft, und vielleicht auch schon erste Kontakte zu knüpfen."
+    },
+    {
+      "rank": 4,
+      "score": 2.5173,
+      "base_score": 2.5173,
+      "document_id": "p05_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Kontakte zu anderen Studierenden waren eigentlich kein Problem. Über die ISEP gab es Welcome-Events, und dann haben sich schnell WhatsApp-Gruppen gebildet. Ich bin auch relativ aktiv, was angeht – hab mich bei ein paar studentischen Initiativen gemeldet und bin öfter mit Leuten was trinken oder essen gegangen.\n Was das Leben in Paris angeht: Ich nutze die Stadt ziemlich viel. Metro und Fahrrad sind meine Hauptverkehrsmittel. Am Wochenende sind wir oft in verschiedene Viertel gefahren, haben Märkte besucht oder sind einfach durch die Stadt gelaufen. So lernt man Paris am besten kennen, finde ich."
+    },
+    {
+      "rank": 5,
+      "score": 2.4863,
+      "base_score": 2.4863,
+      "document_id": "p13_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Kontakte zu anderen Studierenden zu finden, war für mich anfangs nicht leicht. Weil ich die Einführungswoche verpasst hatte und eher schüchtern bin, habe ich nicht automatisch Anschluss gefunden.\n Eine Kommilitonin aus meinem Webentwicklungs-Kurs hat mir später geholfen, den verpassten Stoff nachzuholen. Dadurch bin ich dann auch mit ein paar anderen Studierenden ins Gespräch gekommen.\n Französisch habe ich während des Aufenthalts nur von A1 auf ungefähr A2 verbessert, deshalb habe ich mich im Alltag meistens auf Englisch verlassen. Paris selbst habe ich vor allem zu Fuß und mit der Metro erkundet."
+    },
+    {
+      "rank": 6,
+      "score": 2.4412,
+      "base_score": 2.4412,
+      "document_id": "p11_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Kontakte habe ich vor allem über die ISEP und andere Erasmus-Studierende gefunden. Ich bin ziemlich offen und spreche Leute einfach an, deshalb war das für mich nicht so schwierig.\n Wir haben gemeinsam Paris erkundet, waren etwas trinken oder haben uns auch einfach zwischen den Kursen getroffen. Ich mag, dass dort Leute aus verschiedenen Ländern zusammenkommen.\n Gleichzeitig wollte ich nicht nur in einer internationalen Erasmus-Blase bleiben, sondern auch den normalen Alltag in Paris erleben. Deshalb bin ich auch öfter allein unterwegs gewesen oder habe versucht, Dinge außerhalb der typischen Erasmus-Aktivitäten zu machen."
+    },
+    {
+      "rank": 7,
+      "score": 2.4265,
+      "base_score": 2.4265,
+      "document_id": "p14_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Kontakte kamen bei mir eher über gemeinsame Aufgaben und Gespräche nach dem Unterricht zustande. Im französischen Kurs war das angenehm, weil ich dadurch auch mit lokalen Studierenden ins Gespräch gekommen bin und nicht nur im englischsprachigen Austauschkreis blieb. Ich bin mit 27 und meiner Arbeitserfahrung manchmal an einem anderen Punkt als jüngere Kommilitonen. Das ist kein Drama, aber ich brauche nicht jede Woche drei Partys. Mir passen gemeinsame Mittagessen, eine Ausstellung oder ein kleiner Konzertabend besser. Französisch zu sprechen macht dabei viel aus. Man ist dann nicht immer die Person, für die alle erst die Sprache wechseln müssen."
+    },
+    {
+      "rank": 8,
+      "score": 2.3151,
+      "base_score": 2.3151,
+      "document_id": "p09_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Gut organisiert, aber intensiv. Die erste Zeit wohnte ich im Airbnb, das lag in Issy-les-Moulineaux, also relativ nah an der Schule. Die ersten Tage habe ich für Verwaltungsdinge genutzt: Carte Navigo für die Métro besorgt, mir Vélolib-Fahrräder angeschaut, die Uni-Formalitäten. Die Einführungsveranstaltung an der ISEP war ordentlich geregelt, wir bekamen einen Plan, einen Rundgang, die wichtigsten Kontakte.\n Parallel dazu habe ich natürlich die Stadt genossen. Erste Woche abends durchs 6. Arrondissement laufen,沿着 die Seine, klassische Sachen – aber genau das, wofür ich hergekommen bin. Der einzige Dauerstress in den ersten Wochen war das Thema Wohnung, weil ich ja wusste, dass das Airbnb nur befristet war."
+    },
+    {
+      "rank": 9,
+      "score": 2.2632,
+      "base_score": 2.2632,
+      "document_id": "p04_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Kontakte habe ich hauptsächlich über andere Erasmus- und internationale Studierende gefunden. Am Anfang war das für mich einfacher, weil alle neu waren und niemand erwartet hat, dass man perfekt Englisch spricht.\n Ich habe versucht, bei Aktivitäten mitzumachen, auch wenn ich anfangs eher ruhig war. Besonders gut funktioniert hat es, regelmäßig mit denselben Leuten etwas zu unternehmen. Dadurch sind aus ersten Kontakten langsam Freundschaften entstanden.\n Paris selbst habe ich vor allem mit anderen Studierenden erkundet. Wir waren in verschiedenen Vierteln, Museen und Cafés und haben auch einfach Spaziergänge durch die Stadt gemacht. Dadurch habe ich Paris nach und nach eher als meinen Alltag und nicht mehr nur als touristische Stadt erlebt."
+    },
+    {
+      "rank": 10,
+      "score": 2.2015,
+      "base_score": 2.2015,
+      "document_id": "p04_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Meine größte Herausforderung war die Kombination aus Studium, Sprache und Heimweh. Gerade am Anfang hat mich der Unterricht viel Energie gekostet, weil ich mich sehr konzentrieren musste, um auf Englisch alle wichtigen Informationen mitzubekommen.\n Nach einigen Monaten kam dann noch das Heimweh stärker dazu. Ich hatte vorher gedacht, dass ein ganzes Studienjahr einfach nur eine längere Version eines Erasmus-Semesters sein würde. Tatsächlich war es emotional etwas anderes, weil man viel länger von Familie und Freunden getrennt ist.\n Wenn ich nach einem anstrengenden Studientag nach Hause kam und zusätzlich das Gefühl hatte, im Unterricht nicht alles verstanden zu haben, habe ich mich manchmal eher zurückgezogen. Dadurch wurde es natürlich schwieriger, neue Kontakte zu pflegen."
+    },
+    {
+      "rank": 11,
+      "score": 2.035,
+      "base_score": 2.035,
+      "document_id": "p04_q6_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ja, besonders wenn das Budget begrenzt ist oder man nicht viel Zeit in die private Wohnungssuche investieren möchte. Für mich war der größte Vorteil, dass die Unterkunft schon vor der Anreise geklärt war. Dadurch hatte ich weniger Stress und musste mich in den ersten Wochen nicht zusätzlich um eine Wohnung kümmern.\n Ein weiterer Vorteil war, dass dort viele andere Studierende gewohnt haben. Dadurch war es einfacher, erste Kontakte zu knüpfen.\n Der Nachteil ist, dass man weniger Komfort und Privatsphäre hat. Mein Zimmer war klein und die Gemeinschaftsbereiche wurden von mehreren Personen genutzt. Man muss außerdem mit den Regeln des Wohnheims und mit unterschiedlichen Gewohnheiten der anderen Bewohner klarkommen.\n Wenn mir vor allem eine günstige und unkomplizierte Unterkunft wichtig wäre, würde ich CROUS wieder wählen. Wenn ich mehr Platz und Privatsphäre wollte und ein höheres Budget hätte, würde ich eher nach einer privaten Wohnung oder einer guten WG suchen."
+    },
+    {
+      "rank": 12,
+      "score": 1.9656,
+      "base_score": 1.9656,
+      "document_id": "p04_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich würde mich sehr früh um die Unterkunft und die wichtigsten Dokumente kümmern. Gerade bei der Unterkunft würde ich nicht darauf warten, dass sich kurz vor der Abreise noch etwas ergibt. Wenn das Budget begrenzt ist, würde ich CROUS auf jeden Fall als Möglichkeit prüfen.\n Bei der Kurswahl würde ich nicht nur darauf achten, ob ein Kurs interessant klingt, sondern vorher klären, ob er wirklich zur eigenen Studienrichtung passt und anerkannt wird. Dabei würde ich mir wichtige Informationen schriftlich bestätigen lassen.\n Für das Studium würde ich außerdem von Anfang an zusätzliche Zeit für die sprachliche Vorbereitung einplanen. Auch wenn man auf Englisch grundsätzlich gut zurechtkommt, sind technische Fachbegriffe noch einmal etwas anderes.\n Und beim sozialen Teil würde ich nicht darauf warten, dass man automatisch Anschluss findet. Gerade wenn man eher zurückhaltend ist, hilft es, regelmäßig an Aktivitäten teilzunehmen und Kontakte aktiv weiterzuführen. Nach ein paar Wochen wird vieles deutlich einfacher."
+    },
+    {
+      "rank": 13,
+      "score": 1.9008,
+      "base_score": 1.9008,
+      "document_id": "p13_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Mein wichtigster Rat wäre, die Unterkunft und alle wichtigen Dokumente möglichst früh zu organisieren. Gerade beim Learning Agreement würde ich nicht davon ausgehen, dass sich offene Fragen irgendwann von selbst klären.\n Wenn man neu an der ISEP ist, würde ich außerdem versuchen, möglichst schnell ein paar Kontakte zu anderen Studierenden aufzubauen. Wenn man einmal jemanden kennt, kann diese Person bei organisatorischen Fragen oder verpasstem Unterricht oft viel schneller weiterhelfen als eine allgemeine E-Mail-Adresse.\n Und falls man krank wird oder aus einem anderen Grund den Studienstart verpasst, würde ich sofort Bescheid sagen und mir gezielt von Kommilitonen die Unterlagen und Informationen besorgen. Ich habe damit leider zu lange gewartet und dadurch den Einstieg unnötig schwer gemacht.\n Außerdem würde ich alle wichtigen E-Mails, Zusagen und Dokumente aufbewahren. Gerade bei Learning Agreement und Anerkennung kann es später hilfreich sein, wenn man noch nachvollziehen kann, was wann vereinbart wurde."
+    },
+    {
+      "rank": 14,
+      "score": 1.6059,
+      "base_score": 1.6059,
+      "document_id": "p13_q9_2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich würde auf jeden Fall empfehlen, nicht nur eine E-Mail an eine allgemeine Adresse zu schicken und dann abzuwarten. Bei mir war das oft so, dass ich an eine zentrale E-Mail-Adresse geschrieben habe und dann tagelang nichts kam.\n Fragt am besten direkt nach konkreten Ansprechpersonen oder spezifischeren Adressen, zum Beispiel über Kommilitonen, die schon länger da sind, oder über die Heimatuni.\n Wenn nach ein paar Tagen immer noch keine Antwort kommt, würde ich eine zweite, kürzere E-Mail schreiben und im Betreff klar markieren, dass es dringend ist – zum Beispiel mit „Urgent: Learning Agreement“. Manchmal gehen E-Mails einfach unter, und eine freundliche Erinnerung hilft schon.\n Außerdem kann man sich parallel an die Koordinatoren der Heimatuniversität wenden. Die haben oft direktere Kontakte zur Gastuni und können manchmal schneller eine Antwort bekommen als man selbst. Bei mir hat das International Office der HTW Berlin dann tatsächlich noch einmal nachgefasst, und plötzlich kamen Antworten.\n Und ganz praktisch: Bewahrt alle E-Mails und Screenshots auf, falls ihr später nachweisen müsst, dass ihr euch rechtzeitig gekümmert habt. Das hat mir im Nachhinein geholfen, als es um die Anerkennung von Kursen ging.\n Am wichtigsten ist aber: Wartet nicht zu lange. Ich habe am Anfang zu viel Zeit verloren, weil ich dachte, es kommt noch eine Antwort. Lieber mehrmals nachfragen, als am Ende Probleme bei der Anerkennung zu bekommen."
+    },
+    {
+      "rank": 15,
+      "score": 1.5098,
+      "base_score": 1.5098,
+      "document_id": "p01_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "ISEP Paris geben? Ich würde zuerst sagen: Kümmert euch früh um die Unterkunft und fragt nicht nur auf den großen Wohnungsportalen. Bei mir hat es über persönliche Kontakte geklappt. Deshalb würde ich auch bei der Hochschule und im eigenen Umfeld nachfragen, selbst wenn man erst einmal denkt, dass dort wahrscheinlich niemand etwas weiß.\n Beim Budget würde ich vorsichtig rechnen. Geld, das beantragt ist, aber noch nicht ausgezahlt wurde, würde ich nicht für die nächste Miete einplanen. Mir hat dieser Puffer einiges an Stress erspart.\n Für das Studium: Klärt vorher möglichst genau, welche Kurse ihr anerkennen lassen könnt. Und sobald ihr vor Ort seid, schaut nach, ob der Stundenplan tatsächlich funktioniert. Mein Learning Agreement war abgestimmt, trotzdem gab es noch die Überschneidung bei den Laboren.\n Bei Gruppenprojekten lohnt es sich, am Anfang über Erwartungen zu sprechen. Ich hätte gern früh Klarheit darüber, wer was übernimmt und wie wir zusammenarbeiten. Gleichzeitig würde ich mir selbst sagen: Du musst nicht jede Kleinigkeit vorgeben, nur weil du schon Berufserfahrung hast.\n Und ein bisschen Französisch vor der Abreise würde ich auf jeden Fall wieder machen. Mein A1-Kurs hat nicht alle Probleme gelöst, aber ich musste wenigstens nicht bei jedem Einkauf komplett bei null anfangen.\n Was ich genauso machen würde: mir Zeit für die Stadt nehmen. Wenn ich nur zwischen Wohnung und Hochschule unterwegs wäre, hätte ich zwar meine Kurse in Paris absolviert, aber von Paris selbst ziemlich wenig mitbekommen."
+    },
+    {
+      "rank": 16,
+      "score": 1.2256,
+      "base_score": 1.2256,
+      "document_id": "p02_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Über meine Freunde in Paris hatte ich natürlich einen ziemlich einfachen Einstieg. Die haben mich zu ihren Treffen mitgenommen, und plötzlich kannte ich nicht mehr nur zwei Leute, sondern auch deren Freunde. Das war angenehm, weil ich nicht bei jeder Verabredung erst überlegen musste, ob ich da überhaupt jemanden kenne.\n Die meisten neuen Kontakte habe ich aber in der Cité gefunden. Oft wirklich in der Küche. Einer kocht, jemand anderes wartet auf die Herdplatte, man redet – und später sitzt man zusammen beim Essen. Einmal wollte ich nur schnell Pasta machen und bin dann mit ein paar Leuten noch etwas trinken gegangen. Ich musste am nächsten Morgen früh raus. War also nicht meine intelligenteste Entscheidung, aber ein guter Abend.\n An der ISEP ging es viel über die Kurse und Projektgruppen. Wobei Projektkontakt nicht automatisch Freundschaft bedeutet. Mit manchen arbeite ich gut zusammen, aber danach gehen wir beide nach Hause. Mit anderen hole ich nach dem Unterricht noch einen Kaffee, und dann redet man auch mal über etwas anderes als Aufgaben und Abgaben. Ich spreche Leute einfach an. Wenn nichts zurückkommt, ist das auch okay.\n Mein Freundeskreis hier ist bisher allerdings vor allem international. Mit französischen Studierenden habe ich Kontakt, aber bei einer größeren Runde wird irgendwann Französisch gesprochen, und dann bin ich ziemlich raus. Ich will auch nicht alle fünf Minuten sagen: Könnt ihr bitte wieder Englisch sprechen? Manchmal übersetzt mir jemand kurz etwas, manchmal sitze ich einfach da und versuche, wenigstens den Witz am Gesichtsausdruck zu erkennen. Das nervt mich schon ein bisschen, weil ich normalerweise derjenige bin, der viel redet.\n Paris lerne ich eher durch solche Treffen kennen als durch eine Liste mit Sehenswürdigkeiten. Jemand kennt eine Bar, jemand schlägt einen Spaziergang vor, ich fahre mit Métro oder RER hin. Die ersten Wochen habe ich fast überall zugesagt. Inzwischen sortiere ich etwas mehr aus, auch wegen Geld und Uni. Aber ich möchte schon vermeiden, dass mein Paris am Ende nur aus Wohnheim, Hörsaal und Supermarkt besteht."
+    },
+    {
+      "rank": 17,
+      "score": 1.1825,
+      "base_score": 1.1825,
+      "document_id": "p05_q9",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hab verschiedene Dinge probiert. Erstens hab ich mein CV und Anschreiben auf Französisch überarbeiten lassen – von Freunden und auch vom Career-Service der ISEP. Zweitens bin ich auf ein paar Career-Events und Networking-Abende gegangen, die die ISEP organisiert hat.\n Außerdem hab ich versucht, über LinkedIn Kontakte zu Alumni der ISEP zu knüpfen, die in französischen Firmen arbeiten. Ein paar Gespräche waren echt hilfreich, um zu verstehen, wie der französische Arbeitsmarkt funktioniert. Die ISEP selbst hat mir vor allem bei der Vernetzung geholfen, aber konkrete Jobangebote konnten sie mir nicht vermitteln.\n 9.1 Welche dieser Maßnahmen hat dir am meisten geholfen, und warum?\n Am meisten geholfen haben mir definitiv die Gespräche mit Alumni der ISEP über LinkedIn. Die anderen Sachen waren auch nützlich – das überarbeitete CV hat meine Bewerbungen professioneller aussehen lassen, und die Career-Events waren gut, um ein Gefühl dafür zu bekommen, was Firmen erwarten. Aber die echten Durchbrüche kamen durch die direkten Gespräche mit Leuten, die schon den Weg gegangen sind, den ich gehen will.\n Ein Alumni, der jetzt in einer Tech-Firma im Süden von Paris arbeitet, hat mir zum Beispiel erklärt, warum meine Bewerbungen oft im Nirvana verschwunden sind. Er meinte, dass viele Firmen zwar „Englisch okay\" schreiben, aber im Alltag trotzdem fließendes Französisch erwarten – besonders im Team. Das war so ein Aha-Moment für mich. Bis dahin dachte ich, mein Französisch wäre gut genug, weil ich mich im Alltag verständigen kann. Aber für den Job reicht das offenbar nicht.\n Ein anderer Kontakt hat mir Tipps gegeben, wie ich meine Suche strukturieren kann: nicht nur auf großen Portalen wie Indeed oder LinkedIn suchen, sondern auch auf kleineren French-Tech-Plattformen und direkt auf den Karriereseiten von Firmen. Er hat mir auch gesagt, dass Initiativbewerbungen in Frankreich oft besser funktionieren als das Antworten auf Standard-Stellenanzeigen.\n Warum das am meisten geholfen hat? Weil es nicht nur konkrete Tipps waren, sondern auch so eine Art Reality-Check. Ich hab gemerkt, dass ich meine Erwartungen anpassen muss – sowohl was meine Sprachkenntnisse angeht als auch was die Strategie bei der Jobsuche betrifft. Und diese Art von ehrlichem Feedback bekommt man bei offiziellen Career-Events oder von der ISEP-Beratung nicht so direkt."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "query_id": "Q02",
+  "query": "mindestens ects",
+  "information_need": "Wie viele ECTS müssen Austauschstudierende an der ISEP mindestens belegen?",
+  "retriever": "bm25",
+  "top_k": 20,
+  "results": [
+    {
+      "rank": 1,
+      "score": 11.6198,
+      "base_score": 9.6832,
+      "document_id": "OFF_11",
+      "source_type": "official",
+      "topic": "ects",
+      "text": "Austauschstudierende an der ISEP müssen pro Semester mindestens 15 ECTS belegen. Das entspricht dem Mindestumfang für einen Austausch an der ISEP."
+    },
+    {
+      "rank": 2,
+      "score": 3.7217,
+      "base_score": 3.1014,
+      "document_id": "OFF_03",
+      "source_type": "official",
+      "topic": "grading_system",
+      "text": "Die ISEP verwendet das europäische ECTS-Notensystem. Die Notenskala reicht von 0 bis 20; die Bestehensgrenze liegt bei 10 Punkten. Die ECTS-Noten werden statistisch verteilt: A für die besten 10 Prozent, B für die nächsten 25 Prozent, C für die nächsten 30 Prozent, D für die nächsten 25 Prozent und E für die nächsten 10 Prozent."
+    },
+    {
+      "rank": 3,
+      "score": 3.2033,
+      "base_score": 3.2033,
+      "document_id": "p05_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl an der ISEP war eigentlich gut organisiert. Es gab eine Liste mit Kursen, die für Exchange-Students offen sind, und ich konnte relativ frei wählen. Wichtig war nur, dass ich genug ECTS bekomme, die dann in Turin anerkannt werden.\n Ich hab mich für Kurse entschieden, die sowohl technisch als auch management-lastig sind – so eine Mischung aus Ingenieursthemen und ein bisschen Business. Die Einschreibung lief online über das ISEP-Portal, und die ECTS-Anerkennung hab ich vorher mit meinem Koordinator in Turin abgeklärt. Am Ende sollten es so um die 25–30 ECTS werden, die dann problemlos anerkannt wurden."
+    },
+    {
+      "rank": 4,
+      "score": 3.0432,
+      "base_score": 3.0432,
+      "document_id": "p05_q2_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Wohnungssuche war für mich am schwierigsten, dass es extrem schnell gehen muss in Paris. Du siehst eine Anzeige, schreibst eine Nachricht, und wenn du nicht innerhalb von ein paar Stunden antwortest oder die Unterlagen schickst, ist das Zimmer schon weg. Das war für mich neu – in Turin lief das alles viel entspannter.\n Was mich zusätzlich genervt hat: Viele Vermieter wollen französische Bürgen oder mindestens drei Monatsmieten im Voraus. Als Erasmus-Student ohne französisches Einkommen bist du da natürlich im Nachteil. Ich hab ein paar Absagen bekommen, einfach weil ich keine französischen Garantien vorlegen konnte.\n Was mir letztendlich geholfen hat: Ich hab mich auf WG-Gesuche konzentriert, wo private Untervermieter suchen, nicht große Agenturen. Die sind oft flexibler, was Dokumente angeht. Außerdem hab ich meine Bewerbungsmappe auf Französisch vorbereitet – Anschreiben, Lebenslauf, Scholastic Records, alles kompakt in einer PDF. Das hat professioneller gewirkt.\n Am Ende war es ein Zimmer in einer WG im 13. Arrondissement, das über eine Facebook-Gruppe für internationale Studierende ausgeschrieben war. Der Hauptmieter war selbst Ausländer, hat die Situation verstanden und war bereit, mich ohne französische Bürgschaft zu nehmen. Ich musste nur die erste Miete plus Kaution im Voraus zahlen. War nicht billig, aber besser als nichts.\n Im Nachhinein würde ich sagen: Sei schnell, hab alle Unterlagen bereit, und such eher bei privaten Vermietern oder WGs statt bei großen Agenturen. Das macht es als Ausländer deutlich einfacher."
+    },
+    {
+      "rank": 5,
+      "score": 2.6923,
+      "base_score": 2.6923,
+      "document_id": "p09_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl war vorher im Learning Agreement festgelegt und lief dann vor Ort reibungslos. Ich hatte vier Kurse: Governance and Organization of Information Systems, Management Training, Risk Management and Audit und das Learning Track Project. Zusammen 17 ECTS, in Englisch unterrichtet. Genau diese Mischung war ja der Grund für die ISEP, also war ich mit der Auswahl zufrieden.\n Die Einschreibung vor Ort war ein Nachmittag Papierkram, aber kein Drama. Die Anerkennung an der HZ war im Vorfeld abgestimmt – die Kurse wurden auf mein Curriculum angerechnet, solange ich die 17 ECTS bestand. Mein Tipp an der Stelle: das vorher schriftlich fixieren, nicht erst nach der Rückkehr diskutieren."
+    },
+    {
+      "rank": 6,
+      "score": 2.6594,
+      "base_score": 2.6594,
+      "document_id": "p03_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hab vier Kurse gewählt: Advanced Cloud Computing, AI & Decision Support, Human-Computer Interaction und French Language & Culture. Das sind insgesamt 20 ECTS, mit Absicht eher reduziert, damit ich den Job und das Studium unter einen Hut kriege. Die Kurswahl selbst war okay, aber wie gesagt, das Learning Agreement hab ich mehrmals geändert, weil sich Zeiten überschnitten haben. Zur Anerkennung zuhause kann ich noch nicht viel sagen, das kommt ja erst nach dem Semester. Ich hoffe einfach, dass die 20 ECTS ohne Probleme durchgehen, weil ich mein Masterstudium nicht unnötig verlängern will. Ob da noch was hakt, weiß ich ehrlich gesagt nicht."
+    },
+    {
+      "rank": 7,
+      "score": 2.3269,
+      "base_score": 2.3269,
+      "document_id": "p06_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe drei Kurse gewählt: Machine Learning, Software Security und Development of Mobile Applications. Alle waren auf Englisch. Das hat gut gepasst, es sind zusammen 15 ECTS, so wie ich es mit meiner Heimatuni geplant hatte. Die Einschreibung lief ohne große Probleme. Zur endgültigen Anerkennung kann ich noch nichts Genaues sagen, das läuft über meine Uni in Schweden."
+    },
+    {
+      "rank": 8,
+      "score": 2.2469,
+      "base_score": 2.2469,
+      "document_id": "p15_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die größte Herausforderung war irgendwann die Angst, wegen zu wenig ECTS Geld zurückzahlen zu müssen. Ich hatte Fehlzeiten gesammelt und Beiträge für Gruppenarbeiten aufgeschoben. Einmal schrieb ein Gruppenmitglied ziemlich direkt, dass sie meinen Teil nicht auch noch übernehmen würden. War berechtigt. Mitte Dezember habe ich dann in einem Notizbuch ausgerechnet, welche Leistungen und welche Noten ich in zwei Klausuren noch brauchte. Da war Paris kurz weniger entspannt."
+    },
+    {
+      "rank": 9,
+      "score": 2.2315,
+      "base_score": 2.2315,
+      "document_id": "p13_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Kurswahl hatte ich mich für Webentwicklung, Datenbanken, Grundlagen der KI und einen Französischkurs entschieden. Die Unterrichtssprache war Englisch, was für mich grundsätzlich gut funktioniert hat.\n Die Einschreibung und das Learning Agreement waren trotzdem nicht ganz einfach, weil sich manche Informationen für mich widersprochen haben oder nicht rechtzeitig kamen. Ich sollte ungefähr 30 ECTS erreichen. Bei der Anerkennung musste ich deshalb relativ genau mit meiner Heimathochschule abgleichen, welche Kurse angerechnet werden können."
+    },
+    {
+      "rank": 10,
+      "score": 2.2164,
+      "base_score": 2.2164,
+      "document_id": "p15_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hatte Web Applications, Intro to Data Science, Human-Computer Interaction und Französisch für Anfänger gewählt. Angemeldet war ich für 30 ECTS. Bei der Einschreibung fehlte zwischendurch noch die aktuelle Version meines Learning Agreements. Das war eher mein Fehler als ein kompliziertes Verfahren. Was genau Groningen später anerkennt, musste ich mit der dortigen Koordination klären. Ich wollte vor allem vermeiden, mit zu wenig bestandenen Leistungen zurückzukommen."
+    },
+    {
+      "rank": 11,
+      "score": 2.1296,
+      "base_score": 2.1296,
+      "document_id": "p11_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Kurswahl habe ich mich für Deep Learning, Data Bases & Big Data sowie Advanced Algorithmic & Programming entschieden. Die Kurse sind auf Englisch und passen ziemlich gut zu meinem Informatikstudium in Liège. Insgesamt ging es um ungefähr 20 ECTS.\n Die Anerkennung musste natürlich mit meiner Heimatuniversität abgestimmt werden, und manche Details waren nicht sofort hundertprozentig klar. Ich habe deshalb lieber einmal mehr nachgefragt, bevor ich später Probleme mit dem Learning Agreement bekomme."
+    },
+    {
+      "rank": 12,
+      "score": 2.0755,
+      "base_score": 2.0755,
+      "document_id": "p07_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe drei Kurse gewählt: Software Security, Virtualized Architectures und Distributed Architectures and Programming. Sie passen gut zu meinem Cybersecurity-Schwerpunkt. Die Einschreibung lief halbwegs strukturiert, aber ich musste öfter nachfragen, bis mir klar war, was wann fehlt. Ich bin da manchmal ungeduldig, ich will einfach schnell eine klare Antwort. Zur ECTS-Anerkennung kann ich noch nicht viel sagen, weil das Semester läuft. Ich habe das Learning Agreement mit Bologna abgestimmt und hoffe, dass am Ende alles so angerechnet wird."
+    },
+    {
+      "rank": 13,
+      "score": 2.024,
+      "base_score": 2.024,
+      "document_id": "p10_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Kurswahl wollte ich nicht zu viele Kurse nehmen, weil ich zusätzlich meine Au-pair-Aufgaben habe. Ich habe mich für Virtualized Architectures, Development of Mobile Applications und Machine Learning entschieden und komme damit auf 17 ECTS. Da mein Französisch zu Beginn noch nicht gut genug für technische Fachkurse war, habe ich hauptsächlich englischsprachige Kurse gewählt. Bei der Auswahl waren für mich sowohl die fachliche Passung zu meinem Studium als auch der erwartete Arbeitsaufwand wichtig. Die Anerkennung habe ich mit meiner Heimathochschule über das Learning Agreement abgestimmt."
+    },
+    {
+      "rank": 14,
+      "score": 1.9993,
+      "base_score": 1.9993,
+      "document_id": "p08_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl war am Anfang chaotischer, als ich gedacht hatte. Man musste sich zu Beginn in einiges einwählen und hatte eine Frist, in der man wieder abwählen kann. Ich hatte mir vorher über das Kursverzeichnis der ISEP eine Liste zusammengestellt und die auch mit meinem Learning Agreement abgeglichen, damit die Anerkennung in Köln klappt. Am Anfang war ich in zu vielen Kursen – ich dachte, ich muss das so machen wie zu Hause. Die ECTS-Anerkennung hat zum Glück funktioniert, weil ich alles vorab mit meiner Koordinatorin in Köln abgestimmt hatte. Da kann ich wirklich sagen: das im Vorfeld klären, das hat mir später viel Ärger erspart."
+    },
+    {
+      "rank": 15,
+      "score": 1.9399,
+      "base_score": 1.9399,
+      "document_id": "p03_q5",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Unterricht ist auf Englisch, das ist für mich super, weil ich Englisch eh täglich im Job nutze. Ich hatte gehofft auf praxisnahe Projekte und wenig Klausuren, und so ungefähr scheint es auch zu sein, aber ich bin erst ein paar Wochen drin, also will ich da nicht zu früh urteilen. Was mich nervt, sind die Anwesenheitszeiten, die sind für mich mit Arbeit ziemlich unflexibel. Der Aufwand ist mit den 20 ECTS machbar, aber es ist schon eine Mischung aus Uni, Job und Stadt genießen, und da muss ich aufpassen, dass es nicht zu viel wird. Im Französischkurs merke ich, dass ich bei allem Fachlichen sofort ins Stocken komme, ich bin so knapp bei A2."
+    },
+    {
+      "rank": 16,
+      "score": 1.9178,
+      "base_score": 1.9178,
+      "document_id": "p15_q9",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Erst mal habe ich das Problem eine Weile nicht gelöst. Dann habe ich die offenen Aufgaben aufgeschrieben und endlich meine Mails beantwortet. Bei der Erasmus-Koordination in Groningen habe ich nachgefragt, welche Bedingungen in meinem Fall gelten. An der ISEP habe ich mit der zuständigen Kontaktperson geklärt, was noch fehlte und wen ich wegen der Kurse ansprechen musste. Die haben mir Orientierung gegeben, aber keine Leistungen geschenkt. Für die Gruppenarbeit habe ich einen klar abgegrenzten Programmierteil übernommen und diesmal rechtzeitig abgegeben.\n 9a. Du hast erwähnt, dass du zunächst nicht genau wusstest, wie viele ECTS du für Anerkennung und Förderung tatsächlich brauchst. Wie würdest du das heute vor dem Erasmus-Aufenthalt klären?\n Ich würde das vor der Abreise getrennt für Anerkennung und Förderung klären. Bei der Erasmus-Koordination in Groningen würde ich konkret nachfragen: Wie viele ECTS muss ich anmelden, wie viele muss ich tatsächlich bestehen und was passiert mit der Förderung, wenn ich darunter bleibe? Zusätzlich würde ich klären, welche ISEP-Kurse mir tatsächlich für meinen Studiengang angerechnet werden.\n Die Antworten würde ich mir schriftlich geben lassen und zusammen mit dem Learning Agreement speichern. Ich hatte diese beiden Themen vorher ziemlich durcheinandergeworfen und außerdem eine Zahl von 15 bis 20 ECTS aus einer Erasmus-Gruppe übernommen, ohne zu prüfen, ob sie für meinen Fall überhaupt stimmt. Das würde ich heute nicht mehr machen.\n 9b. Du hast gemerkt, dass laufende Abgaben und Gruppenarbeiten problematischer waren als erwartet. Was würdest du bei der Kurswahl oder deiner Zeitplanung heute anders machen?\n Bei der Kurswahl würde ich nicht nur auf den Titel und die Inhalte schauen, sondern auch auf die Prüfungsform und den tatsächlichen Arbeitsrhythmus: Gibt es wöchentliche Aufgaben? Ein Gruppenprojekt? Anwesenheitspflicht? Mehrere kleine Abgaben? Die englischen Informatikkurse haben fachlich gut zu mir gepasst, aber ich hatte unterschätzt, dass ich dadurch während des gesamten Semesters kontinuierlich arbeiten musste.\n Bei Gruppenarbeiten würde ich direkt am Anfang einen klar abgegrenzten Teil übernehmen und einen konkreten Termin dafür vereinbaren. Bei mir war das Problem weniger, dass ich die Aufgaben nicht konnte, sondern dass ich zu spät angefangen habe. Außerdem würde ich feste Zeitblöcke für Abgaben einplanen, zum Beispiel zwei Nachmittage pro Woche.\n Und ich würde Ausgehen nicht komplett streichen, aber realistischer planen. Mein Fehler war, Paris so zu planen, als wäre die Uni die freiwillige Nebenveranstaltung. Zwei gute Abende sind besser als vier Abende und danach Panik wegen einer Abgabe."
+    },
+    {
+      "rank": 17,
+      "score": 1.9059,
+      "base_score": 1.9059,
+      "document_id": "p14_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Mein konkreter Rat wäre: Fragt vor der Kurswahl nicht nur nach Inhalten und ECTS, sondern auch nach Anwesenheit, laufenden Abgaben und Prüfungsformen. Ich hatte die Fachbeschreibungen gründlich gelesen, aber den tatsächlichen Wochenrhythmus unterschätzt. Und wenn ihr einen französischsprachigen Fachkurs machen wollt, bereitet euch mit Material aus genau diesem Fachgebiet vor. Mir hat das mehr gebracht als noch einmal allgemeine Grammatikübungen durchzugehen. Für die Unterkunft würde ich früh ein vollständiges Bewerbungsdossier vorbereiten und ehrlich rechnen, wie viel nach der Miete übrig bleibt. Paris macht mehr Spaß, wenn man nicht bei jedem Kaffee seine Finanzierung neu verhandeln muss."
+    },
+    {
+      "rank": 18,
+      "score": 1.8949,
+      "base_score": 1.8949,
+      "document_id": "p14_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe Distributed Systems, Cloud Architecture, Machine Learning und den französischsprachigen Kurs „Sécurité des Réseaux et Cryptographie“ gewählt. Besonders beim Sicherheitskurs habe ich vorher genau auf die Inhalte geschaut, nicht nur auf den Titel. Die geplanten 30 ECTS habe ich mit der zuständigen Person an der KTH im Learning Agreement abgestimmt. Die Einschreibung ging bei mir ohne größere Schwierigkeiten. Die endgültige Anerkennung kann ich noch nicht beurteilen, das Semester läuft ja noch. Für mich war wichtig, die Zustimmung vorher schriftlich zu haben und die Modulbeschreibungen aufzubewahren. Ich möchte nachher nicht darüber diskutieren müssen, ob ein Kurs plötzlich doch nicht fachlich genug war."
+    },
+    {
+      "rank": 19,
+      "score": 1.8414,
+      "base_score": 1.8414,
+      "document_id": "p04_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl war für mich komplizierter als erwartet. Ich musste zuerst herausfinden, welche ISEP-Kurse fachlich zu meinem Studium in Sevilla passen und wie viele ECTS ich jeweils bekomme. Die Kursbeschreibungen haben mir dabei geholfen, aber teilweise waren sie nicht detailliert genug, um sicher zu sagen, ob ein Kurs später anerkannt wird.\n Deshalb habe ich die Kurse mit den Anforderungen meiner Heimatuniversität verglichen und bei meiner Erasmus-Koordinatorin nachgefragt. Bei einigen Kursen musste ich die Inhalte genauer erklären oder zusätzliche Informationen zur ISEP weitergeben. Am Ende habe ich lieber einen Kurs gewählt, bei dem die Anerkennung vorher relativ klar war, statt einen interessanteren Kurs zu nehmen, bei dem ich ein Risiko gesehen habe."
+    },
+    {
+      "rank": 20,
+      "score": 1.7431,
+      "base_score": 1.7431,
+      "document_id": "p12_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl war grundsätzlich gut organisiert, aber es gab ein paar Überschneidungen und später auch Änderungen bei den Stundenplänen. Ich hatte Software Engineering, Web Development, Datenbanken, Projektmanagement und einen Französischkurs ausgewählt.\n Ich habe die Kurse zuerst mit dem Angebot der ISEP und danach mit meiner Universität in Zagreb verglichen. Bei manchen Kursen musste ich dann noch einmal nachfragen, ob die Inhalte und der Arbeitsaufwand wirklich für die Anerkennung passen.\n Das International Office an der ISEP hat mir dabei geholfen, aber ich musste trotzdem selbst ziemlich genau aufpassen. Ich habe irgendwann gemerkt, dass man sich nicht darauf verlassen sollte, dass automatisch alles passt, nur weil ein Kurs im Learning Agreement steht. Ich wollte 30 ECTS machen und hatte deshalb schon etwas Angst, dass am Ende ein Kurs nicht anerkannt wird."
+    }
+  ]
+}

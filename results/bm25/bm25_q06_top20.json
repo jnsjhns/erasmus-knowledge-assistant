@@ -1,0 +1,189 @@
+{
+  "query_id": "Q06",
+  "query": "probleme wohnungssuche",
+  "information_need": "Welche Schwierigkeiten gibt es bei der Wohnungssuche und was hilft dabei?",
+  "retriever": "bm25",
+  "top_k": 20,
+  "results": [
+    {
+      "rank": 1,
+      "score": 4.2841,
+      "base_score": 3.5701,
+      "document_id": "OFF_04",
+      "source_type": "official",
+      "topic": "housing",
+      "text": "Die ISEP unterstützt Austauschstudierende bei der Wohnungssuche. Möglich sind unter anderem ein Wohnheim, ein privates Zimmer oder eine Wohnung. Das genaue Verfahren wird nach der Zulassung mitgeteilt."
+    },
+    {
+      "rank": 2,
+      "score": 3.8744,
+      "base_score": 3.8744,
+      "document_id": "p06_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe drei Kurse gewählt: Machine Learning, Software Security und Development of Mobile Applications. Alle waren auf Englisch. Das hat gut gepasst, es sind zusammen 15 ECTS, so wie ich es mit meiner Heimatuni geplant hatte. Die Einschreibung lief ohne große Probleme. Zur endgültigen Anerkennung kann ich noch nichts Genaues sagen, das läuft über meine Uni in Schweden."
+    },
+    {
+      "rank": 3,
+      "score": 3.5459,
+      "base_score": 3.5459,
+      "document_id": "p11_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Kurswahl habe ich mich für Deep Learning, Data Bases & Big Data sowie Advanced Algorithmic & Programming entschieden. Die Kurse sind auf Englisch und passen ziemlich gut zu meinem Informatikstudium in Liège. Insgesamt ging es um ungefähr 20 ECTS.\n Die Anerkennung musste natürlich mit meiner Heimatuniversität abgestimmt werden, und manche Details waren nicht sofort hundertprozentig klar. Ich habe deshalb lieber einmal mehr nachgefragt, bevor ich später Probleme mit dem Learning Agreement bekomme."
+    },
+    {
+      "rank": 4,
+      "score": 3.2001,
+      "base_score": 3.2001,
+      "document_id": "p09_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Klar die Wohnungssuche. Das Airbnb war ja nur als Puffer gedacht, aber eine langfristige Unterkunft zu finden, war schwieriger als gedacht. Das Pariser Wohnungsmarkt-System ist für Neulinge sehr zäh: Viele Inserate sind unseriös, die Nachfrage ist riesig, und als ausländischer Student ohne französisches Einkommen oder französische Bürgen sind viele Vermieter skeptisch. Ich hatte zwei oder drei Besichtigungen, bei denen nach den ersten fünf Minuten klar war, dass es nicht klappt, weil ich die üblichen Nachweise nicht vorlegen konnte.\n Dazu kam, dass ich vom International Office der ISEP bei diesem Thema leider keine wesentliche Unterstützung erfahren habe. Es gab Hinweise auf Plattformen und allgemeine Links, aber keine konkrete Hilfe. Das war ehrlich gesagt enttäuschend, gerade weil Wohnungssuche für Internationale die zentrale Hürde ist."
+    },
+    {
+      "rank": 5,
+      "score": 3.1368,
+      "base_score": 3.1368,
+      "document_id": "p03_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hab vier Kurse gewählt: Advanced Cloud Computing, AI & Decision Support, Human-Computer Interaction und French Language & Culture. Das sind insgesamt 20 ECTS, mit Absicht eher reduziert, damit ich den Job und das Studium unter einen Hut kriege. Die Kurswahl selbst war okay, aber wie gesagt, das Learning Agreement hab ich mehrmals geändert, weil sich Zeiten überschnitten haben. Zur Anerkennung zuhause kann ich noch nicht viel sagen, das kommt ja erst nach dem Semester. Ich hoffe einfach, dass die 20 ECTS ohne Probleme durchgehen, weil ich mein Masterstudium nicht unnötig verlängern will. Ob da noch was hakt, weiß ich ehrlich gesagt nicht."
+    },
+    {
+      "rank": 6,
+      "score": 3.0489,
+      "base_score": 3.0489,
+      "document_id": "p11_q9",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe versucht, Probleme möglichst direkt anzusprechen, bevor sie sich über längere Zeit aufstauen. Zum Beispiel haben wir über die Reinigung und gemeinsame Regeln gesprochen. Das funktioniert manchmal ganz gut, aber natürlich kann man nicht erwarten, dass sich alle plötzlich gleich verhalten.\n Ich glaube, ich musste auch lernen, nicht jede Kleinigkeit persönlich zu nehmen. Wenn man mit mehreren Menschen zusammenlebt, gibt es einfach unterschiedliche Gewohnheiten. Bei größeren Problemen würde ich allerdings schon versuchen, klar zu sagen, was mich stört, statt einfach immer nachzugeben.\n Die ISEP war für mich vor allem bei Fragen zum Studium und zur Organisation eine Anlaufstelle. Bei einem WG-Konflikt würde ich jetzt nicht erwarten, dass die Universität das für mich löst."
+    },
+    {
+      "rank": 7,
+      "score": 2.9808,
+      "base_score": 2.9808,
+      "document_id": "p06_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Fangt früh mit der Wohnungssuche an und rechnet ehrlich durch, was ihr euch leisten könnt. Eine eigene Wohnung in guter Lage klingt super, ist aber teuer. Eine WG wäre vielleicht günstiger gewesen und hätte mehr Kontakte gebracht. Wählt Kurse, die euch wirklich interessieren, und nutzt die Stadt zu Fuß oder mit dem Rad, denn das spart Geld und macht Spaß."
+    },
+    {
+      "rank": 8,
+      "score": 2.918,
+      "base_score": 2.918,
+      "document_id": "p06_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Bewerbung lief über meine Heimatuni, mit Nomination und dann ein paar Formularen für die ISEP. Das war okay, nur etwas Papierkram. Sprachlich musste ich mich nicht vorbereiten. Die Anreise war unkompliziert, ich bin einfach hingefahren und hatte nicht so viel Gepäck. Die Wohnungssuche war der anstrengendste Teil. Ich wollte keine WG, sondern was Eigenes, und so bin ich in einer kleinen Wohnung im 5. Arrondissement gelandet. Das war ziemlich teuer."
+    },
+    {
+      "rank": 9,
+      "score": 2.7627,
+      "base_score": 2.7627,
+      "document_id": "p03_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bis jetzt eindeutig die Kollision von Vorlesungszeiten mit meinen Arbeitszeiten. Zwei meiner gewählten Vorlesungen lagen exakt zur selben Zeit wie mein wöchentliches Sprint-Meeting bei der Agentur, und das kann ich nicht einfach schwänzen, weil das mein fester Job ist. Dazu kam der ganze Stress mit der Wohnungssuche davor, der hat mich echt Nerven gekostet. Und generell das Gefühl, dass das International Office bei Verwaltungskram nicht so richtig hilft, das hat mich ehrlich aufgeregt."
+    },
+    {
+      "rank": 10,
+      "score": 2.497,
+      "base_score": 2.497,
+      "document_id": "p09_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Drei Punkte:\n Erstens: Das Wohnungsproblem nicht auf die leichte Schulter nehmen. Ich würde genau wie ich eine befristete Übergangslösung für die ersten Wochen buchen und dann vor Ort in Ruhe suchen. Und vorher über Visale informieren, das erspart Frustration.\n Zweitens: Französisch lernen, auch wenn die Kurse auf Englisch sind. Mit B1-Niveau kam ich im Alltag gut klar, und ohne Französisch ist die Wohnungssuche und einfach der ganze Verwaltungsalltag deutlich anstrengender.\n Drittens: Seid offen für die wirtschaftlicheren Kurse, wenn ihr wie ich aus einem technischen Programm kommt – Governance und Risk Management haben mir eine Perspektive gegeben, die ich zu Hause so nicht bekommen hätte.\n Und fahrt Fahrrad in Paris. Vertraut mir."
+    },
+    {
+      "rank": 11,
+      "score": 2.479,
+      "base_score": 2.479,
+      "document_id": "p12_q9",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Beim Geld habe ich am Anfang ehrlich gesagt ein bisschen zu locker gelebt. Nach dem ersten Monat habe ich dann gemerkt, dass ich so nicht weit komme. Danach habe ich angefangen, meine Ausgaben genauer aufzuschreiben und mir ungefähr festzulegen, wie viel ich pro Woche für Essen und Freizeit ausgeben kann.\n Wir haben auch oft gemeinsam in der WG gekocht. Das war günstiger und gleichzeitig eine gute Möglichkeit, etwas mit den anderen zu machen. Für Freizeit habe ich öfter kostenlose Sachen gemacht, zum Beispiel Spaziergänge oder Sport.\n Bei organisatorischen Problemen habe ich meistens zuerst selbst auf der ISEP-Webseite oder in meinen Unterlagen gesucht. Wenn ich danach noch nicht weiterwusste, habe ich beim International Office nachgefragt. Andere Austauschstudierende waren ebenfalls sehr hilfreich, weil manche Probleme bei ihnen schon einmal aufgetreten waren.\n Beim Französisch habe ich versucht, nicht sofort auf Englisch zu wechseln. Das hat nicht immer funktioniert und manchmal war es auch etwas unangenehm, wenn ich kaum verstanden habe, was die andere Person sagt. Aber wahrscheinlich habe ich dadurch mehr gelernt, als wenn ich immer sofort ins Englische gewechselt hätte."
+    },
+    {
+      "rank": 12,
+      "score": 2.4673,
+      "base_score": 2.4673,
+      "document_id": "p03_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Fangt mit der Wohnungssuche viel früher an und verlasst euch nicht auf die Links vom International Office, die waren bei mir veraltet. Private WG-Gruppen sind meiner Erfahrung nach der bessere Weg, aber rechnet mit Stress. Schaut euch eure Stundenpläne genau an, bevor ihr das Learning Agreement abgebt, vor allem wenn ihr nebenbei arbeitet, und sprecht direkt mit den Dozenten, wenn was kollidiert. Die waren bei mir offener als gedacht. Und kauft euch ein gebrauchtes Rad, zum Beispiel über Leboncoin, das hat mir in Paris richtig viel gebracht. Ein bisschen Französisch vorher mehr als nur Duolingo-Vokabeln wäre auch nicht schlecht gewesen."
+    },
+    {
+      "rank": 13,
+      "score": 2.4528,
+      "base_score": 2.4528,
+      "document_id": "p08_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe in einer Studierendenresidenz gewohnt, in einem eigenen kleinen Zimmer mit Gemeinschaftsküche. Das war gut, weil ich nicht selbst auf Wohnungssuche in Paris hätte successfully durchhalten müssen – aber es war auch nicht besonders günstig. Paris ist einfach teuer, da kommt man nicht drum herum. Ich habe versucht, viel selbst zu kochen und beim Einkaufen auf Preise zu achten, aber spontan essen gehen oder so war für mein Budget kaum drin. Mit dem Abo für die Metro bin ich überall hingekommen, das war okay von den Kosten her. Ich würde sagen, man braucht wirklich ein realistisches Budget – Paris wird einen immer irgendwie einen Euro mehr kosten lassen, als man gedacht hat."
+    },
+    {
+      "rank": 14,
+      "score": 2.4384,
+      "base_score": 2.4384,
+      "document_id": "p10_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Erasmus-Bewerbung lief über meine Heimathochschule. Ich musste die üblichen Unterlagen einreichen und mich frühzeitig um das Learning Agreement kümmern. Bei der Unterkunft habe ich mich bewusst gegen eine klassische Wohnung oder WG entschieden und nach einer Au-pair-Stelle gesucht. Dadurch konnte ich die Wohnungssuche vermeiden und gleichzeitig stärker in den französischen Alltag eintauchen. Ich habe über eine Au-pair-Plattform eine Gastfamilie gefunden und mich bereits vor meiner Anreise mit der Familie ausgetauscht. Dabei haben wir vorab besprochen, welche Aufgaben ich übernehmen soll, wie viele Stunden ich arbeite und wann ich freie Zeit für mein Studium habe."
+    },
+    {
+      "rank": 15,
+      "score": 2.3606,
+      "base_score": 2.3606,
+      "document_id": "p07_q9_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Am meisten bei allem, was mit Papierkram zu tun hat. Im Wohnheim kamen am Anfang Infos zur Hausordnung und zu Formularen, und vieles stand nur auf Französisch. Ich habe dann einfach Fotos gemacht und sie mit einer Übersetzungs-App gelesen. Das klappt meistens, aber bei Fachbegriffen hatte ich manchmal Zweifel, ob ich es richtig verstehe. Bei wichtigen Sachen habe ich deshalb lieber nachgefragt, bevor ich etwas unterschreibe.\n Die zweite Situation war der Alltag: Bäckerei, Supermarkt, Métro-Ticket und Navigo-Fragen am Automaten oder Schalter. Wenn die Leute schnell reden, verstehe ich fast nichts. Ein bisschen genervt war ich auch, weil mich manche gleich auf Französisch angeredet haben und dann etwas ungeduldig wurden. Geholfen hat, dass ich mir ein paar Standardsätze gemerkt habe, zum Beispiel Begrüßung, Bestellen und „Pardon, vous pouvez répéter?“. Und ich frage inzwischen direkt, ob wir auf Englisch weitermachen können. Das funktioniert oft besser, als wenn ich mich durchquäle.\n Im Wohnheim haben mir auch andere Bewohner geholfen, die schon besser Französisch können. Das war ehrlich gesagt die praktischste Unterstützung, wenn eine Mail oder ein Aushang unklar war. An der Uni selbst gab es kaum Probleme, weil der Unterricht auf Englisch ist. Trotzdem bereue ich, dass ich vorher nichts gelernt habe."
+    },
+    {
+      "rank": 16,
+      "score": 2.3554,
+      "base_score": 2.3554,
+      "document_id": "p08_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Vorbereitung war für mich insgesamt ziemlich stressig, weil ich vieles nicht so richtig einschätzen konnte. Die Bewerbung lief über meine Uni, das war noch okay – Learning Agreement ausfüllen, Unterlagen einreichen, so was. Schwieriger fand ich die Wohnungssuche. Ich habe relativ spät angefangen und dann in Panik gesetzt, weil in Paris wirklich kaum was Bezahlbares frei ist. Am Ende habe ich über eine Vermittlung der ISEP ein Zimmer in einer Studierendenresidenz bekommen, das war für mich ehrlich gesagt eine riesige Erleichterung. Anreise dann mit dem Zug von Köln, mit zwei großen Koffern und mehr Nervosität als nötig. Vorher habe ich noch ein bisschen mit einer Sprach-App Französisch gelernt – so Vokabeln wie \"boulangerie\" und Zahlen, das wars dann aber auch schon."
+    },
+    {
+      "rank": 17,
+      "score": 2.3421,
+      "base_score": 2.3421,
+      "document_id": "p04_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Bewerbung lief über meine Heimatuniversität und das Erasmus-Programm. Ich musste mich relativ früh um das Learning Agreement, Versicherungen und weitere Dokumente kümmern. Die Unterkunft war für mich zunächst die größte Unsicherheit. Eine private Wohnung in Paris war mir zu teuer und die Wohnungssuche aus Spanien heraus erschien mir kompliziert. Deshalb habe ich mich für ein CROUS-Wohnheim beworben.\n Die Bewerbung dafür habe ich möglichst früh gemacht, weil ich gehört hatte, dass die Plätze begrenzt sind. Als die Zusage kam, war ich erleichtert, weil ich dadurch schon vor der Anreise wusste, wo ich wohnen würde. Für die Anreise selbst habe ich nicht viel organisiert, aber ich war trotzdem nervös, weil ich nur wenig Französisch konnte."
+    },
+    {
+      "rank": 18,
+      "score": 2.329,
+      "base_score": 2.329,
+      "document_id": "p08_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Mein Rat wäre: Fangt früh mit der Wohnungssuche an, klärt die Anerkennung der Kurse im Vorfeld ab – und vor allem, seid ehrlich mit euch, was die Kursanzahl angeht. Ihr müsst nicht beweisen, dass ihr alles schaffen könnt. Ich hätte mir auch gewünscht, dass ich den internationalen Studierenden früher einfach mal etwas direkter gesagt hätte \"Können wir mal was zusammen machen\" – es ist komischerweise fast nie so schlimm, wie man denkt. Und: Ein Semester geht verdammt schnell rum. Ich habe die ersten sechs Wochen damit verbracht, mich schlecht zu fühlen, und als es mir besser ging, war schon fast halbes Semester vorbei. Also nicht zu lange warten, bis man anfängt, sich wohlzufühlen."
+    },
+    {
+      "rank": 19,
+      "score": 2.1634,
+      "base_score": 2.1634,
+      "document_id": "p13_q9_2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich würde auf jeden Fall empfehlen, nicht nur eine E-Mail an eine allgemeine Adresse zu schicken und dann abzuwarten. Bei mir war das oft so, dass ich an eine zentrale E-Mail-Adresse geschrieben habe und dann tagelang nichts kam.\n Fragt am besten direkt nach konkreten Ansprechpersonen oder spezifischeren Adressen, zum Beispiel über Kommilitonen, die schon länger da sind, oder über die Heimatuni.\n Wenn nach ein paar Tagen immer noch keine Antwort kommt, würde ich eine zweite, kürzere E-Mail schreiben und im Betreff klar markieren, dass es dringend ist – zum Beispiel mit „Urgent: Learning Agreement“. Manchmal gehen E-Mails einfach unter, und eine freundliche Erinnerung hilft schon.\n Außerdem kann man sich parallel an die Koordinatoren der Heimatuniversität wenden. Die haben oft direktere Kontakte zur Gastuni und können manchmal schneller eine Antwort bekommen als man selbst. Bei mir hat das International Office der HTW Berlin dann tatsächlich noch einmal nachgefasst, und plötzlich kamen Antworten.\n Und ganz praktisch: Bewahrt alle E-Mails und Screenshots auf, falls ihr später nachweisen müsst, dass ihr euch rechtzeitig gekümmert habt. Das hat mir im Nachhinein geholfen, als es um die Anerkennung von Kursen ging.\n Am wichtigsten ist aber: Wartet nicht zu lange. Ich habe am Anfang zu viel Zeit verloren, weil ich dachte, es kommt noch eine Antwort. Lieber mehrmals nachfragen, als am Ende Probleme bei der Anerkennung zu bekommen."
+    },
+    {
+      "rank": 20,
+      "score": 2.0942,
+      "base_score": 2.0942,
+      "document_id": "p04_q6_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ja, besonders wenn das Budget begrenzt ist oder man nicht viel Zeit in die private Wohnungssuche investieren möchte. Für mich war der größte Vorteil, dass die Unterkunft schon vor der Anreise geklärt war. Dadurch hatte ich weniger Stress und musste mich in den ersten Wochen nicht zusätzlich um eine Wohnung kümmern.\n Ein weiterer Vorteil war, dass dort viele andere Studierende gewohnt haben. Dadurch war es einfacher, erste Kontakte zu knüpfen.\n Der Nachteil ist, dass man weniger Komfort und Privatsphäre hat. Mein Zimmer war klein und die Gemeinschaftsbereiche wurden von mehreren Personen genutzt. Man muss außerdem mit den Regeln des Wohnheims und mit unterschiedlichen Gewohnheiten der anderen Bewohner klarkommen.\n Wenn mir vor allem eine günstige und unkomplizierte Unterkunft wichtig wäre, würde ich CROUS wieder wählen. Wenn ich mehr Platz und Privatsphäre wollte und ein höheres Budget hätte, würde ich eher nach einer privaten Wohnung oder einer guten WG suchen."
+    }
+  ]
+}

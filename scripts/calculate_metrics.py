@@ -6,8 +6,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 SILVER_STANDARD_DIR = ROOT / "data" / "evaluation" / "silver_standard"
-BM25_RESULTS_DIR = ROOT / "results"
-METRICS_FILE = ROOT / "data" / "evaluation" / "metrics" / "bm25_metrics.json"
+BM25_RESULTS_DIR = ROOT / "results" / "bm25"
+METRICS_FILE = ROOT / "results" / "metrics" / "bm25_metrics.json"
 
 K = 10
 RELEVANT_THRESHOLD = 3
@@ -169,8 +169,8 @@ def main():
         silver_standard = load_json(silver_file)
         query_id = silver_standard["query_id"]
 
-        # Q01 -> bm25_q01_top10.json
-        bm25_file = BM25_RESULTS_DIR / f"bm25_{query_id.lower()}_top10.json"
+        # Q01 -> bm25_q01_top20.json
+        bm25_file = BM25_RESULTS_DIR / f"bm25_{query_id.lower()}_top20.json"
 
         if not bm25_file.exists():
             print(f"Kein BM25-Ergebnis für {query_id}: {bm25_file.name}")
