@@ -1,0 +1,189 @@
+{
+  "query_id": "Q11",
+  "query": "krankenversicherung in paris",
+  "information_need": "Wie ist man als Austauschstudierende in Paris krankenversichert?",
+  "retriever": "bm25",
+  "top_k": 20,
+  "results": [
+    {
+      "rank": 1,
+      "score": 4.0893,
+      "base_score": 4.0893,
+      "document_id": "p12_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe relativ früh mit der Vorbereitung angefangen, vor allem wegen des Learning Agreements. Ich wollte ungefähr 30 ECTS machen und natürlich sicher sein, dass ich die Kurse später auch in Zagreb anerkannt bekomme. Das war teilweise etwas mühsam, weil ich die Kursbeschreibungen vergleichen musste und nicht bei allen Kursen sofort klar war, ob sie passen.\n Dann kamen noch Sachen wie Krankenversicherung, Mietvertrag und später ein französisches Bankkonto dazu. Die Wohnungssuche war ehrlich gesagt schwieriger als erwartet. Ich habe über verschiedene Plattformen gesucht und auch Leute angeschrieben, aber ich habe mehrere Absagen bekommen. Teilweise habe ich gar keine Antwort bekommen.\n Am Ende habe ich ein möbliertes Zimmer in einer WG in Issy-les-Moulineaux gefunden. Das war ziemlich praktisch, weil es relativ nah am ISEP-Campus liegt. Die Anreise selbst war dann eigentlich unkompliziert, nur mit meinem ganzen Gepäck war es etwas mühsam. Vorher habe ich noch mit einer Sprach-App und ein paar Online-Videos versucht, mein Französisch zumindest ein bisschen aufzufrischen."
+    },
+    {
+      "rank": 2,
+      "score": 1.1513,
+      "base_score": 0.9594,
+      "document_id": "OFF_10",
+      "source_type": "official",
+      "topic": "campus_location",
+      "text": "Die ISEP hat in der Region Paris zwei Campus: den Campus Notre-Dame-des-Champs im 6. Arrondissement von Paris und den Campus Notre-Dame-de-Lorette in Issy-les-Moulineaux. Austauschstudierende sollten vor der Ankunft prüfen, an welchem Campus ihre Kurse stattfinden."
+    },
+    {
+      "rank": 3,
+      "score": 0.9549,
+      "base_score": 0.7957,
+      "document_id": "OFF_09",
+      "source_type": "official",
+      "topic": "living_costs",
+      "text": "Die ISEP schätzt die monatlichen Lebenshaltungskosten in Paris auf etwa 700 bis 1.100 Euro. Dieser Betrag umfasst Unterkunft, Verpflegung und Transport. Die tatsächlichen Kosten hängen insbesondere von der Wohnform und Lage ab."
+    },
+    {
+      "rank": 4,
+      "score": 0.9382,
+      "base_score": 0.9382,
+      "document_id": "p08_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe in einer Studierendenresidenz gewohnt, in einem eigenen kleinen Zimmer mit Gemeinschaftsküche. Das war gut, weil ich nicht selbst auf Wohnungssuche in Paris hätte successfully durchhalten müssen – aber es war auch nicht besonders günstig. Paris ist einfach teuer, da kommt man nicht drum herum. Ich habe versucht, viel selbst zu kochen und beim Einkaufen auf Preise zu achten, aber spontan essen gehen oder so war für mein Budget kaum drin. Mit dem Abo für die Metro bin ich überall hingekommen, das war okay von den Kosten her. Ich würde sagen, man braucht wirklich ein realistisches Budget – Paris wird einen immer irgendwie einen Euro mehr kosten lassen, als man gedacht hat."
+    },
+    {
+      "rank": 5,
+      "score": 0.8663,
+      "base_score": 0.8663,
+      "document_id": "p05_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich wohne in einer WG im 13. Arrondissement, ein Zimmer mit eigenem Bad, aber geteilter Küche und Wohnzimmer. Die Miete liegt bei etwa 750 Euro im Monat, was für Paris noch okay ist, aber schon ein großer Teil meines Budgets.\n Die Lebenshaltungskosten insgesamt sind deutlich höher als in Turin. Essen gehen, Metro-Tickets, selbst Supermarkt – alles ist teurer. Ich versuche, durch Kochen zu Hause und ein bisschen Budgetplanung gegenzusteuern. Aber klar: Paris ist keine günstige Stadt, das merkt man jeden Monat."
+    },
+    {
+      "rank": 6,
+      "score": 0.8625,
+      "base_score": 0.8625,
+      "document_id": "p04_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich heiße Lucia, bin 24 Jahre alt und komme aus Spanien. Ich studiere im Bachelor an der Universität Sevilla und bin für ein ganzes Studienjahr nach Paris gegangen. Ich wollte schon länger einmal für längere Zeit in Paris leben und die Stadt nicht nur als Touristin kennenlernen. Außerdem wollte ich internationale Erfahrungen sammeln und selbstständiger werden. Die ISEP hat für mich gut gepasst, weil es dort viele englischsprachige Kurse gibt und ich mein Studium dadurch auch während des Auslandsaufenthalts weiterführen konnte."
+    },
+    {
+      "rank": 7,
+      "score": 0.8439,
+      "base_score": 0.8439,
+      "document_id": "p05_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Kontakte zu anderen Studierenden waren eigentlich kein Problem. Über die ISEP gab es Welcome-Events, und dann haben sich schnell WhatsApp-Gruppen gebildet. Ich bin auch relativ aktiv, was angeht – hab mich bei ein paar studentischen Initiativen gemeldet und bin öfter mit Leuten was trinken oder essen gegangen.\n Was das Leben in Paris angeht: Ich nutze die Stadt ziemlich viel. Metro und Fahrrad sind meine Hauptverkehrsmittel. Am Wochenende sind wir oft in verschiedene Viertel gefahren, haben Märkte besucht oder sind einfach durch die Stadt gelaufen. So lernt man Paris am besten kennen, finde ich."
+    },
+    {
+      "rank": 8,
+      "score": 0.8262,
+      "base_score": 0.8262,
+      "document_id": "p11_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Kontakte habe ich vor allem über die ISEP und andere Erasmus-Studierende gefunden. Ich bin ziemlich offen und spreche Leute einfach an, deshalb war das für mich nicht so schwierig.\n Wir haben gemeinsam Paris erkundet, waren etwas trinken oder haben uns auch einfach zwischen den Kursen getroffen. Ich mag, dass dort Leute aus verschiedenen Ländern zusammenkommen.\n Gleichzeitig wollte ich nicht nur in einer internationalen Erasmus-Blase bleiben, sondern auch den normalen Alltag in Paris erleben. Deshalb bin ich auch öfter allein unterwegs gewesen oder habe versucht, Dinge außerhalb der typischen Erasmus-Aktivitäten zu machen."
+    },
+    {
+      "rank": 9,
+      "score": 0.7833,
+      "base_score": 0.7833,
+      "document_id": "p04_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Kontakte habe ich hauptsächlich über andere Erasmus- und internationale Studierende gefunden. Am Anfang war das für mich einfacher, weil alle neu waren und niemand erwartet hat, dass man perfekt Englisch spricht.\n Ich habe versucht, bei Aktivitäten mitzumachen, auch wenn ich anfangs eher ruhig war. Besonders gut funktioniert hat es, regelmäßig mit denselben Leuten etwas zu unternehmen. Dadurch sind aus ersten Kontakten langsam Freundschaften entstanden.\n Paris selbst habe ich vor allem mit anderen Studierenden erkundet. Wir waren in verschiedenen Vierteln, Museen und Cafés und haben auch einfach Spaziergänge durch die Stadt gemacht. Dadurch habe ich Paris nach und nach eher als meinen Alltag und nicht mehr nur als touristische Stadt erlebt."
+    },
+    {
+      "rank": 10,
+      "score": 0.7771,
+      "base_score": 0.7771,
+      "document_id": "p12_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Am schwierigsten war für mich wahrscheinlich die Kombination aus dem begrenzten Budget und den hohen Kosten in Paris. Die Miete hat schon einen großen Teil meines Geldes verbraucht. Gleichzeitig wollte ich natürlich nicht nur studieren und in der Wohnung sitzen. Ich wollte Paris auch wirklich erleben.\n Französisch war ebenfalls manchmal ein Problem, besonders bei Behörden oder mit Vermietern. Wenn jemand nicht gut Englisch gesprochen hat, war ich teilweise ziemlich aufgeschmissen.\n Und dann war da noch die Sache mit dem Studium. Ich hatte erwartet, dass ich fachlich stärker gefordert werde. Als ich gemerkt habe, dass manche Kurse für mich eher einfach sind, war ich zuerst etwas enttäuscht. Irgendwann habe ich versucht, das nicht mehr als großes Problem zu sehen und einfach das mitzunehmen, was für mich interessant ist."
+    },
+    {
+      "rank": 11,
+      "score": 0.7707,
+      "base_score": 0.7707,
+      "document_id": "p06_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Das Geld, vor allem die Wohnkosten. Dazu kam etwas Innerliches: Ich bin Franzose, aber mein Alltag ist schwedisch. In Paris wurde ich oft als „einer von hier“ behandelt, obwohl ich mich nicht ganz so gefühlt habe. Das war interessant, manchmal auch komisch."
+    },
+    {
+      "rank": 12,
+      "score": 0.7473,
+      "base_score": 0.7473,
+      "document_id": "p15_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich bin Malte van Dijk, 21, aus den Niederlanden. Ich studiere Computing Science in Groningen und war von September bis Januar an der ISEP. Ehrlich gesagt war Paris der Hauptgrund. Clubs, Konzerte, eine große Stadt. Die englischen Kurse haben zu meinem Studium gepasst, und die Bewerbung wirkte machbar."
+    },
+    {
+      "rank": 13,
+      "score": 0.7473,
+      "base_score": 0.7473,
+      "document_id": "EXT_01",
+      "source_type": "external",
+      "topic": "living_costs",
+      "text": "Für ein WG-Zimmer in Paris werden etwa 600 bis 900 Euro pro Monat genannt. Für Einkäufe und Mahlzeiten rechnet Erasmus Place mit etwa 200 bis 300 Euro monatlich. Für den studentischen Navigo-Imagine-R-Tarif wird ein zusätzlicher monatlicher Transportposten angegeben."
+    },
+    {
+      "rank": 14,
+      "score": 0.7149,
+      "base_score": 0.7149,
+      "document_id": "p01_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "ISEP Paris geben? Ich würde zuerst sagen: Kümmert euch früh um die Unterkunft und fragt nicht nur auf den großen Wohnungsportalen. Bei mir hat es über persönliche Kontakte geklappt. Deshalb würde ich auch bei der Hochschule und im eigenen Umfeld nachfragen, selbst wenn man erst einmal denkt, dass dort wahrscheinlich niemand etwas weiß.\n Beim Budget würde ich vorsichtig rechnen. Geld, das beantragt ist, aber noch nicht ausgezahlt wurde, würde ich nicht für die nächste Miete einplanen. Mir hat dieser Puffer einiges an Stress erspart.\n Für das Studium: Klärt vorher möglichst genau, welche Kurse ihr anerkennen lassen könnt. Und sobald ihr vor Ort seid, schaut nach, ob der Stundenplan tatsächlich funktioniert. Mein Learning Agreement war abgestimmt, trotzdem gab es noch die Überschneidung bei den Laboren.\n Bei Gruppenprojekten lohnt es sich, am Anfang über Erwartungen zu sprechen. Ich hätte gern früh Klarheit darüber, wer was übernimmt und wie wir zusammenarbeiten. Gleichzeitig würde ich mir selbst sagen: Du musst nicht jede Kleinigkeit vorgeben, nur weil du schon Berufserfahrung hast.\n Und ein bisschen Französisch vor der Abreise würde ich auf jeden Fall wieder machen. Mein A1-Kurs hat nicht alle Probleme gelöst, aber ich musste wenigstens nicht bei jedem Einkauf komplett bei null anfangen.\n Was ich genauso machen würde: mir Zeit für die Stadt nehmen. Wenn ich nur zwischen Wohnung und Hochschule unterwegs wäre, hätte ich zwar meine Kurse in Paris absolviert, aber von Paris selbst ziemlich wenig mitbekommen."
+    },
+    {
+      "rank": 15,
+      "score": 0.6847,
+      "base_score": 0.6847,
+      "document_id": "p07_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich bin Krishna und komme aus Italien. Ich studiere an der Universität Bologna im Master Informatik mit Schwerpunkt Cybersecurity, und meine Wurzeln sind indisch. Ich habe die ISEP ausgewählt, weil ich mir vorstellen kann, später für einen Master dorthin zu wechseln. Die Studiengebühren sind ziemlich hoch, deshalb wollte ich die Hochschule erst über Erasmus kennenlernen, bevor ich Geld investiere. Dass Paris ein internationaler Ort ist, war auch ein Pluspunkt."
+    },
+    {
+      "rank": 16,
+      "score": 0.68,
+      "base_score": 0.68,
+      "document_id": "p10_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Über die ISEP habe ich relativ schnell andere internationale Studierende kennengelernt. Dadurch hatte ich Kontakte zu Leuten, die ebenfalls neu in Paris waren. Gleichzeitig habe ich durch meine Gastfamilie einen viel stärkeren Kontakt zum französischen Alltag und zur französischen Sprache. Diese Kombination finde ich eigentlich sehr gut, weil ich über die ISEP internationale Kontakte habe, aber durch die Familie auch regelmäßig Französisch spreche."
+    },
+    {
+      "rank": 17,
+      "score": 0.6753,
+      "base_score": 0.6753,
+      "document_id": "p11_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Tage waren trotzdem etwas chaotisch. Ich musste mich erst orientieren, herausfinden, wie ich am besten zur ISEP komme, und natürlich auch die ganzen organisatorischen Dinge erledigen. Gleichzeitig wollte ich sofort möglichst viel von Paris sehen.\n Ich war ziemlich begeistert, aber auch ein bisschen überfordert, weil ständig irgendetwas neu war. Nach ein, zwei Wochen hatte ich dann langsam meine Routinen – Métro, Fahrrad, zu Fuß, je nachdem."
+    },
+    {
+      "rank": 18,
+      "score": 0.6753,
+      "base_score": 0.6753,
+      "document_id": "p15_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die größte Herausforderung war irgendwann die Angst, wegen zu wenig ECTS Geld zurückzahlen zu müssen. Ich hatte Fehlzeiten gesammelt und Beiträge für Gruppenarbeiten aufgeschoben. Einmal schrieb ein Gruppenmitglied ziemlich direkt, dass sie meinen Teil nicht auch noch übernehmen würden. War berechtigt. Mitte Dezember habe ich dann in einem Notizbuch ausgerechnet, welche Leistungen und welche Noten ich in zwei Klausuren noch brauchte. Da war Paris kurz weniger entspannt."
+    },
+    {
+      "rank": 19,
+      "score": 0.6707,
+      "base_score": 0.6707,
+      "document_id": "p10_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Tage waren aufregend, weil gleichzeitig die neue Stadt, die ISEP und das Leben bei der Gastfamilie neu waren. Durch das Wohnen bei einer französischen Familie hatte ich von Anfang an mehr Kontakt mit der französischen Sprache und dem Alltag. Gleichzeitig hatte ich dadurch etwas weniger Privatsphäre als in einer eigenen Wohnung. Für die Orientierung in Paris habe ich hauptsächlich Metro und Bus genutzt und mich am Anfang auch an anderen Erasmus-Studierenden orientiert."
+    },
+    {
+      "rank": 20,
+      "score": 0.6661,
+      "base_score": 0.6661,
+      "document_id": "p11_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Also, ich bin Pierre, 22 Jahre alt, komme aus Belgien und studiere Informatik an der Université de Liège. Ich bin jetzt im fünften Semester. Ich wollte schon ziemlich lange einmal in Paris wohnen, nicht nur für ein verlängertes Wochenende, und die ISEP hat mich wegen der technischen Ausrichtung besonders interessiert. Ich hatte den Eindruck, dass ich dort fachlich wirklich viel lernen kann – und bisher hat sich das auch bestätigt."
+    }
+  ]
+}

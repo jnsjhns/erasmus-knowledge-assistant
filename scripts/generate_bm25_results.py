@@ -1,6 +1,7 @@
 # scripts/generate_bm25_results.py
 
 import json
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -40,7 +41,7 @@ def slugify(text: str) -> str:
     )
 
 
-def run_bm25_search(query: str, top_k: int = 5) -> dict:
+def run_bm25_search(query: str, top_k: int = 20) -> dict:
     """Führt das bestehende BM25-Skript aus und liefert die JSON-Ausgabe."""
 
     command = [
@@ -56,6 +57,8 @@ def run_bm25_search(query: str, top_k: int = 5) -> dict:
         command,
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        env={**os.environ, "PYTHONIOENCODING": "utf-8"},
         check=True,
     )
 
@@ -101,7 +104,7 @@ def main():
         print(f"[{query_id}] {query}")
 
         try:
-            search_result = run_bm25_search(query, top_k=5)
+            search_result = run_bm25_search(query, top_k=20)
         except Exception as error:
             print(f"  Fehler: {error}\n")
             continue
@@ -111,7 +114,7 @@ def main():
             "query": query,
             "information_need": test_query.get("information_need"),
             "retriever": "bm25",
-            "top_k": 5,
+            "top_k": 20,
             "results": search_result.get("results", []),
         }
 

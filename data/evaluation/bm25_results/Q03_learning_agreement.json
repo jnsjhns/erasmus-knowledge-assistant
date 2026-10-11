@@ -1,0 +1,189 @@
+{
+  "query_id": "Q03",
+  "query": "learning agreement",
+  "information_need": "Welche Erfahrungen, Probleme und Tipps gibt es zum Learning Agreement?",
+  "retriever": "bm25",
+  "top_k": 20,
+  "results": [
+    {
+      "rank": 1,
+      "score": 3.978,
+      "base_score": 3.978,
+      "document_id": "p07_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Fragt bei Unklarheiten zu Kursen und Learning Agreement sofort nach.\n Schaut bei ErasmusPlace vorbei, die organisieren Events und Reisen, über die man schnell Leute kennenlernt.\n Wenn ihr überlegt, später an der ISEP zu studieren, ist Erasmus eine gute Möglichkeit, die Hochschule vorher zu testen."
+    },
+    {
+      "rank": 2,
+      "score": 3.8687,
+      "base_score": 3.8687,
+      "document_id": "p11_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Kurswahl habe ich mich für Deep Learning, Data Bases & Big Data sowie Advanced Algorithmic & Programming entschieden. Die Kurse sind auf Englisch und passen ziemlich gut zu meinem Informatikstudium in Liège. Insgesamt ging es um ungefähr 20 ECTS.\n Die Anerkennung musste natürlich mit meiner Heimatuniversität abgestimmt werden, und manche Details waren nicht sofort hundertprozentig klar. Ich habe deshalb lieber einmal mehr nachgefragt, bevor ich später Probleme mit dem Learning Agreement bekomme."
+    },
+    {
+      "rank": 3,
+      "score": 3.7067,
+      "base_score": 3.7067,
+      "document_id": "p10_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Kurswahl wollte ich nicht zu viele Kurse nehmen, weil ich zusätzlich meine Au-pair-Aufgaben habe. Ich habe mich für Virtualized Architectures, Development of Mobile Applications und Machine Learning entschieden und komme damit auf 17 ECTS. Da mein Französisch zu Beginn noch nicht gut genug für technische Fachkurse war, habe ich hauptsächlich englischsprachige Kurse gewählt. Bei der Auswahl waren für mich sowohl die fachliche Passung zu meinem Studium als auch der erwartete Arbeitsaufwand wichtig. Die Anerkennung habe ich mit meiner Heimathochschule über das Learning Agreement abgestimmt."
+    },
+    {
+      "rank": 4,
+      "score": 3.6159,
+      "base_score": 3.6159,
+      "document_id": "p13_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Mein wichtigster Rat wäre, die Unterkunft und alle wichtigen Dokumente möglichst früh zu organisieren. Gerade beim Learning Agreement würde ich nicht davon ausgehen, dass sich offene Fragen irgendwann von selbst klären.\n Wenn man neu an der ISEP ist, würde ich außerdem versuchen, möglichst schnell ein paar Kontakte zu anderen Studierenden aufzubauen. Wenn man einmal jemanden kennt, kann diese Person bei organisatorischen Fragen oder verpasstem Unterricht oft viel schneller weiterhelfen als eine allgemeine E-Mail-Adresse.\n Und falls man krank wird oder aus einem anderen Grund den Studienstart verpasst, würde ich sofort Bescheid sagen und mir gezielt von Kommilitonen die Unterlagen und Informationen besorgen. Ich habe damit leider zu lange gewartet und dadurch den Einstieg unnötig schwer gemacht.\n Außerdem würde ich alle wichtigen E-Mails, Zusagen und Dokumente aufbewahren. Gerade bei Learning Agreement und Anerkennung kann es später hilfreich sein, wenn man noch nachvollziehen kann, was wann vereinbart wurde."
+    },
+    {
+      "rank": 5,
+      "score": 3.6147,
+      "base_score": 3.6147,
+      "document_id": "p15_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Eher knapp. Ich habe die Pflichtunterlagen erledigt, aber meistens erst nach einer Erinnerung. Das Learning Agreement musste ich mehrfach nachreichen, weil ich Mails liegen gelassen hatte. Mein Zimmer habe ich kurz vor der Abreise über eine Facebook-Gruppe gefunden, bei einem niederländischen Expat. Angereist bin ich mit dem Zug und ziemlich viel Gepäck. Französisch vorbereitet hatte ich gar nicht."
+    },
+    {
+      "rank": 6,
+      "score": 3.5403,
+      "base_score": 3.5403,
+      "document_id": "p09_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl war vorher im Learning Agreement festgelegt und lief dann vor Ort reibungslos. Ich hatte vier Kurse: Governance and Organization of Information Systems, Management Training, Risk Management and Audit und das Learning Track Project. Zusammen 17 ECTS, in Englisch unterrichtet. Genau diese Mischung war ja der Grund für die ISEP, also war ich mit der Auswahl zufrieden.\n Die Einschreibung vor Ort war ein Nachmittag Papierkram, aber kein Drama. Die Anerkennung an der HZ war im Vorfeld abgestimmt – die Kurse wurden auf mein Curriculum angerechnet, solange ich die 17 ECTS bestand. Mein Tipp an der Stelle: das vorher schriftlich fixieren, nicht erst nach der Rückkehr diskutieren."
+    },
+    {
+      "rank": 7,
+      "score": 3.5159,
+      "base_score": 3.5159,
+      "document_id": "p13_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Kurswahl hatte ich mich für Webentwicklung, Datenbanken, Grundlagen der KI und einen Französischkurs entschieden. Die Unterrichtssprache war Englisch, was für mich grundsätzlich gut funktioniert hat.\n Die Einschreibung und das Learning Agreement waren trotzdem nicht ganz einfach, weil sich manche Informationen für mich widersprochen haben oder nicht rechtzeitig kamen. Ich sollte ungefähr 30 ECTS erreichen. Bei der Anerkennung musste ich deshalb relativ genau mit meiner Heimathochschule abgleichen, welche Kurse angerechnet werden können."
+    },
+    {
+      "rank": 8,
+      "score": 3.5054,
+      "base_score": 3.5054,
+      "document_id": "p14_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe Distributed Systems, Cloud Architecture, Machine Learning und den französischsprachigen Kurs „Sécurité des Réseaux et Cryptographie“ gewählt. Besonders beim Sicherheitskurs habe ich vorher genau auf die Inhalte geschaut, nicht nur auf den Titel. Die geplanten 30 ECTS habe ich mit der zuständigen Person an der KTH im Learning Agreement abgestimmt. Die Einschreibung ging bei mir ohne größere Schwierigkeiten. Die endgültige Anerkennung kann ich noch nicht beurteilen, das Semester läuft ja noch. Für mich war wichtig, die Zustimmung vorher schriftlich zu haben und die Modulbeschreibungen aufzubewahren. Ich möchte nachher nicht darüber diskutieren müssen, ob ein Kurs plötzlich doch nicht fachlich genug war."
+    },
+    {
+      "rank": 9,
+      "score": 3.3122,
+      "base_score": 3.3122,
+      "document_id": "p13_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Vorbereitung war bei mir eher kurzfristig und etwas chaotisch. Mit Erasmus hatte ich vorher kaum Erfahrung, und vor allem das Learning Agreement und die Versicherungsunterlagen haben mich ziemlich überfordert.\n Die Unterkunft habe ich über den Housing-Service der ISEP gesucht. Die Zusage für ein Zimmer im Studentenwohnheim kam aber erst kurz vor der Abreise, was ziemlich stressig war. Finanziert habe ich den Aufenthalt durch die Erasmus-Förderung und Unterstützung von meinen Eltern. Französisch habe ich vorher nur ein paar Wochen mit einer App gelernt."
+    },
+    {
+      "rank": 10,
+      "score": 3.2701,
+      "base_score": 3.2701,
+      "document_id": "p07_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe drei Kurse gewählt: Software Security, Virtualized Architectures und Distributed Architectures and Programming. Sie passen gut zu meinem Cybersecurity-Schwerpunkt. Die Einschreibung lief halbwegs strukturiert, aber ich musste öfter nachfragen, bis mir klar war, was wann fehlt. Ich bin da manchmal ungeduldig, ich will einfach schnell eine klare Antwort. Zur ECTS-Anerkennung kann ich noch nicht viel sagen, weil das Semester läuft. Ich habe das Learning Agreement mit Bologna abgestimmt und hoffe, dass am Ende alles so angerechnet wird."
+    },
+    {
+      "rank": 11,
+      "score": 3.15,
+      "base_score": 3.15,
+      "document_id": "p08_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl war am Anfang chaotischer, als ich gedacht hatte. Man musste sich zu Beginn in einiges einwählen und hatte eine Frist, in der man wieder abwählen kann. Ich hatte mir vorher über das Kursverzeichnis der ISEP eine Liste zusammengestellt und die auch mit meinem Learning Agreement abgeglichen, damit die Anerkennung in Köln klappt. Am Anfang war ich in zu vielen Kursen – ich dachte, ich muss das so machen wie zu Hause. Die ECTS-Anerkennung hat zum Glück funktioniert, weil ich alles vorab mit meiner Koordinatorin in Köln abgestimmt hatte. Da kann ich wirklich sagen: das im Vorfeld klären, das hat mir später viel Ärger erspart."
+    },
+    {
+      "rank": 12,
+      "score": 3.0932,
+      "base_score": 3.0932,
+      "document_id": "p15_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Lest die Mails von beiden Hochschulen und klärt vor der Abreise genau, welche Leistungen ihr für Anerkennung und Förderung braucht. Lasst euch wichtige Informationen schriftlich geben und speichert sie zusammen mit dem Learning Agreement.\n Bei der Kurswahl würde ich nicht nur nach interessanten Inhalten gehen, sondern auch prüfen, wie viele laufende Abgaben, Gruppenarbeiten und Anwesenheitspflichten ein Kurs hat. Und plant neben dem Studium bewusst Zeit für Paris ein, aber nicht so, als gäbe es am nächsten Morgen keine Uni. Ich hätte mir einiges erspart, wenn ich früher verstanden hätte, dass ein Erasmus-Semester gleichzeitig Studium und Aufenthalt ist."
+    },
+    {
+      "rank": 13,
+      "score": 3.0564,
+      "base_score": 3.0564,
+      "document_id": "p03_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Fangt mit der Wohnungssuche viel früher an und verlasst euch nicht auf die Links vom International Office, die waren bei mir veraltet. Private WG-Gruppen sind meiner Erfahrung nach der bessere Weg, aber rechnet mit Stress. Schaut euch eure Stundenpläne genau an, bevor ihr das Learning Agreement abgebt, vor allem wenn ihr nebenbei arbeitet, und sprecht direkt mit den Dozenten, wenn was kollidiert. Die waren bei mir offener als gedacht. Und kauft euch ein gebrauchtes Rad, zum Beispiel über Leboncoin, das hat mir in Paris richtig viel gebracht. Ein bisschen Französisch vorher mehr als nur Duolingo-Vokabeln wäre auch nicht schlecht gewesen."
+    },
+    {
+      "rank": 14,
+      "score": 3.0205,
+      "base_score": 3.0205,
+      "document_id": "p10_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Erasmus-Bewerbung lief über meine Heimathochschule. Ich musste die üblichen Unterlagen einreichen und mich frühzeitig um das Learning Agreement kümmern. Bei der Unterkunft habe ich mich bewusst gegen eine klassische Wohnung oder WG entschieden und nach einer Au-pair-Stelle gesucht. Dadurch konnte ich die Wohnungssuche vermeiden und gleichzeitig stärker in den französischen Alltag eintauchen. Ich habe über eine Au-pair-Plattform eine Gastfamilie gefunden und mich bereits vor meiner Anreise mit der Familie ausgetauscht. Dabei haben wir vorab besprochen, welche Aufgaben ich übernehmen soll, wie viele Stunden ich arbeite und wann ich freie Zeit für mein Studium habe."
+    },
+    {
+      "rank": 15,
+      "score": 2.9683,
+      "base_score": 2.9683,
+      "document_id": "p03_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hab vier Kurse gewählt: Advanced Cloud Computing, AI & Decision Support, Human-Computer Interaction und French Language & Culture. Das sind insgesamt 20 ECTS, mit Absicht eher reduziert, damit ich den Job und das Studium unter einen Hut kriege. Die Kurswahl selbst war okay, aber wie gesagt, das Learning Agreement hab ich mehrmals geändert, weil sich Zeiten überschnitten haben. Zur Anerkennung zuhause kann ich noch nicht viel sagen, das kommt ja erst nach dem Semester. Ich hoffe einfach, dass die 20 ECTS ohne Probleme durchgehen, weil ich mein Masterstudium nicht unnötig verlängern will. Ob da noch was hakt, weiß ich ehrlich gesagt nicht."
+    },
+    {
+      "rank": 16,
+      "score": 2.9344,
+      "base_score": 2.9344,
+      "document_id": "p14_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Vorbereitung lief ziemlich strukturiert. Ich habe zuerst die Austauschinformationen der KTH, die Kursbeschreibungen der ISEP und Erfahrungsberichte durchgesehen und dann abgeglichen, was in meinen Master passt. Bewerbung, Learning Agreement und Immatrikulation waren eigentlich schnell erledigt. Mehr Zeit ging für die Wohnung drauf: Ich habe über französische Mietportale und Studapart gesucht und meine Unterlagen gesammelt, damit ich bei einem passenden Angebot direkt reagieren konnte. Am Ende wurde es ein Studio im 14. Arrondissement. Für die Anreise habe ich einen Flug gebucht und mein Rennrad als Sportgepäck mitgenommen. Sprachlich habe ich vorher viel französische Podcasts gehört und Fachtexte gelesen. Alltagsfranzösisch und eine Diskussion über Kryptographie sind eben doch zwei verschiedene Dinge."
+    },
+    {
+      "rank": 17,
+      "score": 2.9178,
+      "base_score": 2.9178,
+      "document_id": "p08_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Vorbereitung war für mich insgesamt ziemlich stressig, weil ich vieles nicht so richtig einschätzen konnte. Die Bewerbung lief über meine Uni, das war noch okay – Learning Agreement ausfüllen, Unterlagen einreichen, so was. Schwieriger fand ich die Wohnungssuche. Ich habe relativ spät angefangen und dann in Panik gesetzt, weil in Paris wirklich kaum was Bezahlbares frei ist. Am Ende habe ich über eine Vermittlung der ISEP ein Zimmer in einer Studierendenresidenz bekommen, das war für mich ehrlich gesagt eine riesige Erleichterung. Anreise dann mit dem Zug von Köln, mit zwei großen Koffern und mehr Nervosität als nötig. Vorher habe ich noch ein bisschen mit einer Sprach-App Französisch gelernt – so Vokabeln wie \"boulangerie\" und Zahlen, das wars dann aber auch schon."
+    },
+    {
+      "rank": 18,
+      "score": 2.9013,
+      "base_score": 2.9013,
+      "document_id": "p04_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Bewerbung lief über meine Heimatuniversität und das Erasmus-Programm. Ich musste mich relativ früh um das Learning Agreement, Versicherungen und weitere Dokumente kümmern. Die Unterkunft war für mich zunächst die größte Unsicherheit. Eine private Wohnung in Paris war mir zu teuer und die Wohnungssuche aus Spanien heraus erschien mir kompliziert. Deshalb habe ich mich für ein CROUS-Wohnheim beworben.\n Die Bewerbung dafür habe ich möglichst früh gemacht, weil ich gehört hatte, dass die Plätze begrenzt sind. Als die Zusage kam, war ich erleichtert, weil ich dadurch schon vor der Anreise wusste, wo ich wohnen würde. Für die Anreise selbst habe ich nicht viel organisiert, aber ich war trotzdem nervös, weil ich nur wenig Französisch konnte."
+    },
+    {
+      "rank": 19,
+      "score": 2.7464,
+      "base_score": 2.7464,
+      "document_id": "p12_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl war grundsätzlich gut organisiert, aber es gab ein paar Überschneidungen und später auch Änderungen bei den Stundenplänen. Ich hatte Software Engineering, Web Development, Datenbanken, Projektmanagement und einen Französischkurs ausgewählt.\n Ich habe die Kurse zuerst mit dem Angebot der ISEP und danach mit meiner Universität in Zagreb verglichen. Bei manchen Kursen musste ich dann noch einmal nachfragen, ob die Inhalte und der Arbeitsaufwand wirklich für die Anerkennung passen.\n Das International Office an der ISEP hat mir dabei geholfen, aber ich musste trotzdem selbst ziemlich genau aufpassen. Ich habe irgendwann gemerkt, dass man sich nicht darauf verlassen sollte, dass automatisch alles passt, nur weil ein Kurs im Learning Agreement steht. Ich wollte 30 ECTS machen und hatte deshalb schon etwas Angst, dass am Ende ein Kurs nicht anerkannt wird."
+    },
+    {
+      "rank": 20,
+      "score": 2.7319,
+      "base_score": 2.7319,
+      "document_id": "p03_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Minimal und ziemlich impulsiv, würde ich sagen. Ich hab mir gedacht, das regelt sich vor Ort schon irgendwie, und das war, na ja, nur so halb richtig. Beim Learning Agreement hab ich ständig umgeplant, weil einige Pflichtvorlesungen mit meinen festen Arbeitsmeetings kollidiert sind, und ich hab es mehrfach selber umgeschrieben. Französisch hab ich drei Monate lang sporadisch auf Duolingo getippt, das war's. Infos hab ich mir aus Reddit-Threads, Erasmus-WhatsApp-Gruppen und Expat-Blogs zusammengesucht.\n Die Unterkunftssuche war der absolute Horror. Die Wohnheim-Links vom International Office waren veraltet, da hab ich mich auch ziemlich deutlich beschwert. Ich hab dann über private WG-Gruppen gesucht und die WG erst vier Tage vor Abreise gefunden. Das war echt knapp und ich war ziemlich gestresst."
+    }
+  ]
+}

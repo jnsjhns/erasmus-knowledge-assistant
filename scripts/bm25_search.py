@@ -69,7 +69,7 @@ def load_documents():
     return documents
 
 
-def search(query, documents, top_k=5):
+def search(query, documents, top_k=20):
     tokenized_corpus = [
         tokenize(document["text"])
         for document in documents
@@ -153,7 +153,7 @@ def main():
     parser.add_argument(
         "--top-k",
         type=int,
-        default=5,
+        default=20,
         help="Anzahl der zurückgegebenen Treffer"
     )
     parser.add_argument(
@@ -162,23 +162,35 @@ def main():
         help="Ergebnis als JSON ausgeben"
     )
 
+    parser.add_argument(
+    "--output",
+    type=Path,
+    help="Pfad zur JSON-Ausgabedatei"
+    )
+
     args = parser.parse_args()
 
     documents = load_documents()
     results = search(args.query, documents, top_k=args.top_k)
 
-    if args.json:
-        print(
-            json.dumps(
-                {
-                    "query": args.query,
-                    "top_k": args.top_k,
-                    "results": results
-                },
-                ensure_ascii=False,
-                indent=2
+    if args.json or args.output:
+        result = {
+            "query": args.query,
+            "top_k": args.top_k,
+            "results": results
+        }
+
+        if args.output:
+            args.output.parent.mkdir(parents=True, exist_ok=True)
+
+            args.output.write_text(
+                json.dumps(result, ensure_ascii=False, indent=2),
+                encoding="utf-8"
             )
-        )
+
+            print(f"Ergebnis gespeichert: {args.output}")
+        else:
+            print(json.dumps(result, ensure_ascii=False, indent=2))
     else:
         print_human_results(args.query, results)
 

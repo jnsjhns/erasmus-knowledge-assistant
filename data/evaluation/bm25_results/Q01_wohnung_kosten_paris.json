@@ -1,0 +1,189 @@
+{
+  "query_id": "Q01",
+  "query": "wohnung kosten paris",
+  "information_need": "Wie viel kostet das Wohnen und Leben in Paris für Austauschstudierende?",
+  "retriever": "bm25",
+  "top_k": 20,
+  "results": [
+    {
+      "rank": 1,
+      "score": 6.7366,
+      "base_score": 5.6138,
+      "document_id": "OFF_09",
+      "source_type": "official",
+      "topic": "living_costs",
+      "text": "Die ISEP schätzt die monatlichen Lebenshaltungskosten in Paris auf etwa 700 bis 1.100 Euro. Dieser Betrag umfasst Unterkunft, Verpflegung und Transport. Die tatsächlichen Kosten hängen insbesondere von der Wohnform und Lage ab."
+    },
+    {
+      "rank": 2,
+      "score": 5.8579,
+      "base_score": 5.8579,
+      "document_id": "p08_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe in einer Studierendenresidenz gewohnt, in einem eigenen kleinen Zimmer mit Gemeinschaftsküche. Das war gut, weil ich nicht selbst auf Wohnungssuche in Paris hätte successfully durchhalten müssen – aber es war auch nicht besonders günstig. Paris ist einfach teuer, da kommt man nicht drum herum. Ich habe versucht, viel selbst zu kochen und beim Einkaufen auf Preise zu achten, aber spontan essen gehen oder so war für mein Budget kaum drin. Mit dem Abo für die Metro bin ich überall hingekommen, das war okay von den Kosten her. Ich würde sagen, man braucht wirklich ein realistisches Budget – Paris wird einen immer irgendwie einen Euro mehr kosten lassen, als man gedacht hat."
+    },
+    {
+      "rank": 3,
+      "score": 5.7946,
+      "base_score": 5.7946,
+      "document_id": "p12_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Am schwierigsten war für mich wahrscheinlich die Kombination aus dem begrenzten Budget und den hohen Kosten in Paris. Die Miete hat schon einen großen Teil meines Geldes verbraucht. Gleichzeitig wollte ich natürlich nicht nur studieren und in der Wohnung sitzen. Ich wollte Paris auch wirklich erleben.\n Französisch war ebenfalls manchmal ein Problem, besonders bei Behörden oder mit Vermietern. Wenn jemand nicht gut Englisch gesprochen hat, war ich teilweise ziemlich aufgeschmissen.\n Und dann war da noch die Sache mit dem Studium. Ich hatte erwartet, dass ich fachlich stärker gefordert werde. Als ich gemerkt habe, dass manche Kurse für mich eher einfach sind, war ich zuerst etwas enttäuscht. Irgendwann habe ich versucht, das nicht mehr als großes Problem zu sehen und einfach das mitzunehmen, was für mich interessant ist."
+    },
+    {
+      "rank": 4,
+      "score": 5.2148,
+      "base_score": 5.2148,
+      "document_id": "p06_q9_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ja, vor allem die Nebensachen. Die Miete kannte ich vorher, aber die vielen kleinen Dinge kamen dazu: Kaution, Métro-Abo, Haushaltszeug für die Wohnung und mal ein Kaffee oder ein Essen mit den anderen aus dem Kurs. Einzeln ist das nicht viel, zusammen aber schon. Ich hatte im Kopf eher Schweden-Preise, und in Paris ist alles im Zentrum noch mal einen Tick teurer. Im Supermarkt ging es noch, aber Restaurants und Cafés im 5. sind echt teuer.\n Heute würde ich zuerst die festen Kosten abziehen, also Miete und Nahverkehr. Danach würde ich ein festes Wochenbudget fürs Essen und Ausgehen festlegen, statt nur grob zu schätzen. Zusätzlich würde ich einen Puffer von ein paar hundert Euro einplanen, für Unvorhergesehenes. Und ich würde die Miete von Anfang an niedriger ansetzen, weil sie bei mir einfach zu viel vom Budget gefressen hat."
+    },
+    {
+      "rank": 5,
+      "score": 4.4863,
+      "base_score": 4.4863,
+      "document_id": "p07_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich wohne im Wohnheim Maison de l'Inde, also in einem Zimmer auf dem Campus der Cité. Das ist praktisch, und man trifft ständig andere Studierende. Die genauen Kosten möchte ich nicht aus dem Kopf nennen, weil ich sie nicht sicher habe. Insgesamt ist Paris aber deutlich teurer als Bologna, vor allem Essen gehen und Cafés. Ich bin meistens mit der Métro oder zu Fuß unterwegs. Ich rechne ziemlich genau, was ich ausgebe, sonst läuft es schnell aus dem Ruder."
+    },
+    {
+      "rank": 6,
+      "score": 3.7562,
+      "base_score": 3.7562,
+      "document_id": "p04_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe in einem CROUS-Wohnheim gewohnt. Für mich war das vor allem deshalb praktisch, weil ich dadurch bereits vor meiner Anreise eine Unterkunft hatte und mich nicht mit privaten Vermietern, Besichtigungen oder komplizierten Mietverträgen beschäftigen musste.\n Das Zimmer war relativ klein und eher funktional eingerichtet. Küche und teilweise auch andere Bereiche habe ich mit anderen Studierenden geteilt. Dafür waren die Kosten deutlich niedriger als bei vielen privaten Wohnungen in Paris.\n Bei den Lebenshaltungskosten habe ich vor allem unterschätzt, wie schnell sich kleinere Ausgaben summieren. Essen gehen, Kaffee, Aktivitäten und spontane Fahrten waren einzeln nicht extrem teuer, aber über einen Monat kam einiges zusammen. Deshalb habe ich angefangen, häufiger selbst zu kochen und meine Ausgaben etwas genauer zu verfolgen."
+    },
+    {
+      "rank": 7,
+      "score": 3.2035,
+      "base_score": 2.6696,
+      "document_id": "OFF_04",
+      "source_type": "official",
+      "topic": "housing",
+      "text": "Die ISEP unterstützt Austauschstudierende bei der Wohnungssuche. Möglich sind unter anderem ein Wohnheim, ein privates Zimmer oder eine Wohnung. Das genaue Verfahren wird nach der Zulassung mitgeteilt."
+    },
+    {
+      "rank": 8,
+      "score": 2.793,
+      "base_score": 2.793,
+      "document_id": "p10_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Tage waren aufregend, weil gleichzeitig die neue Stadt, die ISEP und das Leben bei der Gastfamilie neu waren. Durch das Wohnen bei einer französischen Familie hatte ich von Anfang an mehr Kontakt mit der französischen Sprache und dem Alltag. Gleichzeitig hatte ich dadurch etwas weniger Privatsphäre als in einer eigenen Wohnung. Für die Orientierung in Paris habe ich hauptsächlich Metro und Bus genutzt und mich am Anfang auch an anderen Erasmus-Studierenden orientiert."
+    },
+    {
+      "rank": 9,
+      "score": 2.6312,
+      "base_score": 2.6312,
+      "document_id": "p10_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe ein eigenes Zimmer bei meiner Gastfamilie. Durch die Au-pair-Vereinbarung zahle ich keine klassische Miete, sondern übernehme bestimmte Aufgaben und die Betreuung der Kinder. Das ist finanziell natürlich ein großer Vorteil gegenüber einer normalen Wohnung in Paris. Gleichzeitig muss man sich bewusst sein, dass man dadurch weniger unabhängig ist und die Aufgaben und Arbeitszeiten mit dem Studium vereinbaren muss. Bei den sonstigen Ausgaben versuche ich eher sparsam zu sein und viel zu Fuß oder mit der Metro zu machen."
+    },
+    {
+      "rank": 10,
+      "score": 2.5333,
+      "base_score": 2.5333,
+      "document_id": "p14_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Am Anfang war ich vor allem damit beschäftigt, meinen Alltag aufzubauen: Wohnung übernehmen, einkaufen, Wege zur Hochschule ausprobieren, das Rad wieder zusammenbauen. Ich bin relativ schnell allein durch mein Viertel gelaufen und gefahren. Das hilft mir mehr beim Ankommen als zehn organisierte Kennenlernspiele. Paris hat mir sofort gefallen, aber beim Radfahren musste ich mich umstellen. Meine Vorstellung war etwas entspannter als die tatsächliche Erfahrung an manchen Kreuzungen. An der ISEP war der Empfang freundlich. Überrascht hat mich eher, wie eng der Studienalltag organisiert ist."
+    },
+    {
+      "rank": 11,
+      "score": 2.3048,
+      "base_score": 2.3048,
+      "document_id": "p04_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Bewerbung lief über meine Heimatuniversität und das Erasmus-Programm. Ich musste mich relativ früh um das Learning Agreement, Versicherungen und weitere Dokumente kümmern. Die Unterkunft war für mich zunächst die größte Unsicherheit. Eine private Wohnung in Paris war mir zu teuer und die Wohnungssuche aus Spanien heraus erschien mir kompliziert. Deshalb habe ich mich für ein CROUS-Wohnheim beworben.\n Die Bewerbung dafür habe ich möglichst früh gemacht, weil ich gehört hatte, dass die Plätze begrenzt sind. Als die Zusage kam, war ich erleichtert, weil ich dadurch schon vor der Anreise wusste, wo ich wohnen würde. Für die Anreise selbst habe ich nicht viel organisiert, aber ich war trotzdem nervös, weil ich nur wenig Französisch konnte."
+    },
+    {
+      "rank": 12,
+      "score": 2.2956,
+      "base_score": 2.2956,
+      "document_id": "p04_q6_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ja, besonders wenn das Budget begrenzt ist oder man nicht viel Zeit in die private Wohnungssuche investieren möchte. Für mich war der größte Vorteil, dass die Unterkunft schon vor der Anreise geklärt war. Dadurch hatte ich weniger Stress und musste mich in den ersten Wochen nicht zusätzlich um eine Wohnung kümmern.\n Ein weiterer Vorteil war, dass dort viele andere Studierende gewohnt haben. Dadurch war es einfacher, erste Kontakte zu knüpfen.\n Der Nachteil ist, dass man weniger Komfort und Privatsphäre hat. Mein Zimmer war klein und die Gemeinschaftsbereiche wurden von mehreren Personen genutzt. Man muss außerdem mit den Regeln des Wohnheims und mit unterschiedlichen Gewohnheiten der anderen Bewohner klarkommen.\n Wenn mir vor allem eine günstige und unkomplizierte Unterkunft wichtig wäre, würde ich CROUS wieder wählen. Wenn ich mehr Platz und Privatsphäre wollte und ein höheres Budget hätte, würde ich eher nach einer privaten Wohnung oder einer guten WG suchen."
+    },
+    {
+      "rank": 13,
+      "score": 2.2289,
+      "base_score": 2.2289,
+      "document_id": "p06_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Hauptsächlich über die Kurse und die Projekte, da kommt man leicht ins Gespräch. Ich wollte beides, also internationale und französische Studierende. Mit den Franzosen war es für mich leichter als für viele andere, wegen der Sprache. Durch die eigene Wohnung war ich weniger im Erasmus-Gruppenleben als andere in WGs. Das war okay für mich, ich bin da eher ruhig."
+    },
+    {
+      "rank": 14,
+      "score": 2.2289,
+      "base_score": 2.2289,
+      "document_id": "p06_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Fangt früh mit der Wohnungssuche an und rechnet ehrlich durch, was ihr euch leisten könnt. Eine eigene Wohnung in guter Lage klingt super, ist aber teuer. Eine WG wäre vielleicht günstiger gewesen und hätte mehr Kontakte gebracht. Wählt Kurse, die euch wirklich interessieren, und nutzt die Stadt zu Fuß oder mit dem Rad, denn das spart Geld und macht Spaß."
+    },
+    {
+      "rank": 15,
+      "score": 2.182,
+      "base_score": 2.182,
+      "document_id": "p06_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Bewerbung lief über meine Heimatuni, mit Nomination und dann ein paar Formularen für die ISEP. Das war okay, nur etwas Papierkram. Sprachlich musste ich mich nicht vorbereiten. Die Anreise war unkompliziert, ich bin einfach hingefahren und hatte nicht so viel Gepäck. Die Wohnungssuche war der anstrengendste Teil. Ich wollte keine WG, sondern was Eigenes, und so bin ich in einer kleinen Wohnung im 5. Arrondissement gelandet. Das war ziemlich teuer."
+    },
+    {
+      "rank": 16,
+      "score": 2.1702,
+      "base_score": 2.1702,
+      "document_id": "p09_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Bewerbung selbst war unproblematisch. Das lief über mein International Office in Vlissingen und dann direkt mit der ISEP – Learning Agreement ausgefüllt, Kurse eingetragen, unterschreiben lassen, fertig. Weil ich EU-Bürger bin, entfielen Visa und sowas komplett, das hat den Verwaltungsaufwand deutlich reduziert.\n Die Unterkunft war dagegen der kritische Punkt. Ich hatte vorab keine langfristige Wohnung gefunden, und deshalb habe ich bewusst eine Übergangslösung über Airbnb für die ersten Wochen gebucht. Das war eine bewusste Entscheidung: lieber eine teurere Übergangslösung als einen Mietvertrag unterschreiben, den ich nie gesehen habe. Anreise war dann mit dem Zug von Zeeland über Brüssel nach Paris, mit zwei Koffern und einem Radlaptop, alles gut planbar.\n Sprachlich hatte ich vorab schon Französisch auf B1-Niveau, das war bei der Suche und vor Ort dann schon hilfreich."
+    },
+    {
+      "rank": 17,
+      "score": 2.1362,
+      "base_score": 2.1362,
+      "document_id": "p12_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Tage waren schon ziemlich überwältigend. Es waren einfach sehr viele neue Dinge gleichzeitig: neue Wohnung, neue Umgebung, Campus finden, einkaufen und herausfinden, wie alles funktioniert. Dazu kam, dass mein Französisch noch nicht besonders gut war.\n Auf Englisch konnte ich mich meistens gut verständigen, aber bei kleineren Geschäften oder wenn jemand schnell Französisch gesprochen hat, habe ich manchmal einfach nicht verstanden, was die Person von mir wollte. Am Anfang habe ich dann oft einfach gelächelt und gehofft, dass es passt.\n Gleichzeitig habe ich aber relativ schnell Leute kennengelernt. In der Einführungswoche bin ich über eine internationale Sportgruppe mit anderen Austauschstudierenden in Kontakt gekommen. Danach haben wir öfter gemeinsam gekocht oder Paris erkundet. Das gemeinsame Kochen war tatsächlich ziemlich wichtig, weil Essen gehen für mein Budget schnell teuer geworden wäre."
+    },
+    {
+      "rank": 18,
+      "score": 2.0797,
+      "base_score": 2.0797,
+      "document_id": "p11_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Vorbereitung war die Bewerbung eigentlich relativ unkompliziert. Ich habe mich über meine Universität und die Erasmus-Informationen informiert und dann die Unterlagen für die ISEP zusammengestellt.\n Eine WG habe ich noch vor der Ankunft im 15. Arrondissement gefunden. Das war natürlich praktisch, aber bei einer Wohnung, die man nur über Fotos und Nachrichten kennt, bleibt trotzdem ein kleines mulmiges Gefühl. Die Anreise selbst war dann kein großes Abenteuer, weil Belgien ja nicht weit entfernt ist."
+    },
+    {
+      "rank": 19,
+      "score": 2.0665,
+      "base_score": 2.0665,
+      "document_id": "p01_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Am Anfang war ich vor allem froh, dass die Wohnung tatsächlich geklappt hatte. Ankommen, Schlüssel bekommen, die Koffer abstellen – damit war schon einmal der größte Unsicherheitsfaktor weg. Danach bin ich in ein Bistro in der Nähe gegangen und habe einen Kaffee getrunken. Da kam dann langsam dieses Gefühl: Okay, ich wohne jetzt wirklich hier.\n Die ersten Tage waren trotzdem nicht nur entspannt. Es gab einiges zu organisieren: Versicherung, Unterlagen für das CAF-Wohngeld, Bankangelegenheiten und natürlich die Hochschule. Mit meinem Französisch hat das länger gedauert, als ich es von zu Hause gewohnt war. Ich konnte einfache Sachen sagen, aber sobald jemand eine ausführliche Rückfrage gestellt hat, wurde es schwierig.\n Die Orientierung an der ISEP hat mir geholfen, mich zurechtzufinden. Bei den Kennenlernveranstaltungen habe ich aber schon gemerkt, dass ich älter bin als die meisten anderen. Manche Veranstaltungen waren nett, bei anderen dachte ich: Das muss ich jetzt nicht unbedingt bis zum Ende mitmachen.\n Ich habe dann erst einmal meinen Alltag eingerichtet. Den Weg zur Hochschule ausprobiert, ein Vélib’-Abo besorgt und meinen Arbeitsplatz in der Wohnung aufgebaut. Nach ungefähr zwei Wochen war nicht mehr jede Kleinigkeit neu. Das hat viel ausgemacht."
+    },
+    {
+      "rank": 20,
+      "score": 2.0659,
+      "base_score": 2.0659,
+      "document_id": "p06_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hatte meine eigene kleine Wohnung im 5. Arrondissement, mit knapp 1.000 € Miete im Monat. Die Lage ist super, ich konnte viel zu Fuß machen oder mit dem Fahrrad fahren, und die Métro gab es für längere Strecken. Aber das Geld war schon knapp, weil die Miete einen großen Teil vom Budget gefressen hat. Beim Essen und bei den Ausgaben im Alltag musste ich darum aufpassen. Ich habe öfter selbst gekocht, statt auszugehen."
+    }
+  ]
+}

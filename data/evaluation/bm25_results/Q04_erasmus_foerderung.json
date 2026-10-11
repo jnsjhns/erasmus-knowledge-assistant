@@ -1,0 +1,189 @@
+{
+  "query_id": "Q04",
+  "query": "erasmus förderung",
+  "information_need": "Welche Erasmus-Förderung gibt es und wie hoch kann sie sein?",
+  "retriever": "bm25",
+  "top_k": 20,
+  "results": [
+    {
+      "rank": 1,
+      "score": 7.3383,
+      "base_score": 6.1152,
+      "document_id": "OFF_08",
+      "source_type": "official",
+      "topic": "erasmus_funding",
+      "text": "Die Erasmus+-Förderung ist ein Zuschuss zu den zusätzlichen Lebenshaltungskosten während eines Studien- oder Praktikumsaufenthalts im Ausland. Für Mobilität zwischen EU-Mitgliedstaaten unterscheidet der Erasmus+ Programme Guide 2026 Ländergruppen nach Lebenshaltungskosten. Für ein Zielland mit höheren Lebenshaltungskosten, etwa Frankreich, liegt der höhere Förderbereich bei etwa 348 bis 674 Euro pro Monat. Der konkrete Betrag wird von der nationalen Agentur und der entsendenden Hochschule festgelegt."
+    },
+    {
+      "rank": 2,
+      "score": 5.7586,
+      "base_score": 5.7586,
+      "document_id": "p13_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Vorbereitung war bei mir eher kurzfristig und etwas chaotisch. Mit Erasmus hatte ich vorher kaum Erfahrung, und vor allem das Learning Agreement und die Versicherungsunterlagen haben mich ziemlich überfordert.\n Die Unterkunft habe ich über den Housing-Service der ISEP gesucht. Die Zusage für ein Zimmer im Studentenwohnheim kam aber erst kurz vor der Abreise, was ziemlich stressig war. Finanziert habe ich den Aufenthalt durch die Erasmus-Förderung und Unterstützung von meinen Eltern. Französisch habe ich vorher nur ein paar Wochen mit einer App gelernt."
+    },
+    {
+      "rank": 3,
+      "score": 5.5452,
+      "base_score": 5.5452,
+      "document_id": "p15_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hatte ein kleines Zimmer zur Zwischenmiete im 11. Arrondissement, in der Gegend Bastille/Oberkampf. Für mich eine gute Lage, für ungefähr 850 Euro allerdings kein Schnäppchen. Insgesamt hatte ich etwa 1.450 Euro im Monat, aus DUO, Erasmus-Förderung und etwas Erspartem. Das ging, aber mit Ausgehen und nächtlichen Uber- oder Bolt-Fahrten wurde es eng. Ich habe dann eher beim Essen gespart als beim Feiern. Nicht unbedingt clever."
+    },
+    {
+      "rank": 4,
+      "score": 5.0255,
+      "base_score": 5.0255,
+      "document_id": "p15_q9",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Erst mal habe ich das Problem eine Weile nicht gelöst. Dann habe ich die offenen Aufgaben aufgeschrieben und endlich meine Mails beantwortet. Bei der Erasmus-Koordination in Groningen habe ich nachgefragt, welche Bedingungen in meinem Fall gelten. An der ISEP habe ich mit der zuständigen Kontaktperson geklärt, was noch fehlte und wen ich wegen der Kurse ansprechen musste. Die haben mir Orientierung gegeben, aber keine Leistungen geschenkt. Für die Gruppenarbeit habe ich einen klar abgegrenzten Programmierteil übernommen und diesmal rechtzeitig abgegeben.\n 9a. Du hast erwähnt, dass du zunächst nicht genau wusstest, wie viele ECTS du für Anerkennung und Förderung tatsächlich brauchst. Wie würdest du das heute vor dem Erasmus-Aufenthalt klären?\n Ich würde das vor der Abreise getrennt für Anerkennung und Förderung klären. Bei der Erasmus-Koordination in Groningen würde ich konkret nachfragen: Wie viele ECTS muss ich anmelden, wie viele muss ich tatsächlich bestehen und was passiert mit der Förderung, wenn ich darunter bleibe? Zusätzlich würde ich klären, welche ISEP-Kurse mir tatsächlich für meinen Studiengang angerechnet werden.\n Die Antworten würde ich mir schriftlich geben lassen und zusammen mit dem Learning Agreement speichern. Ich hatte diese beiden Themen vorher ziemlich durcheinandergeworfen und außerdem eine Zahl von 15 bis 20 ECTS aus einer Erasmus-Gruppe übernommen, ohne zu prüfen, ob sie für meinen Fall überhaupt stimmt. Das würde ich heute nicht mehr machen.\n 9b. Du hast gemerkt, dass laufende Abgaben und Gruppenarbeiten problematischer waren als erwartet. Was würdest du bei der Kurswahl oder deiner Zeitplanung heute anders machen?\n Bei der Kurswahl würde ich nicht nur auf den Titel und die Inhalte schauen, sondern auch auf die Prüfungsform und den tatsächlichen Arbeitsrhythmus: Gibt es wöchentliche Aufgaben? Ein Gruppenprojekt? Anwesenheitspflicht? Mehrere kleine Abgaben? Die englischen Informatikkurse haben fachlich gut zu mir gepasst, aber ich hatte unterschätzt, dass ich dadurch während des gesamten Semesters kontinuierlich arbeiten musste.\n Bei Gruppenarbeiten würde ich direkt am Anfang einen klar abgegrenzten Teil übernehmen und einen konkreten Termin dafür vereinbaren. Bei mir war das Problem weniger, dass ich die Aufgaben nicht konnte, sondern dass ich zu spät angefangen habe. Außerdem würde ich feste Zeitblöcke für Abgaben einplanen, zum Beispiel zwei Nachmittage pro Woche.\n Und ich würde Ausgehen nicht komplett streichen, aber realistischer planen. Mein Fehler war, Paris so zu planen, als wäre die Uni die freiwillige Nebenveranstaltung. Zwei gute Abende sind besser als vier Abende und danach Panik wegen einer Abgabe."
+    },
+    {
+      "rank": 5,
+      "score": 4.9452,
+      "base_score": 4.9452,
+      "document_id": "p15_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Lest die Mails von beiden Hochschulen und klärt vor der Abreise genau, welche Leistungen ihr für Anerkennung und Förderung braucht. Lasst euch wichtige Informationen schriftlich geben und speichert sie zusammen mit dem Learning Agreement.\n Bei der Kurswahl würde ich nicht nur nach interessanten Inhalten gehen, sondern auch prüfen, wie viele laufende Abgaben, Gruppenarbeiten und Anwesenheitspflichten ein Kurs hat. Und plant neben dem Studium bewusst Zeit für Paris ein, aber nicht so, als gäbe es am nächsten Morgen keine Uni. Ich hätte mir einiges erspart, wenn ich früher verstanden hätte, dass ein Erasmus-Semester gleichzeitig Studium und Aufenthalt ist."
+    },
+    {
+      "rank": 6,
+      "score": 1.9085,
+      "base_score": 1.9085,
+      "document_id": "p11_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Kontakte habe ich vor allem über die ISEP und andere Erasmus-Studierende gefunden. Ich bin ziemlich offen und spreche Leute einfach an, deshalb war das für mich nicht so schwierig.\n Wir haben gemeinsam Paris erkundet, waren etwas trinken oder haben uns auch einfach zwischen den Kursen getroffen. Ich mag, dass dort Leute aus verschiedenen Ländern zusammenkommen.\n Gleichzeitig wollte ich nicht nur in einer internationalen Erasmus-Blase bleiben, sondern auch den normalen Alltag in Paris erleben. Deshalb bin ich auch öfter allein unterwegs gewesen oder habe versucht, Dinge außerhalb der typischen Erasmus-Aktivitäten zu machen."
+    },
+    {
+      "rank": 7,
+      "score": 1.7631,
+      "base_score": 1.7631,
+      "document_id": "p07_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Am meisten über das Wohnheim, weil dort viele internationale Leute wohnen. Man kommt in der Küche, im Garten oder bei Veranstaltungen ins Gespräch. An der ISEP lernt man andere Erasmus-Leute in den Kursen kennen. Ich habe auch ErasmusPlace entdeckt. Die organisieren Events und Reisen für Erasmus-Studierende. Das finde ich eine gute Idee, um neue Leute zu treffen und nicht nur in Paris zu hängen. Ich würde das jedem empfehlen, der Anschluss sucht und auch mal raus will."
+    },
+    {
+      "rank": 8,
+      "score": 1.6876,
+      "base_score": 1.6876,
+      "document_id": "p03_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Zum einen über die Erasmus-WhatsApp-Gruppen und die Leute aus meinen Kursen, zum anderen über die WG. Meine Mitbewohner haben mich direkt zu Abenden mit ihren Freunden mitgenommen, das ist super, weil man dadurch nicht nur in der Erasmus-Blase hängt. Ich bin auch nicht schüchtern, ich quatsche einfach drauflos, notfalls halt in Denglish oder Franglais. Ich will tiefe Freundschaften aufbauen, nicht nur oberflächliche, ob das klappt, sehe ich bis Januar. Ansonsten viel Rad fahren durch die Stadt, Cafés, abends an der Seine sitzen, das ist genau das, was ich mir erhofft hatte."
+    },
+    {
+      "rank": 9,
+      "score": 1.5239,
+      "base_score": 1.5239,
+      "document_id": "p07_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Fragt bei Unklarheiten zu Kursen und Learning Agreement sofort nach.\n Schaut bei ErasmusPlace vorbei, die organisieren Events und Reisen, über die man schnell Leute kennenlernt.\n Wenn ihr überlegt, später an der ISEP zu studieren, ist Erasmus eine gute Möglichkeit, die Hochschule vorher zu testen."
+    },
+    {
+      "rank": 10,
+      "score": 1.5007,
+      "base_score": 1.5007,
+      "document_id": "EXT_01",
+      "source_type": "external",
+      "topic": "living_costs",
+      "text": "Für ein WG-Zimmer in Paris werden etwa 600 bis 900 Euro pro Monat genannt. Für Einkäufe und Mahlzeiten rechnet Erasmus Place mit etwa 200 bis 300 Euro monatlich. Für den studentischen Navigo-Imagine-R-Tarif wird ein zusätzlicher monatlicher Transportposten angegeben."
+    },
+    {
+      "rank": 11,
+      "score": 1.4146,
+      "base_score": 1.4146,
+      "document_id": "p06_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Hauptsächlich über die Kurse und die Projekte, da kommt man leicht ins Gespräch. Ich wollte beides, also internationale und französische Studierende. Mit den Franzosen war es für mich leichter als für viele andere, wegen der Sprache. Durch die eigene Wohnung war ich weniger im Erasmus-Gruppenleben als andere in WGs. Das war okay für mich, ich bin da eher ruhig."
+    },
+    {
+      "rank": 12,
+      "score": 1.4045,
+      "base_score": 1.4045,
+      "document_id": "p15_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Tage waren gut. Zimmer beziehen, Metro ausprobieren, abends Leute aus einer Erasmus-WhatsApp-Gruppe treffen. Ich war schneller in einer Bar als richtig im Hochschulalltag angekommen. Nach zwei Wochen habe ich dann gemerkt, dass spät heimkommen und morgens im Unterricht sitzen nicht dauerhaft zusammenpasst. War jetzt keine völlig überraschende Erkenntnis, aber ich hatte sie vorher ignoriert."
+    },
+    {
+      "rank": 13,
+      "score": 1.3751,
+      "base_score": 1.3751,
+      "document_id": "p07_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich bin Krishna und komme aus Italien. Ich studiere an der Universität Bologna im Master Informatik mit Schwerpunkt Cybersecurity, und meine Wurzeln sind indisch. Ich habe die ISEP ausgewählt, weil ich mir vorstellen kann, später für einen Master dorthin zu wechseln. Die Studiengebühren sind ziemlich hoch, deshalb wollte ich die Hochschule erst über Erasmus kennenlernen, bevor ich Geld investiere. Dass Paris ein internationaler Ort ist, war auch ein Pluspunkt."
+    },
+    {
+      "rank": 14,
+      "score": 1.3469,
+      "base_score": 1.3469,
+      "document_id": "p10_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Tage waren aufregend, weil gleichzeitig die neue Stadt, die ISEP und das Leben bei der Gastfamilie neu waren. Durch das Wohnen bei einer französischen Familie hatte ich von Anfang an mehr Kontakt mit der französischen Sprache und dem Alltag. Gleichzeitig hatte ich dadurch etwas weniger Privatsphäre als in einer eigenen Wohnung. Für die Orientierung in Paris habe ich hauptsächlich Metro und Bus genutzt und mich am Anfang auch an anderen Erasmus-Studierenden orientiert."
+    },
+    {
+      "rank": 15,
+      "score": 1.3198,
+      "base_score": 1.3198,
+      "document_id": "p10_q2_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich würde empfehlen, die Aufgaben und Arbeitszeiten wirklich vor dem Einzug genau zu besprechen. Erasmus und Au-pair lassen sich gut kombinieren, aber beides kostet Zeit und Energie. Für mich ist vor allem die zeitliche Organisation eine Herausforderung, weil ISEP-Aufgaben, Prüfungen und Au-pair-Zeiten zusammenpassen müssen. Deshalb sollte man vorher klären, wie viele Stunden man arbeitet und ob genügend freie Zeit für das Studium bleibt."
+    },
+    {
+      "rank": 16,
+      "score": 1.3198,
+      "base_score": 1.3198,
+      "document_id": "p11_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Vorbereitung war die Bewerbung eigentlich relativ unkompliziert. Ich habe mich über meine Universität und die Erasmus-Informationen informiert und dann die Unterlagen für die ISEP zusammengestellt.\n Eine WG habe ich noch vor der Ankunft im 15. Arrondissement gefunden. Das war natürlich praktisch, aber bei einer Wohnung, die man nur über Fotos und Nachrichten kennt, bleibt trotzdem ein kleines mulmiges Gefühl. Die Anreise selbst war dann kein großes Abenteuer, weil Belgien ja nicht weit entfernt ist."
+    },
+    {
+      "rank": 17,
+      "score": 1.3024,
+      "base_score": 1.3024,
+      "document_id": "p13_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich bin Daria, 19 Jahre alt, komme aus Deutschland und studiere im dritten Semester Informatik an der HTW Berlin. Ich habe mich für das Erasmus-Semester an der ISEP entschieden, weil ich zum ersten Mal längere Zeit im Ausland leben wollte und die ISEP als technische Hochschule gut zu meinem Studium gepasst hat. Besonders interessant fand ich, dass ich dort technische Kurse auf Englisch belegen konnte. Ich wollte außerdem selbstständiger werden und meine Programmiererfahrung erweitern."
+    },
+    {
+      "rank": 18,
+      "score": 1.2527,
+      "base_score": 1.2527,
+      "document_id": "p05_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich heiße Ahmed, bin 25 und komme ursprünglich aus Algerien. Momentan mache ich meinen Master an der Universität Turin. Für mein Erasmus-Semester habe ich mich bewusst für die ISEP in Paris entschieden, weil ich Frankreich schon länger kennenlernen wollte – nicht nur als Tourist, sondern richtig im Alltag. Gleichzeitig überlege ich, nach dem Studium vielleicht in Frankreich zu arbeiten. Da dachte ich, ein Semester hier ist die perfekte Gelegenheit, um zu sehen, wie das so läuft, und vielleicht auch schon erste Kontakte zu knüpfen."
+    },
+    {
+      "rank": 19,
+      "score": 1.2293,
+      "base_score": 1.2293,
+      "document_id": "p05_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Bewerbung lief eigentlich ganz smooth. An meiner Heimatuni in Turin gab es ein Erasmus-Büro, das hat die meisten Formalitäten übernommen. Ich musste Motivationsschreiben, Notenspiegel und so Zeug einreichen, dann kam relativ schnell die Zusage.\n Bei der Unterkunftssuche war’s schon stressiger. Ich wollte nicht zu viel Miete zahlen, aber gleichzeitig auch nicht total am Rand wohnen. Hab dann über verschiedene Facebook-Gruppen und WG-Gesuche gesucht und am Ende ein Zimmer in einer WG im 13. Arrondissement gefunden. Die Anreise war dann relativ unkompliziert – Flug von Turin nach Paris, dann mit der RER direkt in die Stadt."
+    },
+    {
+      "rank": 20,
+      "score": 1.2293,
+      "base_score": 1.2293,
+      "document_id": "p10_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich bin Annica, 23 Jahre alt und studiere im fünften Semester Software Design and Cloud Computing an der FH JOANNEUM in Kapfenberg. Ich wollte schon länger für einen längeren Zeitraum ins Ausland und habe mich deshalb für ein Erasmus-Semester entschieden. Paris hat mich wegen der internationalen Umgebung und des großen kulturellen Angebots interessiert. Die ISEP hat außerdem ein gutes Angebot für Informatik, sodass ich dort mein Studium fachlich weiterführen kann. Ursprünglich war ein Semester geplant, aber inzwischen überlege ich, meinen Aufenthalt auf ein ganzes Jahr zu verlängern."
+    }
+  ]
+}
