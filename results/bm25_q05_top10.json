@@ -1,0 +1,96 @@
+{
+  "query": "unterrichtsqualität isep",
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.3621,
+      "base_score": 0.3017,
+      "document_id": "OFF_11",
+      "source_type": "official",
+      "topic": "ects",
+      "text": "Austauschstudierende an der ISEP müssen pro Semester mindestens 15 ECTS belegen. Das entspricht dem Mindestumfang für einen Austausch an der ISEP."
+    },
+    {
+      "rank": 2,
+      "score": 0.2888,
+      "base_score": 0.2406,
+      "document_id": "OFF_04",
+      "source_type": "official",
+      "topic": "housing",
+      "text": "Die ISEP unterstützt Austauschstudierende bei der Wohnungssuche. Möglich sind unter anderem ein Wohnheim, ein privates Zimmer oder eine Wohnung. Das genaue Verfahren wird nach der Zulassung mitgeteilt."
+    },
+    {
+      "rank": 3,
+      "score": 0.2724,
+      "base_score": 0.227,
+      "document_id": "OFF_09",
+      "source_type": "official",
+      "topic": "living_costs",
+      "text": "Die ISEP schätzt die monatlichen Lebenshaltungskosten in Paris auf etwa 700 bis 1.100 Euro. Dieser Betrag umfasst Unterkunft, Verpflegung und Transport. Die tatsächlichen Kosten hängen insbesondere von der Wohnform und Lage ab."
+    },
+    {
+      "rank": 4,
+      "score": 0.2585,
+      "base_score": 0.2585,
+      "document_id": "p10_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Über die ISEP habe ich relativ schnell andere internationale Studierende kennengelernt. Dadurch hatte ich Kontakte zu Leuten, die ebenfalls neu in Paris waren. Gleichzeitig habe ich durch meine Gastfamilie einen viel stärkeren Kontakt zum französischen Alltag und zur französischen Sprache. Diese Kombination finde ich eigentlich sehr gut, weil ich über die ISEP internationale Kontakte habe, aber durch die Familie auch regelmäßig Französisch spreche."
+    },
+    {
+      "rank": 5,
+      "score": 0.2578,
+      "base_score": 0.2148,
+      "document_id": "OFF_01",
+      "source_type": "official",
+      "topic": "application",
+      "text": "Bewerbungsfristen für Austauschstudierende an der ISEP sind der 31. Mai für das erste Semester (Anfang September bis Ende Januar) und der 31. Oktober für das zweite Semester (Anfang Februar bis Ende Juni). Interessierte Studierende müssen zunächst über das International Office ihrer Heimatuniversität nominiert werden."
+    },
+    {
+      "rank": 6,
+      "score": 0.2539,
+      "base_score": 0.2116,
+      "document_id": "OFF_10",
+      "source_type": "official",
+      "topic": "campus_location",
+      "text": "Die ISEP hat in der Region Paris zwei Campus: den Campus Notre-Dame-des-Champs im 6. Arrondissement von Paris und den Campus Notre-Dame-de-Lorette in Issy-les-Moulineaux. Austauschstudierende sollten vor der Ankunft prüfen, an welchem Campus ihre Kurse stattfinden."
+    },
+    {
+      "rank": 7,
+      "score": 0.2538,
+      "base_score": 0.2538,
+      "document_id": "p10_q9_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich plane meine Woche inzwischen möglichst früh und stimme mich mit der Gastfamilie ab, wenn an der ISEP besonders viel zu tun ist. Für die Sprache versuche ich, möglichst viel Französisch im Alltag zu sprechen, auch wenn ich nicht alles verstehe. Neue Wörter schreibe ich mir auf und versuche, sie später wieder zu verwenden. Bei organisatorischen Fragen zur ISEP kann ich mich an das International Office wenden. Bei fachlichen Problemen helfen mir außerdem die Lehrenden oder andere Studierende."
+    },
+    {
+      "rank": 8,
+      "score": 0.2524,
+      "base_score": 0.2524,
+      "document_id": "p04_q4_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Am schwierigsten war für mich die Kombination aus Kurswahl, Einschreibung und Anerkennung. Ich hatte teilweise Informationen von der ISEP und von meiner Universität in Sevilla, und nicht immer war sofort klar, welche Information für mich gerade entscheidend war.\n Ich habe deshalb gelernt, nicht nur allgemein zu fragen, ob alles passt, sondern sehr konkrete Fragen zu stellen. Zum Beispiel habe ich meiner Koordinatorin genau geschrieben, welchen ISEP-Kurs ich belegen möchte und für welches Modul in Sevilla ich ihn anerkennen lassen will. So konnte sie mir viel einfacher sagen, ob das funktioniert.\n Wenn es um die Einschreibung an der ISEP ging, habe ich mich an das International Office gewandt. Wenn es um die spätere Anerkennung ging, war meine Universität in Sevilla zuständig. Das war manchmal etwas mühsam, weil ich zwischen beiden Seiten Informationen abstimmen musste."
+    },
+    {
+      "rank": 9,
+      "score": 0.2504,
+      "base_score": 0.2504,
+      "document_id": "p13_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich bin Daria, 19 Jahre alt, komme aus Deutschland und studiere im dritten Semester Informatik an der HTW Berlin. Ich habe mich für das Erasmus-Semester an der ISEP entschieden, weil ich zum ersten Mal längere Zeit im Ausland leben wollte und die ISEP als technische Hochschule gut zu meinem Studium gepasst hat. Besonders interessant fand ich, dass ich dort technische Kurse auf Englisch belegen konnte. Ich wollte außerdem selbstständiger werden und meine Programmiererfahrung erweitern."
+    },
+    {
+      "rank": 10,
+      "score": 0.2429,
+      "base_score": 0.2024,
+      "document_id": "OFF_03",
+      "source_type": "official",
+      "topic": "grading_system",
+      "text": "Die ISEP verwendet das europäische ECTS-Notensystem. Die Notenskala reicht von 0 bis 20; die Bestehensgrenze liegt bei 10 Punkten. Die ECTS-Noten werden statistisch verteilt: A für die besten 10 Prozent, B für die nächsten 25 Prozent, C für die nächsten 30 Prozent, D für die nächsten 25 Prozent und E für die nächsten 10 Prozent."
+    }
+  ]
+}

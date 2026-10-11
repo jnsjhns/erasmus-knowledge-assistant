@@ -1,0 +1,96 @@
+{
+  "query": "monatliche ausgaben paris",
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "score": 4.6058,
+      "base_score": 4.6058,
+      "document_id": "p04_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe in einem CROUS-Wohnheim gewohnt. Für mich war das vor allem deshalb praktisch, weil ich dadurch bereits vor meiner Anreise eine Unterkunft hatte und mich nicht mit privaten Vermietern, Besichtigungen oder komplizierten Mietverträgen beschäftigen musste.\n Das Zimmer war relativ klein und eher funktional eingerichtet. Küche und teilweise auch andere Bereiche habe ich mit anderen Studierenden geteilt. Dafür waren die Kosten deutlich niedriger als bei vielen privaten Wohnungen in Paris.\n Bei den Lebenshaltungskosten habe ich vor allem unterschätzt, wie schnell sich kleinere Ausgaben summieren. Essen gehen, Kaffee, Aktivitäten und spontane Fahrten waren einzeln nicht extrem teuer, aber über einen Monat kam einiges zusammen. Deshalb habe ich angefangen, häufiger selbst zu kochen und meine Ausgaben etwas genauer zu verfolgen."
+    },
+    {
+      "rank": 2,
+      "score": 4.2592,
+      "base_score": 4.2592,
+      "document_id": "p12_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hatte ein möbliertes Zimmer in einer WG in Issy-les-Moulineaux. Die Lage war für mich wirklich praktisch, weil ich zu Fuß zum Campus gehen konnte. Wenn ich nach Paris hinein wollte, habe ich meistens die Metro oder die Tram genommen.\n Mit meinen Mitbewohnern hat es meistens gut funktioniert. Natürlich gab es manchmal Diskussionen darüber, wer die Küche putzt oder wann das Bad sauber gemacht wird. Aber insgesamt war es okay.\n Mein Budget lag bei ungefähr 1.100 Euro im Monat. Für das Zimmer habe ich etwa 700 Euro inklusive Nebenkosten bezahlt. Damit blieb dann nicht mehr besonders viel für Essen, Transport und Freizeit übrig.\n Ich habe am Anfang unterschätzt, wie schnell sich die kleinen Ausgaben summieren. Wenn man hier und da einen Kaffee trinkt, etwas essen geht oder spontan irgendwo Eintritt bezahlt, ist das Geld ziemlich schnell weg. Nach einer Weile habe ich deshalb genauer auf meine Ausgaben geschaut und wir haben in der WG häufiger gemeinsam gekocht."
+    },
+    {
+      "rank": 3,
+      "score": 4.1016,
+      "base_score": 4.1016,
+      "document_id": "p13_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe in einem Studentenwohnheim gewohnt und ungefähr 600 Euro im Monat für das Zimmer bezahlt. Mein gesamtes Budget lag bei ungefähr 900 Euro, deshalb musste ich bei anderen Ausgaben schon aufpassen.\n Paris ist natürlich teuer, vor allem beim Essen und bei spontanen Unternehmungen. Ich bin meistens mit der Metro gefahren oder zu Fuß gegangen und habe nicht ständig in Restaurants gegessen. Dadurch ging es einigermaßen, aber besonders viel finanzieller Spielraum war nicht da."
+    },
+    {
+      "rank": 4,
+      "score": 3.996,
+      "base_score": 3.996,
+      "document_id": "p10_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe ein eigenes Zimmer bei meiner Gastfamilie. Durch die Au-pair-Vereinbarung zahle ich keine klassische Miete, sondern übernehme bestimmte Aufgaben und die Betreuung der Kinder. Das ist finanziell natürlich ein großer Vorteil gegenüber einer normalen Wohnung in Paris. Gleichzeitig muss man sich bewusst sein, dass man dadurch weniger unabhängig ist und die Aufgaben und Arbeitszeiten mit dem Studium vereinbaren muss. Bei den sonstigen Ausgaben versuche ich eher sparsam zu sein und viel zu Fuß oder mit der Metro zu machen."
+    },
+    {
+      "rank": 5,
+      "score": 3.5229,
+      "base_score": 3.5229,
+      "document_id": "p06_q9",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich versuche immer erst, Sachen selbst zu lösen. Beim Geld habe ich meine Ausgaben im Blick behalten und gespart, wo es ging, zum Beispiel beim Essen und bei den Wegen mit Fahrrad statt Métro. An der Miete selbst konnte ich nichts ändern. Von der ISEP habe ich dafür keine spezielle Hilfe bekommen, und ich habe auch nicht aktiv danach gefragt. Bei der Identitätsfrage hat mir einfach das Reden mit Leuten geholfen."
+    },
+    {
+      "rank": 6,
+      "score": 3.4761,
+      "base_score": 3.4761,
+      "document_id": "p06_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hatte meine eigene kleine Wohnung im 5. Arrondissement, mit knapp 1.000 € Miete im Monat. Die Lage ist super, ich konnte viel zu Fuß machen oder mit dem Fahrrad fahren, und die Métro gab es für längere Strecken. Aber das Geld war schon knapp, weil die Miete einen großen Teil vom Budget gefressen hat. Beim Essen und bei den Ausgaben im Alltag musste ich darum aufpassen. Ich habe öfter selbst gekocht, statt auszugehen."
+    },
+    {
+      "rank": 7,
+      "score": 2.9469,
+      "base_score": 2.9469,
+      "document_id": "p14_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich wohne allein in einem kleinen Studio nahe Montparnasse und zahle ungefähr 980 Euro warm. Mein gesamtes monatliches Budget liegt bei etwa 1.600 Euro, finanziert durch schwedische CSN-Studienförderung, Erasmus und Ersparnisse aus meiner Werkstudententätigkeit. Die Miete nimmt also schon einen ziemlich unangenehmen Teil davon weg. Ich wollte trotzdem bewusst keine WG, weil ich zum Arbeiten und nach einem langen Hochschultag Ruhe brauche. Dafür koche ich viel selbst und überlege bei größeren Ausgaben. Meist fahre ich mit meinem Rennrad, gelegentlich nehme ich die Metro. Essen gehen und Kultur mache ich schon, aber nicht jeden Abend. Das Studio ist mein Luxus, nicht die Cocktailkarte."
+    },
+    {
+      "rank": 8,
+      "score": 2.8301,
+      "base_score": 2.8301,
+      "document_id": "p12_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich würde die Unterkunft und das Learning Agreement wirklich früh angehen. Vor allem bei der Wohnungssuche würde ich nicht erst kurz vor der Abreise anfangen. Und man sollte vorsichtig sein, bevor man Geld überweist. Ich habe bei manchen Angeboten schon ein komisches Gefühl gehabt und würde lieber einmal zu viel prüfen.\n Beim Budget würde ich auch realistischer planen. Nicht nur die Miete einrechnen, sondern auch Kaution, Transport, Lebensmittel und die ganzen kleinen Ausgaben. Die merkt man am Anfang gar nicht so stark, aber sie summieren sich.\n Bei den Kursen würde ich alle Inhalte und ECTS vorher mit der Heimatuniversität absprechen. Und auch wenn die meisten Kurse auf Englisch sind, würde ich vorher ein bisschen Französisch lernen. Schon einfache Sätze helfen im Alltag.\n Mein wichtigster Tipp wäre aber, in der ersten Woche aktiv auf andere Leute zuzugehen. Das ist vielleicht etwas unangenehm, besonders wenn man niemanden kennt, aber bei mir hat die Sportgruppe wirklich einen Unterschied gemacht. Dadurch hatte ich relativ schnell Leute, mit denen ich etwas unternehmen konnte, und Paris hat sich viel weniger fremd angefühlt."
+    },
+    {
+      "rank": 9,
+      "score": 2.3826,
+      "base_score": 2.3826,
+      "document_id": "p12_q9",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Beim Geld habe ich am Anfang ehrlich gesagt ein bisschen zu locker gelebt. Nach dem ersten Monat habe ich dann gemerkt, dass ich so nicht weit komme. Danach habe ich angefangen, meine Ausgaben genauer aufzuschreiben und mir ungefähr festzulegen, wie viel ich pro Woche für Essen und Freizeit ausgeben kann.\n Wir haben auch oft gemeinsam in der WG gekocht. Das war günstiger und gleichzeitig eine gute Möglichkeit, etwas mit den anderen zu machen. Für Freizeit habe ich öfter kostenlose Sachen gemacht, zum Beispiel Spaziergänge oder Sport.\n Bei organisatorischen Problemen habe ich meistens zuerst selbst auf der ISEP-Webseite oder in meinen Unterlagen gesucht. Wenn ich danach noch nicht weiterwusste, habe ich beim International Office nachgefragt. Andere Austauschstudierende waren ebenfalls sehr hilfreich, weil manche Probleme bei ihnen schon einmal aufgetreten waren.\n Beim Französisch habe ich versucht, nicht sofort auf Englisch zu wechseln. Das hat nicht immer funktioniert und manchmal war es auch etwas unangenehm, wenn ich kaum verstanden habe, was die andere Person sagt. Aber wahrscheinlich habe ich dadurch mehr gelernt, als wenn ich immer sofort ins Englische gewechselt hätte."
+    },
+    {
+      "rank": 10,
+      "score": 1.1513,
+      "base_score": 0.9594,
+      "document_id": "OFF_10",
+      "source_type": "official",
+      "topic": "campus_location",
+      "text": "Die ISEP hat in der Region Paris zwei Campus: den Campus Notre-Dame-des-Champs im 6. Arrondissement von Paris und den Campus Notre-Dame-de-Lorette in Issy-les-Moulineaux. Austauschstudierende sollten vor der Ankunft prüfen, an welchem Campus ihre Kurse stattfinden."
+    }
+  ]
+}

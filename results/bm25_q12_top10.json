@@ -1,0 +1,96 @@
+{
+  "query": "flüge nach paris buchen",
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "score": 5.7856,
+      "base_score": 5.7856,
+      "document_id": "p09_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Drei Punkte:\n Erstens: Das Wohnungsproblem nicht auf die leichte Schulter nehmen. Ich würde genau wie ich eine befristete Übergangslösung für die ersten Wochen buchen und dann vor Ort in Ruhe suchen. Und vorher über Visale informieren, das erspart Frustration.\n Zweitens: Französisch lernen, auch wenn die Kurse auf Englisch sind. Mit B1-Niveau kam ich im Alltag gut klar, und ohne Französisch ist die Wohnungssuche und einfach der ganze Verwaltungsalltag deutlich anstrengender.\n Drittens: Seid offen für die wirtschaftlicheren Kurse, wenn ihr wie ich aus einem technischen Programm kommt – Governance und Risk Management haben mir eine Perspektive gegeben, die ich zu Hause so nicht bekommen hätte.\n Und fahrt Fahrrad in Paris. Vertraut mir."
+    },
+    {
+      "rank": 2,
+      "score": 2.0627,
+      "base_score": 2.0627,
+      "document_id": "p14_q10",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Mein konkreter Rat wäre: Fragt vor der Kurswahl nicht nur nach Inhalten und ECTS, sondern auch nach Anwesenheit, laufenden Abgaben und Prüfungsformen. Ich hatte die Fachbeschreibungen gründlich gelesen, aber den tatsächlichen Wochenrhythmus unterschätzt. Und wenn ihr einen französischsprachigen Fachkurs machen wollt, bereitet euch mit Material aus genau diesem Fachgebiet vor. Mir hat das mehr gebracht als noch einmal allgemeine Grammatikübungen durchzugehen. Für die Unterkunft würde ich früh ein vollständiges Bewerbungsdossier vorbereiten und ehrlich rechnen, wie viel nach der Miete übrig bleibt. Paris macht mehr Spaß, wenn man nicht bei jedem Kaffee seine Finanzierung neu verhandeln muss."
+    },
+    {
+      "rank": 3,
+      "score": 2.0411,
+      "base_score": 2.0411,
+      "document_id": "p06_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich bin Florentin, 22, und studiere Informatik im Bachelor an einer Uni in Schweden. Ich war im fünften Semester, als ich nach Paris gegangen bin. Ich bin in Frankreich geboren und mit zwölf nach Schweden gezogen. Französisch ist also meine Muttersprache, aber Frankreich kannte ich eigentlich nur aus meiner Kindheit und aus Ferien. Ich wollte wieder länger dort leben und gleichzeitig technisch was lernen. Die ISEP hatte genau die Kurse, die mich interessiert haben, vor allem Machine Learning."
+    },
+    {
+      "rank": 4,
+      "score": 2.0352,
+      "base_score": 2.0352,
+      "document_id": "p04_q7",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Kontakte habe ich hauptsächlich über andere Erasmus- und internationale Studierende gefunden. Am Anfang war das für mich einfacher, weil alle neu waren und niemand erwartet hat, dass man perfekt Englisch spricht.\n Ich habe versucht, bei Aktivitäten mitzumachen, auch wenn ich anfangs eher ruhig war. Besonders gut funktioniert hat es, regelmäßig mit denselben Leuten etwas zu unternehmen. Dadurch sind aus ersten Kontakten langsam Freundschaften entstanden.\n Paris selbst habe ich vor allem mit anderen Studierenden erkundet. Wir waren in verschiedenen Vierteln, Museen und Cafés und haben auch einfach Spaziergänge durch die Stadt gemacht. Dadurch habe ich Paris nach und nach eher als meinen Alltag und nicht mehr nur als touristische Stadt erlebt."
+    },
+    {
+      "rank": 5,
+      "score": 1.8723,
+      "base_score": 1.8723,
+      "document_id": "p04_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich heiße Lucia, bin 24 Jahre alt und komme aus Spanien. Ich studiere im Bachelor an der Universität Sevilla und bin für ein ganzes Studienjahr nach Paris gegangen. Ich wollte schon länger einmal für längere Zeit in Paris leben und die Stadt nicht nur als Touristin kennenlernen. Außerdem wollte ich internationale Erfahrungen sammeln und selbstständiger werden. Die ISEP hat für mich gut gepasst, weil es dort viele englischsprachige Kurse gibt und ich mein Studium dadurch auch während des Auslandsaufenthalts weiterführen konnte."
+    },
+    {
+      "rank": 6,
+      "score": 1.8186,
+      "base_score": 1.8186,
+      "document_id": "p11_q6",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich wohne in einer WG im 15. Arrondissement und zahle ungefähr 700 Euro im Monat. Mein Gesamtbudget liegt bei etwa 1.200 Euro, also muss ich schon ein bisschen aufpassen.\n Paris ist nicht gerade billig, besonders wenn man oft auswärts isst oder spontan irgendwo hingeht. Andererseits kann man einiges zu Fuß oder mit dem Fahrrad machen, und dadurch spare ich zumindest bei den Fahrten.\n Das Zusammenleben in der WG ist nicht immer ganz einfach. Meine Mitbewohner sind teilweise ziemlich kindisch, gerade bei Ordnung und gemeinsamen Regeln. Es ist nichts Dramatisches, aber es nervt, wenn man nach einem langen Studientag nach Hause kommt und sich dann noch über Kleinigkeiten ärgern muss."
+    },
+    {
+      "rank": 7,
+      "score": 1.7545,
+      "base_score": 1.7545,
+      "document_id": "p11_q3",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die ersten Tage waren trotzdem etwas chaotisch. Ich musste mich erst orientieren, herausfinden, wie ich am besten zur ISEP komme, und natürlich auch die ganzen organisatorischen Dinge erledigen. Gleichzeitig wollte ich sofort möglichst viel von Paris sehen.\n Ich war ziemlich begeistert, aber auch ein bisschen überfordert, weil ständig irgendetwas neu war. Nach ein, zwei Wochen hatte ich dann langsam meine Routinen – Métro, Fahrrad, zu Fuß, je nachdem."
+    },
+    {
+      "rank": 8,
+      "score": 1.6581,
+      "base_score": 1.6581,
+      "document_id": "p01_q2",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei den Unterlagen war ich ziemlich gründlich. Vielleicht stellenweise auch zu gründlich, aber ich wollte bei der Kursanerkennung keine Überraschung erleben. Durch die Bildungskarenz muss ich Studienleistungen nachweisen. Deshalb war mir wichtig, vorher mit der FH Campus Wien abzuklären, welche Kurse passen.\n Ich habe die Modulbeschreibungen zusammengesucht und das Learning Agreement abgestimmt. Am Ende waren es 29 ECTS. Im Sommer habe ich außerdem einen A1-Intensivkurs an der Universität Wien gemacht. Mir war klar, dass Englisch für die Lehrveranstaltungen reichen würde, aber vermutlich nicht für alles außerhalb der Hochschule.\n Die Unterkunftssuche war deutlich schwieriger. Auf den Wohnungsportalen wurden oft Unterlagen oder ein französischer Bürge verlangt, die ich nicht einfach vorweisen konnte. Irgendwann hatte ich das Gefühl, dass ich mit den normalen Anzeigen nicht wirklich weiterkomme.\n Geklappt hat es schließlich über Bekannte. Freunde aus Wien kannten Leute in Paris, die ein möbliertes Studio im 14. Arrondissement vermietet haben. 950 Euro warm, ungefähr 25 Quadratmeter. Viel Geld, aber ich wollte gern allein wohnen und einen vernünftigen Platz zum Arbeiten haben.\n Angereist bin ich mit dem Nachtzug von Wien nach Paris. Mit zwei großen Koffern fand ich das angenehm. Nach der Ankunft musste ich noch die Wohnungsversicherung abschließen und mich um die ersten Dinge vor Ort kümmern."
+    },
+    {
+      "rank": 9,
+      "score": 1.6207,
+      "base_score": 1.6207,
+      "document_id": "p05_q1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich heiße Ahmed, bin 25 und komme ursprünglich aus Algerien. Momentan mache ich meinen Master an der Universität Turin. Für mein Erasmus-Semester habe ich mich bewusst für die ISEP in Paris entschieden, weil ich Frankreich schon länger kennenlernen wollte – nicht nur als Tourist, sondern richtig im Alltag. Gleichzeitig überlege ich, nach dem Studium vielleicht in Frankreich zu arbeiten. Da dachte ich, ein Semester hier ist die perfekte Gelegenheit, um zu sehen, wie das so läuft, und vielleicht auch schon erste Kontakte zu knüpfen."
+    },
+    {
+      "rank": 10,
+      "score": 1.6179,
+      "base_score": 1.3483,
+      "document_id": "OFF_04",
+      "source_type": "official",
+      "topic": "housing",
+      "text": "Die ISEP unterstützt Austauschstudierende bei der Wohnungssuche. Möglich sind unter anderem ein Wohnheim, ein privates Zimmer oder eine Wohnung. Das genaue Verfahren wird nach der Zulassung mitgeteilt."
+    }
+  ]
+}

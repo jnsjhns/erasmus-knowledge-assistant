@@ -1,0 +1,96 @@
+{
+  "query": "mindestens ects",
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "score": 11.6198,
+      "base_score": 9.6832,
+      "document_id": "OFF_11",
+      "source_type": "official",
+      "topic": "ects",
+      "text": "Austauschstudierende an der ISEP müssen pro Semester mindestens 15 ECTS belegen. Das entspricht dem Mindestumfang für einen Austausch an der ISEP."
+    },
+    {
+      "rank": 2,
+      "score": 3.7217,
+      "base_score": 3.1014,
+      "document_id": "OFF_03",
+      "source_type": "official",
+      "topic": "grading_system",
+      "text": "Die ISEP verwendet das europäische ECTS-Notensystem. Die Notenskala reicht von 0 bis 20; die Bestehensgrenze liegt bei 10 Punkten. Die ECTS-Noten werden statistisch verteilt: A für die besten 10 Prozent, B für die nächsten 25 Prozent, C für die nächsten 30 Prozent, D für die nächsten 25 Prozent und E für die nächsten 10 Prozent."
+    },
+    {
+      "rank": 3,
+      "score": 3.2033,
+      "base_score": 3.2033,
+      "document_id": "p05_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl an der ISEP war eigentlich gut organisiert. Es gab eine Liste mit Kursen, die für Exchange-Students offen sind, und ich konnte relativ frei wählen. Wichtig war nur, dass ich genug ECTS bekomme, die dann in Turin anerkannt werden.\n Ich hab mich für Kurse entschieden, die sowohl technisch als auch management-lastig sind – so eine Mischung aus Ingenieursthemen und ein bisschen Business. Die Einschreibung lief online über das ISEP-Portal, und die ECTS-Anerkennung hab ich vorher mit meinem Koordinator in Turin abgeklärt. Am Ende sollten es so um die 25–30 ECTS werden, die dann problemlos anerkannt wurden."
+    },
+    {
+      "rank": 4,
+      "score": 3.0432,
+      "base_score": 3.0432,
+      "document_id": "p05_q2_1",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Wohnungssuche war für mich am schwierigsten, dass es extrem schnell gehen muss in Paris. Du siehst eine Anzeige, schreibst eine Nachricht, und wenn du nicht innerhalb von ein paar Stunden antwortest oder die Unterlagen schickst, ist das Zimmer schon weg. Das war für mich neu – in Turin lief das alles viel entspannter.\n Was mich zusätzlich genervt hat: Viele Vermieter wollen französische Bürgen oder mindestens drei Monatsmieten im Voraus. Als Erasmus-Student ohne französisches Einkommen bist du da natürlich im Nachteil. Ich hab ein paar Absagen bekommen, einfach weil ich keine französischen Garantien vorlegen konnte.\n Was mir letztendlich geholfen hat: Ich hab mich auf WG-Gesuche konzentriert, wo private Untervermieter suchen, nicht große Agenturen. Die sind oft flexibler, was Dokumente angeht. Außerdem hab ich meine Bewerbungsmappe auf Französisch vorbereitet – Anschreiben, Lebenslauf, Scholastic Records, alles kompakt in einer PDF. Das hat professioneller gewirkt.\n Am Ende war es ein Zimmer in einer WG im 13. Arrondissement, das über eine Facebook-Gruppe für internationale Studierende ausgeschrieben war. Der Hauptmieter war selbst Ausländer, hat die Situation verstanden und war bereit, mich ohne französische Bürgschaft zu nehmen. Ich musste nur die erste Miete plus Kaution im Voraus zahlen. War nicht billig, aber besser als nichts.\n Im Nachhinein würde ich sagen: Sei schnell, hab alle Unterlagen bereit, und such eher bei privaten Vermietern oder WGs statt bei großen Agenturen. Das macht es als Ausländer deutlich einfacher."
+    },
+    {
+      "rank": 5,
+      "score": 2.6923,
+      "base_score": 2.6923,
+      "document_id": "p09_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die Kurswahl war vorher im Learning Agreement festgelegt und lief dann vor Ort reibungslos. Ich hatte vier Kurse: Governance and Organization of Information Systems, Management Training, Risk Management and Audit und das Learning Track Project. Zusammen 17 ECTS, in Englisch unterrichtet. Genau diese Mischung war ja der Grund für die ISEP, also war ich mit der Auswahl zufrieden.\n Die Einschreibung vor Ort war ein Nachmittag Papierkram, aber kein Drama. Die Anerkennung an der HZ war im Vorfeld abgestimmt – die Kurse wurden auf mein Curriculum angerechnet, solange ich die 17 ECTS bestand. Mein Tipp an der Stelle: das vorher schriftlich fixieren, nicht erst nach der Rückkehr diskutieren."
+    },
+    {
+      "rank": 6,
+      "score": 2.6594,
+      "base_score": 2.6594,
+      "document_id": "p03_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hab vier Kurse gewählt: Advanced Cloud Computing, AI & Decision Support, Human-Computer Interaction und French Language & Culture. Das sind insgesamt 20 ECTS, mit Absicht eher reduziert, damit ich den Job und das Studium unter einen Hut kriege. Die Kurswahl selbst war okay, aber wie gesagt, das Learning Agreement hab ich mehrmals geändert, weil sich Zeiten überschnitten haben. Zur Anerkennung zuhause kann ich noch nicht viel sagen, das kommt ja erst nach dem Semester. Ich hoffe einfach, dass die 20 ECTS ohne Probleme durchgehen, weil ich mein Masterstudium nicht unnötig verlängern will. Ob da noch was hakt, weiß ich ehrlich gesagt nicht."
+    },
+    {
+      "rank": 7,
+      "score": 2.3269,
+      "base_score": 2.3269,
+      "document_id": "p06_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich habe drei Kurse gewählt: Machine Learning, Software Security und Development of Mobile Applications. Alle waren auf Englisch. Das hat gut gepasst, es sind zusammen 15 ECTS, so wie ich es mit meiner Heimatuni geplant hatte. Die Einschreibung lief ohne große Probleme. Zur endgültigen Anerkennung kann ich noch nichts Genaues sagen, das läuft über meine Uni in Schweden."
+    },
+    {
+      "rank": 8,
+      "score": 2.2469,
+      "base_score": 2.2469,
+      "document_id": "p15_q8",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Die größte Herausforderung war irgendwann die Angst, wegen zu wenig ECTS Geld zurückzahlen zu müssen. Ich hatte Fehlzeiten gesammelt und Beiträge für Gruppenarbeiten aufgeschoben. Einmal schrieb ein Gruppenmitglied ziemlich direkt, dass sie meinen Teil nicht auch noch übernehmen würden. War berechtigt. Mitte Dezember habe ich dann in einem Notizbuch ausgerechnet, welche Leistungen und welche Noten ich in zwei Klausuren noch brauchte. Da war Paris kurz weniger entspannt."
+    },
+    {
+      "rank": 9,
+      "score": 2.2315,
+      "base_score": 2.2315,
+      "document_id": "p13_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Bei der Kurswahl hatte ich mich für Webentwicklung, Datenbanken, Grundlagen der KI und einen Französischkurs entschieden. Die Unterrichtssprache war Englisch, was für mich grundsätzlich gut funktioniert hat.\n Die Einschreibung und das Learning Agreement waren trotzdem nicht ganz einfach, weil sich manche Informationen für mich widersprochen haben oder nicht rechtzeitig kamen. Ich sollte ungefähr 30 ECTS erreichen. Bei der Anerkennung musste ich deshalb relativ genau mit meiner Heimathochschule abgleichen, welche Kurse angerechnet werden können."
+    },
+    {
+      "rank": 10,
+      "score": 2.2164,
+      "base_score": 2.2164,
+      "document_id": "p15_q4",
+      "source_type": "interview",
+      "topic": "",
+      "text": "Ich hatte Web Applications, Intro to Data Science, Human-Computer Interaction und Französisch für Anfänger gewählt. Angemeldet war ich für 30 ECTS. Bei der Einschreibung fehlte zwischendurch noch die aktuelle Version meines Learning Agreements. Das war eher mein Fehler als ein kompliziertes Verfahren. Was genau Groningen später anerkennt, musste ich mit der dortigen Koordination klären. Ich wollte vor allem vermeiden, mit zu wenig bestandenen Leistungen zurückzukommen."
+    }
+  ]
+}
