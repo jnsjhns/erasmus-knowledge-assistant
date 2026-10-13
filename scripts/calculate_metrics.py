@@ -14,14 +14,14 @@ RELEVANT_THRESHOLD = 3
 
 
 def load_json(path: Path) -> dict:
-    """Lädt eine JSON-Datei mit UTF-8-Encoding."""
+    """Load a JSON file using UTF-8 encoding."""
     with path.open("r", encoding="utf-8") as file:
         return json.load(file)
 
 
 def calculate_dcg(relevance_scores: list[int]) -> float:
     """
-    Berechnet DCG@K mit exponentiellem Gain:
+    Calculate DCG@K using exponential gain:
     gain = 2^relevance - 1.
     """
     return sum(
@@ -32,8 +32,8 @@ def calculate_dcg(relevance_scores: list[int]) -> float:
 
 def get_document_ids(search_result: dict) -> list[str]:
     """
-    Liest die BM25-Dokument-IDs aus dem Feld 'results'.
-    Es werden maximal die ersten K Ergebnisse verwendet.
+    Read BM25 document IDs from the 'results' field.
+    Use at most the first K results.
     """
     return [
         result["document_id"]
@@ -43,9 +43,9 @@ def get_document_ids(search_result: dict) -> list[str]:
 
 def calculate_metrics(silver_standard: dict, bm25_result: dict) -> dict:
     """
-    Vergleicht ein BM25-Top-K-Ranking mit dem Silver Standard einer Query.
-    Nicht im Silver Standard gespeicherte Dokumente erhalten implizit
-    den Relevanzscore 0.
+    Compare a BM25 top-K ranking with a query's Silver Standard.
+    Documents not listed in the Silver Standard implicitly receive
+    a relevance score of 0.
     """
     judgments = {
         item["document_id"]: item["relevance_score"]
@@ -59,8 +59,8 @@ def calculate_metrics(silver_standard: dict, bm25_result: dict) -> dict:
         for document_id in retrieved_document_ids
     ]
 
-    # Für echte @10-Metriken: Falls BM25 weniger als K Treffer liefert,
-    # fehlende Plätze als nicht relevant bzw. Relevanzscore 0 behandeln.
+    # For true @10 metrics, treat missing BM25 results as non-relevant
+    # and assign them a relevance score of 0.
     retrieved_relevance_scores.extend(
         [0] * (K - len(retrieved_relevance_scores))
     )
@@ -70,6 +70,24 @@ def calculate_metrics(silver_standard: dict, bm25_result: dict) -> dict:
         for document_id, relevance_score in judgments.items()
         if relevance_score >= RELEVANT_THRESHOLD
     }
+
+    if not relevant_document_ids:
+        return {
+            "query_id": silver_standard["query_id"],
+            "query": silver_standard["query"],
+            "evaluation_status": "excluded_no_relevant_judgments",
+            "num_retrieved": len(retrieved_document_ids),
+            "num_relevant_in_corpus": 0,
+            "relevant_retrieved_at_10": 0,
+            "retrieved_document_ids_at_10": retrieved_document_ids,
+            "retrieved_relevance_scores_at_10": retrieved_relevance_scores,
+            "precision_at_10": None,
+            "recall_at_10": None,
+            "mrr_at_10": None,
+            "dcg_at_10": None,
+            "idcg_at_10": None,
+            "ndcg_at_10": None,
+        }
 
     retrieved_relevant_document_ids = {
         document_id
@@ -130,6 +148,7 @@ def calculate_metrics(silver_standard: dict, bm25_result: dict) -> dict:
     return {
         "query_id": silver_standard["query_id"],
         "query": silver_standard["query"],
+        "evaluation_status": "included",
         "num_retrieved": len(retrieved_document_ids),
         "num_relevant_in_corpus": len(relevant_document_ids),
         "relevant_retrieved_at_10": relevant_retrieved_count,
@@ -147,19 +166,19 @@ def calculate_metrics(silver_standard: dict, bm25_result: dict) -> dict:
 def main():
     if not SILVER_STANDARD_DIR.exists():
         raise FileNotFoundError(
-            f"Silver-Standard-Ordner nicht gefunden: {SILVER_STANDARD_DIR}"
+            f"Silver Standard directory not found: {SILVER_STANDARD_DIR}"
         )
 
     if not BM25_RESULTS_DIR.exists():
         raise FileNotFoundError(
-            f"BM25-Ergebnisordner nicht gefunden: {BM25_RESULTS_DIR}"
+            f"BM25 results directory not found: {BM25_RESULTS_DIR}"
         )
 
     silver_files = sorted(SILVER_STANDARD_DIR.glob("Q*.json"))
 
     if not silver_files:
         raise FileNotFoundError(
-            f"Keine Silver-Standard-Dateien in {SILVER_STANDARD_DIR} gefunden."
+            f"No Silver Standard files found in {SILVER_STANDARD_DIR}."
         )
 
     all_metrics = []
@@ -173,7 +192,7 @@ def main():
         bm25_file = BM25_RESULTS_DIR / f"bm25_{query_id.lower()}_top20.json"
 
         if not bm25_file.exists():
-            print(f"Kein BM25-Ergebnis für {query_id}: {bm25_file.name}")
+            print(f"No BM25 result for {query_id}: {bm25_file.name}")
             missing_bm25_results.append(query_id)
             continue
 
@@ -181,6 +200,13 @@ def main():
 
         metrics = calculate_metrics(silver_standard, bm25_result)
         all_metrics.append(metrics)
+
+        if metrics["evaluation_status"] != "included":
+            print(
+                f"{query_id}: excluded "
+                "(no relevant Silver Standard judgments)"
+            )
+            continue
 
         recall_display = (
             f"{metrics['recall_at_10']:.4f}"
@@ -197,61 +223,87 @@ def main():
 
     if not all_metrics:
         raise ValueError(
-            "Es konnten keine BM25-Ergebnisse gegen den Silver Standard ausgewertet werden."
+            "No BM25 results could be evaluated against the Silver Standard."
+        )
+
+    evaluated_metrics = [
+        item for item in all_metrics
+        if item["evaluation_status"] == "included"
+    ]
+
+    if not evaluated_metrics:
+        raise ValueError(
+            "No queries have relevant Silver Standard judgments."
         )
 
     mean_ndcg_at_10 = sum(
-        item["ndcg_at_10"] for item in all_metrics
-    ) / len(all_metrics)
+        item["ndcg_at_10"] for item in evaluated_metrics
+    ) / len(evaluated_metrics)
 
     mean_precision_at_10 = sum(
-        item["precision_at_10"] for item in all_metrics
-    ) / len(all_metrics)
+        item["precision_at_10"] for item in evaluated_metrics
+    ) / len(evaluated_metrics)
 
-    defined_recalls = [
-        item["recall_at_10"]
-        for item in all_metrics
-        if item["recall_at_10"] is not None
-    ]
-    mean_recall_at_10 = (
-        sum(defined_recalls) / len(defined_recalls)
-        if defined_recalls
-        else None
-    )
+    mean_recall_at_10 = sum(
+        item["recall_at_10"] for item in evaluated_metrics
+    ) / len(evaluated_metrics)
 
     mean_mrr_at_10 = sum(
-        item["mrr_at_10"] for item in all_metrics
-    ) / len(all_metrics)
+        item["mrr_at_10"] for item in evaluated_metrics
+    ) / len(evaluated_metrics)
+
+    excluded_queries = [
+        item["query_id"]
+        for item in all_metrics
+        if item["evaluation_status"] != "included"
+    ]
 
     summary = {
         "retriever": "bm25",
         "k": K,
         "relevant_threshold": RELEVANT_THRESHOLD,
         "relevance_scale": "0-5",
-        "num_queries_evaluated": len(all_metrics),
-        "num_queries_with_defined_recall": len(defined_recalls),
+        "num_queries_available": len(all_metrics),
+        "num_queries_evaluated": len(evaluated_metrics),
+        "excluded_queries": excluded_queries,
         "missing_bm25_results": missing_bm25_results,
         "mean_ndcg_at_10": round(mean_ndcg_at_10, 4),
         "mean_precision_at_10": round(mean_precision_at_10, 4),
-        "mean_recall_at_10": (
-            round(mean_recall_at_10, 4)
-            if mean_recall_at_10 is not None
-            else None
-        ),
+        "mean_recall_at_10": round(mean_recall_at_10, 4),
         "mean_mrr_at_10": round(mean_mrr_at_10, 4),
         "per_query": [
             {
                 **item,
-                "precision_at_10": round(item["precision_at_10"], 4),
+                "precision_at_10": (
+                    round(item["precision_at_10"], 4)
+                    if item["precision_at_10"] is not None
+                    else None
+                ),
                 "recall_at_10": (
                     round(item["recall_at_10"], 4)
                     if item["recall_at_10"] is not None
                     else None
                 ),
-                "mrr_at_10": round(item["mrr_at_10"], 4),
-                "dcg_at_10": round(item["dcg_at_10"], 4),
-                "idcg_at_10": round(item["idcg_at_10"], 4),
-                "ndcg_at_10": round(item["ndcg_at_10"], 4),
+                "mrr_at_10": (
+                    round(item["mrr_at_10"], 4)
+                    if item["mrr_at_10"] is not None
+                    else None
+                ),
+                "dcg_at_10": (
+                    round(item["dcg_at_10"], 4)
+                    if item["dcg_at_10"] is not None
+                    else None
+                ),
+                "idcg_at_10": (
+                    round(item["idcg_at_10"], 4)
+                    if item["idcg_at_10"] is not None
+                    else None
+                ),
+                "ndcg_at_10": (
+                    round(item["ndcg_at_10"], 4)
+                    if item["ndcg_at_10"] is not None
+                    else None
+                ),
             }
             for item in all_metrics
         ],
@@ -262,18 +314,14 @@ def main():
     with METRICS_FILE.open("w", encoding="utf-8") as file:
         json.dump(summary, file, ensure_ascii=False, indent=2)
 
-    print("\nGesamtergebnis:")
-    print(f"Ausgewertete Queries: {len(all_metrics)}")
+    print("\nOverall results:")
+    print(f"Queries evaluated: {len(evaluated_metrics)}")
+    print(f"Queries excluded: {len(excluded_queries)}")
     print(f"Mean nDCG@10:      {mean_ndcg_at_10:.4f}")
     print(f"Mean Precision@10: {mean_precision_at_10:.4f}")
-    mean_recall_display = (
-        f"{mean_recall_at_10:.4f}"
-        if mean_recall_at_10 is not None
-        else "n/a"
-    )
-    print(f"Mean Recall@10:    {mean_recall_display}")
+    print(f"Mean Recall@10:    {mean_recall_at_10:.4f}")
     print(f"Mean MRR@10:       {mean_mrr_at_10:.4f}")
-    print(f"Gespeichert: {METRICS_FILE.relative_to(ROOT)}")
+    print(f"Saved to: {METRICS_FILE.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":

@@ -3,17 +3,21 @@
   "k": 10,
   "relevant_threshold": 3,
   "relevance_scale": "0-5",
-  "num_queries_evaluated": 14,
-  "num_queries_with_defined_recall": 13,
+  "num_queries_available": 14,
+  "num_queries_evaluated": 13,
+  "excluded_queries": [
+    "Q12"
+  ],
   "missing_bm25_results": [],
-  "mean_ndcg_at_10": 0.2403,
-  "mean_precision_at_10": 0.05,
+  "mean_ndcg_at_10": 0.2588,
+  "mean_precision_at_10": 0.0538,
   "mean_recall_at_10": 0.2176,
-  "mean_mrr_at_10": 0.3929,
+  "mean_mrr_at_10": 0.4231,
   "per_query": [
     {
       "query_id": "Q01",
       "query": "wohnung kosten paris",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 10,
       "relevant_retrieved_at_10": 1,
@@ -51,6 +55,7 @@
     {
       "query_id": "Q02",
       "query": "mindestens ects",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 1,
       "relevant_retrieved_at_10": 1,
@@ -88,6 +93,7 @@
     {
       "query_id": "Q03",
       "query": "learning agreement",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 5,
       "relevant_retrieved_at_10": 0,
@@ -125,6 +131,7 @@
     {
       "query_id": "Q04",
       "query": "erasmus förderung",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 2,
       "relevant_retrieved_at_10": 1,
@@ -162,6 +169,7 @@
     {
       "query_id": "Q05",
       "query": "unterrichtsqualität isep",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 4,
       "relevant_retrieved_at_10": 0,
@@ -199,6 +207,7 @@
     {
       "query_id": "Q06",
       "query": "probleme wohnungssuche",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 17,
       "relevant_retrieved_at_10": 2,
@@ -236,6 +245,7 @@
     {
       "query_id": "Q07",
       "query": "französischkurs",
+      "evaluation_status": "included",
       "num_retrieved": 4,
       "num_relevant_in_corpus": 6,
       "relevant_retrieved_at_10": 0,
@@ -267,6 +277,7 @@
     {
       "query_id": "Q08",
       "query": "kontakte zu locals",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 2,
       "relevant_retrieved_at_10": 0,
@@ -304,6 +315,7 @@
     {
       "query_id": "Q09",
       "query": "isep campus lage",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 1,
       "relevant_retrieved_at_10": 1,
@@ -341,6 +353,7 @@
     {
       "query_id": "Q10",
       "query": "notengebung bewertung",
+      "evaluation_status": "included",
       "num_retrieved": 0,
       "num_relevant_in_corpus": 3,
       "relevant_retrieved_at_10": 0,
@@ -367,6 +380,7 @@
     {
       "query_id": "Q11",
       "query": "krankenversicherung in paris",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 1,
       "relevant_retrieved_at_10": 0,
@@ -404,6 +418,7 @@
     {
       "query_id": "Q12",
       "query": "flüge nach paris buchen",
+      "evaluation_status": "excluded_no_relevant_judgments",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 0,
       "relevant_retrieved_at_10": 0,
@@ -431,16 +446,17 @@
         0,
         0
       ],
-      "precision_at_10": 0.0,
+      "precision_at_10": null,
       "recall_at_10": null,
-      "mrr_at_10": 0.0,
-      "dcg_at_10": 0.0,
-      "idcg_at_10": 3.6309,
-      "ndcg_at_10": 0.0
+      "mrr_at_10": null,
+      "dcg_at_10": null,
+      "idcg_at_10": null,
+      "ndcg_at_10": null
     },
     {
       "query_id": "Q13",
       "query": "monatliche ausgaben paris",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 9,
       "relevant_retrieved_at_10": 0,
@@ -478,6 +494,7 @@
     {
       "query_id": "Q14",
       "query": "wenig geld paris erleben",
+      "evaluation_status": "included",
       "num_retrieved": 10,
       "num_relevant_in_corpus": 9,
       "relevant_retrieved_at_10": 1,
